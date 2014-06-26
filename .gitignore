@@ -1,0 +1,8 @@
+experiments/data
+experiments/models
+experiments/packages
+experiments/.idea/
+experiments/scripts/.idea/
+experiments/training_scripts/.idea/
+papers
+	

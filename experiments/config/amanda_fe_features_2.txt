@@ -1,0 +1,10 @@
+/Experiments/tongue_twisters/data_amanda/GC_2_1_14.719.txt
+/Experiments/tongue_twisters/data_amanda/GC_2_1_15.101.txt
+/Experiments/tongue_twisters/data_amanda/GC_2_1_15.410.txt
+/Experiments/tongue_twisters/data_amanda/GC_2_1_15.727.txt
+/Experiments/tongue_twisters/data_amanda/GC_2_1_16.057.txt
+/Experiments/tongue_twisters/data_amanda/GC_2_2_16.619.txt
+/Experiments/tongue_twisters/data_amanda/GC_2_2_16.955.txt
+/Experiments/tongue_twisters/data_amanda/GC_2_2_17.282.txt
+/Experiments/tongue_twisters/data_amanda/GC_2_2_17.626.txt
+/Experiments/tongue_twisters/data_amanda/GC_2_2_17.931.txt
