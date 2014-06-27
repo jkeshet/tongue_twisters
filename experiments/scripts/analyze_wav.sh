@@ -73,7 +73,6 @@ python scripts/predict_vot.py $debug $wav16file $tgfile > data/$basename/$basena
 # generates a log file
 echo -n "$basename, "
 grep confidence data/$basename/$basename.forced_alignment_log | awk '{ printf "%f, ", $2 }' 
-#grep "Predicted VOT" data/$basename/$basename.vot_predictor_log | awk '{printf "%f, ", $6}'
 echo -n `python scripts/alignment_confidence.py $tgfile`", "
 cat data/$basename/$basename.vot
 if [ ! $debug ] ; then

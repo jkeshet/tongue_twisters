@@ -3,6 +3,7 @@ experiments/models
 experiments/packages
 experiments/.idea/
 experiments/scripts/.idea/
+experiments/scripts/textgrid.pyc
 experiments/training_scripts/.idea/
 papers
 	

@@ -487,3 +487,264 @@ speaker= 010 total_vots= 132 (100.0%) good= 114 (86.4%) short= 4 (3.0%) zero= 0 
 speaker= 011 total_vots= 2304 (100.0%) good= 1968 (85.4%) short= 47 (2.0%) zero= 0 (0.0%) prevoiced= 253 (11.0%) bad_alignment= 36 (1.6% , 3 files)
 speaker= 012 total_vots= 1944 (100.0%) good= 1561 (80.3%) short= 16 (0.8%) zero= 0 (0.0%) prevoiced= 103 (5.3%) bad_alignment= 264 (13.6% , 22 files)
 speaker= 014 total_vots= 2304 (100.0%) good= 1903 (82.6%) short= 32 (1.4%) zero= 0 (0.0%) prevoiced= 225 (9.8%) bad_alignment= 144 (6.2% , 12 files)
+speaker= 001 total_vots= 2304 (100.0%) good= 1988 (86.3%) short= 19 (0.8%) zero= 0 (0.0%) prevoiced= 57 (2.5%) bad_alignment= 240 (10.4% , 20 files)
+speaker= 002 total_vots= 2292 (100.0%) good= 1841 (80.3%) short= 49 (2.1%) zero= 0 (0.0%) prevoiced= 198 (8.6%) bad_alignment= 204 (8.9% , 17 files)
+speaker= 003 total_vots= 2292 (100.0%) good= 1879 (82.0%) short= 28 (1.2%) zero= 0 (0.0%) prevoiced= 253 (11.0%) bad_alignment= 132 (5.8% , 11 files)
+speaker= 004 total_vots= 2292 (100.0%) good= 2046 (89.3%) short= 32 (1.4%) zero= 0 (0.0%) prevoiced= 142 (6.2%) bad_alignment= 72 (3.1% , 6 files)
+speaker= 006 total_vots= 2292 (100.0%) good= 1188 (51.8%) short= 117 (5.1%) zero= 0 (0.0%) prevoiced= 195 (8.5%) bad_alignment= 792 (34.6% , 66 files)
+speaker= 007 total_vots= 2304 (100.0%) good= 1990 (86.4%) short= 61 (2.6%) zero= 0 (0.0%) prevoiced= 97 (4.2%) bad_alignment= 156 (6.8% , 13 files)
+speaker= 008 total_vots= 2304 (100.0%) good= 2030 (88.1%) short= 27 (1.2%) zero= 0 (0.0%) prevoiced= 55 (2.4%) bad_alignment= 192 (8.3% , 16 files)
+speaker= 009 total_vots= 2304 (100.0%) good= 1980 (85.9%) short= 40 (1.7%) zero= 0 (0.0%) prevoiced= 164 (7.1%) bad_alignment= 120 (5.2% , 10 files)
+speaker= 010 total_vots= 132 (100.0%) good= 114 (86.4%) short= 4 (3.0%) zero= 0 (0.0%) prevoiced= 2 (1.5%) bad_alignment= 12 (9.1% , 1 files)
+speaker= 011 total_vots= 2304 (100.0%) good= 1968 (85.4%) short= 47 (2.0%) zero= 0 (0.0%) prevoiced= 253 (11.0%) bad_alignment= 36 (1.6% , 3 files)
+speaker= 012 total_vots= 1944 (100.0%) good= 1561 (80.3%) short= 16 (0.8%) zero= 0 (0.0%) prevoiced= 103 (5.3%) bad_alignment= 264 (13.6% , 22 files)
+speaker= 014 total_vots= 2304 (100.0%) good= 1903 (82.6%) short= 32 (1.4%) zero= 0 (0.0%) prevoiced= 225 (9.8%) bad_alignment= 144 (6.2% , 12 files)
+speaker= 015 total_vots= 2304 (100.0%) good= 1904 (82.6%) short= 30 (1.3%) zero= 0 (0.0%) prevoiced= 166 (7.2%) bad_alignment= 204 (8.9% , 17 files)
+speaker= 017 total_vots= 2304 (100.0%) good= 1949 (84.6%) short= 99 (4.3%) zero= 0 (0.0%) prevoiced= 148 (6.4%) bad_alignment= 108 (4.7% , 9 files)
+speaker= 018 total_vots= 2304 (100.0%) good= 1568 (68.1%) short= 35 (1.5%) zero= 0 (0.0%) prevoiced= 605 (26.3%) bad_alignment= 96 (4.2% , 8 files)
+speaker= 019 total_vots= 2304 (100.0%) good= 1164 (50.5%) short= 34 (1.5%) zero= 0 (0.0%) prevoiced= 86 (3.7%) bad_alignment= 1020 (44.3% , 85 files)
+speaker= 020 total_vots= 1944 (100.0%) good= 1503 (77.3%) short= 21 (1.1%) zero= 0 (0.0%) prevoiced= 168 (8.6%) bad_alignment= 252 (13.0% , 21 files)
+speaker= 021 total_vots= 2004 (100.0%) good= 1391 (69.4%) short= 35 (1.7%) zero= 0 (0.0%) prevoiced= 110 (5.5%) bad_alignment= 468 (23.4% , 39 files)
+speaker= 022 total_vots= 2304 (100.0%) good= 2044 (88.7%) short= 40 (1.7%) zero= 0 (0.0%) prevoiced= 64 (2.8%) bad_alignment= 156 (6.8% , 13 files)
+speaker= 023 total_vots= 432 (100.0%) good= 256 (59.3%) short= 15 (3.5%) zero= 0 (0.0%) prevoiced= 29 (6.7%) bad_alignment= 132 (30.6% , 11 files)
+speaker= 024 total_vots= 1740 (100.0%) good= 1527 (87.8%) short= 19 (1.1%) zero= 0 (0.0%) prevoiced= 38 (2.2%) bad_alignment= 156 (9.0% , 13 files)
+speaker= 025 total_vots= 396 (100.0%) good= 273 (68.9%) short= 11 (2.8%) zero= 0 (0.0%) prevoiced= 16 (4.0%) bad_alignment= 96 (24.2% , 8 files)
+speaker= 026 total_vots= 2304 (100.0%) good= 1554 (67.4%) short= 60 (2.6%) zero= 0 (0.0%) prevoiced= 378 (16.4%) bad_alignment= 312 (13.5% , 26 files)
+speaker= 028 total_vots= 2304 (100.0%) good= 1957 (84.9%) short= 28 (1.2%) zero= 0 (0.0%) prevoiced= 91 (3.9%) bad_alignment= 228 (9.9% , 19 files)
+speaker= 029 total_vots= 2304 (100.0%) good= 1945 (84.4%) short= 13 (0.6%) zero= 0 (0.0%) prevoiced= 166 (7.2%) bad_alignment= 180 (7.8% , 15 files)
+speaker= 030 total_vots= 2304 (100.0%) good= 2087 (90.6%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 123 (5.3%) bad_alignment= 72 (3.1% , 6 files)
+speaker= 031 total_vots= 2304 (100.0%) good= 1938 (84.1%) short= 33 (1.4%) zero= 0 (0.0%) prevoiced= 189 (8.2%) bad_alignment= 144 (6.2% , 12 files)
+speaker= 032 total_vots= 660 (100.0%) good= 577 (87.4%) short= 9 (1.4%) zero= 0 (0.0%) prevoiced= 38 (5.8%) bad_alignment= 36 (5.5% , 3 files)
+speaker= 033 total_vots= 504 (100.0%) good= 330 (65.5%) short= 7 (1.4%) zero= 0 (0.0%) prevoiced= 71 (14.1%) bad_alignment= 96 (19.0% , 8 files)
+speaker= 034 total_vots= 2304 (100.0%) good= 2076 (90.1%) short= 71 (3.1%) zero= 0 (0.0%) prevoiced= 85 (3.7%) bad_alignment= 72 (3.1% , 6 files)
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('final_stats', '/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m', 46)" style="font-weight:bold">final_stats</a> (<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',46,0)">line 46</a>)
+        vot_score = log_data{j}(i);
+} 
+s
+
+s =
+
+    31
+
+speaker_id{s}
+
+ans =
+
+035
+
+dbstop if error
+final_stats
+speaker= 001 total_vots= 2304 (100.0%) good= 1988 (86.3%) short= 19 (0.8%) zero= 0 (0.0%) prevoiced= 57 (2.5%) bad_alignment= 240 (10.4% , 20 files)
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('final_stats', '/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m', 90)" style="font-weight:bold">final_stats</a> (<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',90,0)">line 90</a>)
+
+} 
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',90,1)">90  </a>  pause
+dbquit
+final_stats
+speaker= 001 total_vots= 2304 (100.0%) good= 1988 (86.3%) short= 19 (0.8%) zero= 0 (0.0%) prevoiced= 57 (2.5%) bad_alignment= 240 (10.4% , 20 files)
+speaker= 002 total_vots= 2292 (100.0%) good= 1841 (80.3%) short= 49 (2.1%) zero= 0 (0.0%) prevoiced= 198 (8.6%) bad_alignment= 204 (8.9% , 17 files)
+speaker= 003 total_vots= 2292 (100.0%) good= 1879 (82.0%) short= 28 (1.2%) zero= 0 (0.0%) prevoiced= 253 (11.0%) bad_alignment= 132 (5.8% , 11 files)
+speaker= 004 total_vots= 2292 (100.0%) good= 2046 (89.3%) short= 32 (1.4%) zero= 0 (0.0%) prevoiced= 142 (6.2%) bad_alignment= 72 (3.1% , 6 files)
+speaker= 006 total_vots= 2292 (100.0%) good= 1188 (51.8%) short= 117 (5.1%) zero= 0 (0.0%) prevoiced= 195 (8.5%) bad_alignment= 792 (34.6% , 66 files)
+speaker= 007 total_vots= 2304 (100.0%) good= 1990 (86.4%) short= 61 (2.6%) zero= 0 (0.0%) prevoiced= 97 (4.2%) bad_alignment= 156 (6.8% , 13 files)
+speaker= 008 total_vots= 2304 (100.0%) good= 2030 (88.1%) short= 27 (1.2%) zero= 0 (0.0%) prevoiced= 55 (2.4%) bad_alignment= 192 (8.3% , 16 files)
+speaker= 009 total_vots= 2304 (100.0%) good= 1980 (85.9%) short= 40 (1.7%) zero= 0 (0.0%) prevoiced= 164 (7.1%) bad_alignment= 120 (5.2% , 10 files)
+speaker= 010 total_vots= 132 (100.0%) good= 114 (86.4%) short= 4 (3.0%) zero= 0 (0.0%) prevoiced= 2 (1.5%) bad_alignment= 12 (9.1% , 1 files)
+speaker= 011 total_vots= 2304 (100.0%) good= 1968 (85.4%) short= 47 (2.0%) zero= 0 (0.0%) prevoiced= 253 (11.0%) bad_alignment= 36 (1.6% , 3 files)
+speaker= 012 total_vots= 1944 (100.0%) good= 1561 (80.3%) short= 16 (0.8%) zero= 0 (0.0%) prevoiced= 103 (5.3%) bad_alignment= 264 (13.6% , 22 files)
+speaker= 014 total_vots= 2304 (100.0%) good= 1903 (82.6%) short= 32 (1.4%) zero= 0 (0.0%) prevoiced= 225 (9.8%) bad_alignment= 144 (6.2% , 12 files)
+speaker= 015 total_vots= 2304 (100.0%) good= 1904 (82.6%) short= 30 (1.3%) zero= 0 (0.0%) prevoiced= 166 (7.2%) bad_alignment= 204 (8.9% , 17 files)
+speaker= 017 total_vots= 2304 (100.0%) good= 1949 (84.6%) short= 99 (4.3%) zero= 0 (0.0%) prevoiced= 148 (6.4%) bad_alignment= 108 (4.7% , 9 files)
+speaker= 018 total_vots= 2304 (100.0%) good= 1568 (68.1%) short= 35 (1.5%) zero= 0 (0.0%) prevoiced= 605 (26.3%) bad_alignment= 96 (4.2% , 8 files)
+speaker= 019 total_vots= 2304 (100.0%) good= 1164 (50.5%) short= 34 (1.5%) zero= 0 (0.0%) prevoiced= 86 (3.7%) bad_alignment= 1020 (44.3% , 85 files)
+speaker= 020 total_vots= 1944 (100.0%) good= 1503 (77.3%) short= 21 (1.1%) zero= 0 (0.0%) prevoiced= 168 (8.6%) bad_alignment= 252 (13.0% , 21 files)
+speaker= 021 total_vots= 2004 (100.0%) good= 1391 (69.4%) short= 35 (1.7%) zero= 0 (0.0%) prevoiced= 110 (5.5%) bad_alignment= 468 (23.4% , 39 files)
+speaker= 022 total_vots= 2304 (100.0%) good= 2044 (88.7%) short= 40 (1.7%) zero= 0 (0.0%) prevoiced= 64 (2.8%) bad_alignment= 156 (6.8% , 13 files)
+speaker= 023 total_vots= 432 (100.0%) good= 256 (59.3%) short= 15 (3.5%) zero= 0 (0.0%) prevoiced= 29 (6.7%) bad_alignment= 132 (30.6% , 11 files)
+speaker= 024 total_vots= 1740 (100.0%) good= 1527 (87.8%) short= 19 (1.1%) zero= 0 (0.0%) prevoiced= 38 (2.2%) bad_alignment= 156 (9.0% , 13 files)
+speaker= 025 total_vots= 396 (100.0%) good= 273 (68.9%) short= 11 (2.8%) zero= 0 (0.0%) prevoiced= 16 (4.0%) bad_alignment= 96 (24.2% , 8 files)
+speaker= 026 total_vots= 2304 (100.0%) good= 1554 (67.4%) short= 60 (2.6%) zero= 0 (0.0%) prevoiced= 378 (16.4%) bad_alignment= 312 (13.5% , 26 files)
+speaker= 028 total_vots= 2304 (100.0%) good= 1957 (84.9%) short= 28 (1.2%) zero= 0 (0.0%) prevoiced= 91 (3.9%) bad_alignment= 228 (9.9% , 19 files)
+speaker= 029 total_vots= 2304 (100.0%) good= 1945 (84.4%) short= 13 (0.6%) zero= 0 (0.0%) prevoiced= 166 (7.2%) bad_alignment= 180 (7.8% , 15 files)
+speaker= 030 total_vots= 2304 (100.0%) good= 2087 (90.6%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 123 (5.3%) bad_alignment= 72 (3.1% , 6 files)
+speaker= 031 total_vots= 2304 (100.0%) good= 1938 (84.1%) short= 33 (1.4%) zero= 0 (0.0%) prevoiced= 189 (8.2%) bad_alignment= 144 (6.2% , 12 files)
+speaker= 032 total_vots= 660 (100.0%) good= 577 (87.4%) short= 9 (1.4%) zero= 0 (0.0%) prevoiced= 38 (5.8%) bad_alignment= 36 (5.5% , 3 files)
+speaker= 033 total_vots= 504 (100.0%) good= 330 (65.5%) short= 7 (1.4%) zero= 0 (0.0%) prevoiced= 71 (14.1%) bad_alignment= 96 (19.0% , 8 files)
+speaker= 034 total_vots= 2304 (100.0%) good= 2076 (90.1%) short= 71 (3.1%) zero= 0 (0.0%) prevoiced= 85 (3.7%) bad_alignment= 72 (3.1% , 6 files)
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('final_stats', '/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m', 46)" style="font-weight:bold">final_stats</a> (<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',46,0)">line 46</a>)
+        vot_score = log_data{j}(i);
+} 
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',46,1)">46  </a>        vot_score = log_data{j}(i);
+j
+
+j =
+
+    26
+
+i
+
+i =
+
+   110
+
+final_stats
+speaker= 001 total_vots= 2304 (100.0%) good= 1988 (86.3%) short= 19 (0.8%) zero= 0 (0.0%) prevoiced= 57 (2.5%) bad_alignment= 240 (10.4% , 20 files)
+speaker= 002 total_vots= 2292 (100.0%) good= 1841 (80.3%) short= 49 (2.1%) zero= 0 (0.0%) prevoiced= 198 (8.6%) bad_alignment= 204 (8.9% , 17 files)
+speaker= 003 total_vots= 2292 (100.0%) good= 1879 (82.0%) short= 28 (1.2%) zero= 0 (0.0%) prevoiced= 253 (11.0%) bad_alignment= 132 (5.8% , 11 files)
+speaker= 004 total_vots= 2292 (100.0%) good= 2046 (89.3%) short= 32 (1.4%) zero= 0 (0.0%) prevoiced= 142 (6.2%) bad_alignment= 72 (3.1% , 6 files)
+speaker= 006 total_vots= 2292 (100.0%) good= 1188 (51.8%) short= 117 (5.1%) zero= 0 (0.0%) prevoiced= 195 (8.5%) bad_alignment= 792 (34.6% , 66 files)
+speaker= 007 total_vots= 2304 (100.0%) good= 1990 (86.4%) short= 61 (2.6%) zero= 0 (0.0%) prevoiced= 97 (4.2%) bad_alignment= 156 (6.8% , 13 files)
+speaker= 008 total_vots= 2304 (100.0%) good= 2030 (88.1%) short= 27 (1.2%) zero= 0 (0.0%) prevoiced= 55 (2.4%) bad_alignment= 192 (8.3% , 16 files)
+speaker= 009 total_vots= 2304 (100.0%) good= 1980 (85.9%) short= 40 (1.7%) zero= 0 (0.0%) prevoiced= 164 (7.1%) bad_alignment= 120 (5.2% , 10 files)
+speaker= 010 total_vots= 132 (100.0%) good= 114 (86.4%) short= 4 (3.0%) zero= 0 (0.0%) prevoiced= 2 (1.5%) bad_alignment= 12 (9.1% , 1 files)
+speaker= 011 total_vots= 2304 (100.0%) good= 1968 (85.4%) short= 47 (2.0%) zero= 0 (0.0%) prevoiced= 253 (11.0%) bad_alignment= 36 (1.6% , 3 files)
+speaker= 012 total_vots= 1944 (100.0%) good= 1561 (80.3%) short= 16 (0.8%) zero= 0 (0.0%) prevoiced= 103 (5.3%) bad_alignment= 264 (13.6% , 22 files)
+speaker= 014 total_vots= 2304 (100.0%) good= 1903 (82.6%) short= 32 (1.4%) zero= 0 (0.0%) prevoiced= 225 (9.8%) bad_alignment= 144 (6.2% , 12 files)
+speaker= 015 total_vots= 2304 (100.0%) good= 1904 (82.6%) short= 30 (1.3%) zero= 0 (0.0%) prevoiced= 166 (7.2%) bad_alignment= 204 (8.9% , 17 files)
+speaker= 017 total_vots= 2304 (100.0%) good= 1949 (84.6%) short= 99 (4.3%) zero= 0 (0.0%) prevoiced= 148 (6.4%) bad_alignment= 108 (4.7% , 9 files)
+speaker= 018 total_vots= 2304 (100.0%) good= 1568 (68.1%) short= 35 (1.5%) zero= 0 (0.0%) prevoiced= 605 (26.3%) bad_alignment= 96 (4.2% , 8 files)
+speaker= 019 total_vots= 2304 (100.0%) good= 1164 (50.5%) short= 34 (1.5%) zero= 0 (0.0%) prevoiced= 86 (3.7%) bad_alignment= 1020 (44.3% , 85 files)
+speaker= 020 total_vots= 1944 (100.0%) good= 1503 (77.3%) short= 21 (1.1%) zero= 0 (0.0%) prevoiced= 168 (8.6%) bad_alignment= 252 (13.0% , 21 files)
+speaker= 021 total_vots= 2004 (100.0%) good= 1391 (69.4%) short= 35 (1.7%) zero= 0 (0.0%) prevoiced= 110 (5.5%) bad_alignment= 468 (23.4% , 39 files)
+speaker= 022 total_vots= 2304 (100.0%) good= 2044 (88.7%) short= 40 (1.7%) zero= 0 (0.0%) prevoiced= 64 (2.8%) bad_alignment= 156 (6.8% , 13 files)
+speaker= 023 total_vots= 432 (100.0%) good= 256 (59.3%) short= 15 (3.5%) zero= 0 (0.0%) prevoiced= 29 (6.7%) bad_alignment= 132 (30.6% , 11 files)
+speaker= 024 total_vots= 1740 (100.0%) good= 1527 (87.8%) short= 19 (1.1%) zero= 0 (0.0%) prevoiced= 38 (2.2%) bad_alignment= 156 (9.0% , 13 files)
+speaker= 025 total_vots= 396 (100.0%) good= 273 (68.9%) short= 11 (2.8%) zero= 0 (0.0%) prevoiced= 16 (4.0%) bad_alignment= 96 (24.2% , 8 files)
+speaker= 026 total_vots= 2304 (100.0%) good= 1554 (67.4%) short= 60 (2.6%) zero= 0 (0.0%) prevoiced= 378 (16.4%) bad_alignment= 312 (13.5% , 26 files)
+speaker= 028 total_vots= 2304 (100.0%) good= 1957 (84.9%) short= 28 (1.2%) zero= 0 (0.0%) prevoiced= 91 (3.9%) bad_alignment= 228 (9.9% , 19 files)
+speaker= 029 total_vots= 2304 (100.0%) good= 1945 (84.4%) short= 13 (0.6%) zero= 0 (0.0%) prevoiced= 166 (7.2%) bad_alignment= 180 (7.8% , 15 files)
+speaker= 030 total_vots= 2304 (100.0%) good= 2087 (90.6%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 123 (5.3%) bad_alignment= 72 (3.1% , 6 files)
+speaker= 031 total_vots= 2304 (100.0%) good= 1938 (84.1%) short= 33 (1.4%) zero= 0 (0.0%) prevoiced= 189 (8.2%) bad_alignment= 144 (6.2% , 12 files)
+speaker= 032 total_vots= 660 (100.0%) good= 577 (87.4%) short= 9 (1.4%) zero= 0 (0.0%) prevoiced= 38 (5.8%) bad_alignment= 36 (5.5% , 3 files)
+speaker= 033 total_vots= 504 (100.0%) good= 330 (65.5%) short= 7 (1.4%) zero= 0 (0.0%) prevoiced= 71 (14.1%) bad_alignment= 96 (19.0% , 8 files)
+speaker= 034 total_vots= 2304 (100.0%) good= 2076 (90.1%) short= 71 (3.1%) zero= 0 (0.0%) prevoiced= 85 (3.7%) bad_alignment= 72 (3.1% , 6 files)
+speaker= 036 total_vots= 1368 (100.0%) good= 1103 (80.6%) short= 13 (1.0%) zero= 0 (0.0%) prevoiced= 96 (7.0%) bad_alignment= 156 (11.4% , 13 files)
+speaker= 037 total_vots= 2304 (100.0%) good= 1823 (79.1%) short= 68 (3.0%) zero= 0 (0.0%) prevoiced= 197 (8.6%) bad_alignment= 216 (9.4% , 18 files)
+speaker= 038 total_vots= 2304 (100.0%) good= 1506 (65.4%) short= 19 (0.8%) zero= 0 (0.0%) prevoiced= 47 (2.0%) bad_alignment= 732 (31.8% , 61 files)
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('final_stats', '/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m', 49)" style="font-weight:bold">final_stats</a> (<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',49,0)">line 49</a>)
+        vot_score = log_data{j}(i);
+} 
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',49,1)">49  </a>        vot_score = log_data{j}(i);
+log_data
+
+log_data = 
+
+  Columns 1 through 8
+
+    {9x1 cell}    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]
+
+  Columns 9 through 16
+
+    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]
+
+  Columns 17 through 24
+
+    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]
+
+  Columns 25 through 27
+
+    [9x1 double]    [8x1 double]    [8x1 double]
+
+log_data
+
+log_data = 
+
+  Columns 1 through 8
+
+    {9x1 cell}    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]
+
+  Columns 9 through 16
+
+    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]
+
+  Columns 17 through 24
+
+    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]    [9x1 double]
+
+  Columns 25 through 27
+
+    [9x1 double]    [8x1 double]    [8x1 double]
+
+final_stats
+speaker= 001 total_vots= 2304 (100.0%) good= 1988 (86.3%) short= 19 (0.8%) zero= 0 (0.0%) prevoiced= 57 (2.5%) bad_alignment= 240 (10.4% , 20 files)
+speaker= 002 total_vots= 2292 (100.0%) good= 1841 (80.3%) short= 49 (2.1%) zero= 0 (0.0%) prevoiced= 198 (8.6%) bad_alignment= 204 (8.9% , 17 files)
+speaker= 003 total_vots= 2292 (100.0%) good= 1879 (82.0%) short= 28 (1.2%) zero= 0 (0.0%) prevoiced= 253 (11.0%) bad_alignment= 132 (5.8% , 11 files)
+speaker= 004 total_vots= 2292 (100.0%) good= 2046 (89.3%) short= 32 (1.4%) zero= 0 (0.0%) prevoiced= 142 (6.2%) bad_alignment= 72 (3.1% , 6 files)
+speaker= 006 total_vots= 2292 (100.0%) good= 1188 (51.8%) short= 117 (5.1%) zero= 0 (0.0%) prevoiced= 195 (8.5%) bad_alignment= 792 (34.6% , 66 files)
+speaker= 007 total_vots= 2304 (100.0%) good= 1990 (86.4%) short= 61 (2.6%) zero= 0 (0.0%) prevoiced= 97 (4.2%) bad_alignment= 156 (6.8% , 13 files)
+speaker= 008 total_vots= 2304 (100.0%) good= 2030 (88.1%) short= 27 (1.2%) zero= 0 (0.0%) prevoiced= 55 (2.4%) bad_alignment= 192 (8.3% , 16 files)
+speaker= 009 total_vots= 2304 (100.0%) good= 1980 (85.9%) short= 40 (1.7%) zero= 0 (0.0%) prevoiced= 164 (7.1%) bad_alignment= 120 (5.2% , 10 files)
+speaker= 010 total_vots= 132 (100.0%) good= 114 (86.4%) short= 4 (3.0%) zero= 0 (0.0%) prevoiced= 2 (1.5%) bad_alignment= 12 (9.1% , 1 files)
+speaker= 011 total_vots= 2304 (100.0%) good= 1968 (85.4%) short= 47 (2.0%) zero= 0 (0.0%) prevoiced= 253 (11.0%) bad_alignment= 36 (1.6% , 3 files)
+speaker= 012 total_vots= 1944 (100.0%) good= 1561 (80.3%) short= 16 (0.8%) zero= 0 (0.0%) prevoiced= 103 (5.3%) bad_alignment= 264 (13.6% , 22 files)
+speaker= 014 total_vots= 2304 (100.0%) good= 1903 (82.6%) short= 32 (1.4%) zero= 0 (0.0%) prevoiced= 225 (9.8%) bad_alignment= 144 (6.2% , 12 files)
+speaker= 015 total_vots= 2304 (100.0%) good= 1904 (82.6%) short= 30 (1.3%) zero= 0 (0.0%) prevoiced= 166 (7.2%) bad_alignment= 204 (8.9% , 17 files)
+speaker= 017 total_vots= 2304 (100.0%) good= 1949 (84.6%) short= 99 (4.3%) zero= 0 (0.0%) prevoiced= 148 (6.4%) bad_alignment= 108 (4.7% , 9 files)
+speaker= 018 total_vots= 2304 (100.0%) good= 1568 (68.1%) short= 35 (1.5%) zero= 0 (0.0%) prevoiced= 605 (26.3%) bad_alignment= 96 (4.2% , 8 files)
+speaker= 019 total_vots= 2304 (100.0%) good= 1164 (50.5%) short= 34 (1.5%) zero= 0 (0.0%) prevoiced= 86 (3.7%) bad_alignment= 1020 (44.3% , 85 files)
+speaker= 020 total_vots= 1944 (100.0%) good= 1503 (77.3%) short= 21 (1.1%) zero= 0 (0.0%) prevoiced= 168 (8.6%) bad_alignment= 252 (13.0% , 21 files)
+speaker= 021 total_vots= 2004 (100.0%) good= 1391 (69.4%) short= 35 (1.7%) zero= 0 (0.0%) prevoiced= 110 (5.5%) bad_alignment= 468 (23.4% , 39 files)
+speaker= 022 total_vots= 2304 (100.0%) good= 2044 (88.7%) short= 40 (1.7%) zero= 0 (0.0%) prevoiced= 64 (2.8%) bad_alignment= 156 (6.8% , 13 files)
+speaker= 023 total_vots= 432 (100.0%) good= 256 (59.3%) short= 15 (3.5%) zero= 0 (0.0%) prevoiced= 29 (6.7%) bad_alignment= 132 (30.6% , 11 files)
+speaker= 024 total_vots= 1740 (100.0%) good= 1527 (87.8%) short= 19 (1.1%) zero= 0 (0.0%) prevoiced= 38 (2.2%) bad_alignment= 156 (9.0% , 13 files)
+speaker= 025 total_vots= 396 (100.0%) good= 273 (68.9%) short= 11 (2.8%) zero= 0 (0.0%) prevoiced= 16 (4.0%) bad_alignment= 96 (24.2% , 8 files)
+speaker= 026 total_vots= 2304 (100.0%) good= 1554 (67.4%) short= 60 (2.6%) zero= 0 (0.0%) prevoiced= 378 (16.4%) bad_alignment= 312 (13.5% , 26 files)
+speaker= 028 total_vots= 2304 (100.0%) good= 1957 (84.9%) short= 28 (1.2%) zero= 0 (0.0%) prevoiced= 91 (3.9%) bad_alignment= 228 (9.9% , 19 files)
+speaker= 029 total_vots= 2304 (100.0%) good= 1945 (84.4%) short= 13 (0.6%) zero= 0 (0.0%) prevoiced= 166 (7.2%) bad_alignment= 180 (7.8% , 15 files)
+speaker= 030 total_vots= 2304 (100.0%) good= 2087 (90.6%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 123 (5.3%) bad_alignment= 72 (3.1% , 6 files)
+speaker= 031 total_vots= 2304 (100.0%) good= 1938 (84.1%) short= 33 (1.4%) zero= 0 (0.0%) prevoiced= 189 (8.2%) bad_alignment= 144 (6.2% , 12 files)
+speaker= 032 total_vots= 660 (100.0%) good= 577 (87.4%) short= 9 (1.4%) zero= 0 (0.0%) prevoiced= 38 (5.8%) bad_alignment= 36 (5.5% , 3 files)
+speaker= 033 total_vots= 504 (100.0%) good= 330 (65.5%) short= 7 (1.4%) zero= 0 (0.0%) prevoiced= 71 (14.1%) bad_alignment= 96 (19.0% , 8 files)
+speaker= 034 total_vots= 2304 (100.0%) good= 2076 (90.1%) short= 71 (3.1%) zero= 0 (0.0%) prevoiced= 85 (3.7%) bad_alignment= 72 (3.1% , 6 files)
+speaker= 036 total_vots= 1368 (100.0%) good= 1103 (80.6%) short= 13 (1.0%) zero= 0 (0.0%) prevoiced= 96 (7.0%) bad_alignment= 156 (11.4% , 13 files)
+speaker= 037 total_vots= 2304 (100.0%) good= 1823 (79.1%) short= 68 (3.0%) zero= 0 (0.0%) prevoiced= 197 (8.6%) bad_alignment= 216 (9.4% , 18 files)
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('final_stats', '/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m', 49)" style="font-weight:bold">final_stats</a> (<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',49,0)">line 49</a>)
+        vot_score = log_data{j}(i);
+} 
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',49,1)">49  </a>        vot_score = log_data{j}(i);
+final_stats
+speaker= 001 total_vots= 2304 (100.0%) good= 1988 (86.3%) short= 19 (0.8%) zero= 0 (0.0%) prevoiced= 57 (2.5%) bad_alignment= 240 (10.4% , 20 files)
+speaker= 002 total_vots= 2292 (100.0%) good= 1841 (80.3%) short= 49 (2.1%) zero= 0 (0.0%) prevoiced= 198 (8.6%) bad_alignment= 204 (8.9% , 17 files)
+speaker= 003 total_vots= 2292 (100.0%) good= 1879 (82.0%) short= 28 (1.2%) zero= 0 (0.0%) prevoiced= 253 (11.0%) bad_alignment= 132 (5.8% , 11 files)
+speaker= 004 total_vots= 2292 (100.0%) good= 2046 (89.3%) short= 32 (1.4%) zero= 0 (0.0%) prevoiced= 142 (6.2%) bad_alignment= 72 (3.1% , 6 files)
+speaker= 006 total_vots= 2292 (100.0%) good= 1188 (51.8%) short= 117 (5.1%) zero= 0 (0.0%) prevoiced= 195 (8.5%) bad_alignment= 792 (34.6% , 66 files)
+speaker= 007 total_vots= 2304 (100.0%) good= 1990 (86.4%) short= 61 (2.6%) zero= 0 (0.0%) prevoiced= 97 (4.2%) bad_alignment= 156 (6.8% , 13 files)
+speaker= 008 total_vots= 2304 (100.0%) good= 2030 (88.1%) short= 27 (1.2%) zero= 0 (0.0%) prevoiced= 55 (2.4%) bad_alignment= 192 (8.3% , 16 files)
+speaker= 009 total_vots= 2304 (100.0%) good= 1980 (85.9%) short= 40 (1.7%) zero= 0 (0.0%) prevoiced= 164 (7.1%) bad_alignment= 120 (5.2% , 10 files)
+speaker= 010 total_vots= 132 (100.0%) good= 114 (86.4%) short= 4 (3.0%) zero= 0 (0.0%) prevoiced= 2 (1.5%) bad_alignment= 12 (9.1% , 1 files)
+speaker= 011 total_vots= 2304 (100.0%) good= 1968 (85.4%) short= 47 (2.0%) zero= 0 (0.0%) prevoiced= 253 (11.0%) bad_alignment= 36 (1.6% , 3 files)
+speaker= 012 total_vots= 1944 (100.0%) good= 1561 (80.3%) short= 16 (0.8%) zero= 0 (0.0%) prevoiced= 103 (5.3%) bad_alignment= 264 (13.6% , 22 files)
+speaker= 014 total_vots= 2304 (100.0%) good= 1903 (82.6%) short= 32 (1.4%) zero= 0 (0.0%) prevoiced= 225 (9.8%) bad_alignment= 144 (6.2% , 12 files)
+speaker= 015 total_vots= 2304 (100.0%) good= 1904 (82.6%) short= 30 (1.3%) zero= 0 (0.0%) prevoiced= 166 (7.2%) bad_alignment= 204 (8.9% , 17 files)
+speaker= 017 total_vots= 2304 (100.0%) good= 1949 (84.6%) short= 99 (4.3%) zero= 0 (0.0%) prevoiced= 148 (6.4%) bad_alignment= 108 (4.7% , 9 files)
+speaker= 018 total_vots= 2304 (100.0%) good= 1568 (68.1%) short= 35 (1.5%) zero= 0 (0.0%) prevoiced= 605 (26.3%) bad_alignment= 96 (4.2% , 8 files)
+speaker= 019 total_vots= 2304 (100.0%) good= 1164 (50.5%) short= 34 (1.5%) zero= 0 (0.0%) prevoiced= 86 (3.7%) bad_alignment= 1020 (44.3% , 85 files)
+speaker= 020 total_vots= 1944 (100.0%) good= 1503 (77.3%) short= 21 (1.1%) zero= 0 (0.0%) prevoiced= 168 (8.6%) bad_alignment= 252 (13.0% , 21 files)
+speaker= 021 total_vots= 2004 (100.0%) good= 1391 (69.4%) short= 35 (1.7%) zero= 0 (0.0%) prevoiced= 110 (5.5%) bad_alignment= 468 (23.4% , 39 files)
+speaker= 022 total_vots= 2304 (100.0%) good= 2044 (88.7%) short= 40 (1.7%) zero= 0 (0.0%) prevoiced= 64 (2.8%) bad_alignment= 156 (6.8% , 13 files)
+speaker= 023 total_vots= 432 (100.0%) good= 256 (59.3%) short= 15 (3.5%) zero= 0 (0.0%) prevoiced= 29 (6.7%) bad_alignment= 132 (30.6% , 11 files)
+speaker= 024 total_vots= 1740 (100.0%) good= 1527 (87.8%) short= 19 (1.1%) zero= 0 (0.0%) prevoiced= 38 (2.2%) bad_alignment= 156 (9.0% , 13 files)
+speaker= 025 total_vots= 396 (100.0%) good= 273 (68.9%) short= 11 (2.8%) zero= 0 (0.0%) prevoiced= 16 (4.0%) bad_alignment= 96 (24.2% , 8 files)
+speaker= 026 total_vots= 2304 (100.0%) good= 1554 (67.4%) short= 60 (2.6%) zero= 0 (0.0%) prevoiced= 378 (16.4%) bad_alignment= 312 (13.5% , 26 files)
+speaker= 028 total_vots= 2304 (100.0%) good= 1957 (84.9%) short= 28 (1.2%) zero= 0 (0.0%) prevoiced= 91 (3.9%) bad_alignment= 228 (9.9% , 19 files)
+speaker= 029 total_vots= 2304 (100.0%) good= 1945 (84.4%) short= 13 (0.6%) zero= 0 (0.0%) prevoiced= 166 (7.2%) bad_alignment= 180 (7.8% , 15 files)
+speaker= 030 total_vots= 2304 (100.0%) good= 2087 (90.6%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 123 (5.3%) bad_alignment= 72 (3.1% , 6 files)
+speaker= 031 total_vots= 2304 (100.0%) good= 1938 (84.1%) short= 33 (1.4%) zero= 0 (0.0%) prevoiced= 189 (8.2%) bad_alignment= 144 (6.2% , 12 files)
+speaker= 032 total_vots= 660 (100.0%) good= 577 (87.4%) short= 9 (1.4%) zero= 0 (0.0%) prevoiced= 38 (5.8%) bad_alignment= 36 (5.5% , 3 files)
+speaker= 033 total_vots= 504 (100.0%) good= 330 (65.5%) short= 7 (1.4%) zero= 0 (0.0%) prevoiced= 71 (14.1%) bad_alignment= 96 (19.0% , 8 files)
+speaker= 034 total_vots= 2304 (100.0%) good= 2076 (90.1%) short= 71 (3.1%) zero= 0 (0.0%) prevoiced= 85 (3.7%) bad_alignment= 72 (3.1% , 6 files)
+speaker= 036 total_vots= 1368 (100.0%) good= 1103 (80.6%) short= 13 (1.0%) zero= 0 (0.0%) prevoiced= 96 (7.0%) bad_alignment= 156 (11.4% , 13 files)
+speaker= 037 total_vots= 2304 (100.0%) good= 1823 (79.1%) short= 68 (3.0%) zero= 0 (0.0%) prevoiced= 197 (8.6%) bad_alignment= 216 (9.4% , 18 files)
+speaker= 040 total_vots= 2304 (100.0%) good= 2097 (91.0%) short= 10 (0.4%) zero= 0 (0.0%) prevoiced= 125 (5.4%) bad_alignment= 72 (3.1% , 6 files)
+speaker= 041 total_vots= 1956 (100.0%) good= 1389 (71.0%) short= 75 (3.8%) zero= 0 (0.0%) prevoiced= 312 (16.0%) bad_alignment= 180 (9.2% , 15 files)
+speaker= 042 total_vots= 1080 (100.0%) good= 925 (85.6%) short= 22 (2.0%) zero= 0 (0.0%) prevoiced= 73 (6.8%) bad_alignment= 60 (5.6% , 5 files)
+speaker= 043 total_vots= 2304 (100.0%) good= 1787 (77.6%) short= 17 (0.7%) zero= 0 (0.0%) prevoiced= 392 (17.0%) bad_alignment= 108 (4.7% , 9 files)
+speaker= 046 total_vots= 2304 (100.0%) good= 1780 (77.3%) short= 43 (1.9%) zero= 0 (0.0%) prevoiced= 97 (4.2%) bad_alignment= 384 (16.7% , 32 files)
