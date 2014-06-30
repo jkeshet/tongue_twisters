@@ -748,3 +748,6 @@ speaker= 041 total_vots= 1956 (100.0%) good= 1389 (71.0%) short= 75 (3.8%) zero=
 speaker= 042 total_vots= 1080 (100.0%) good= 925 (85.6%) short= 22 (2.0%) zero= 0 (0.0%) prevoiced= 73 (6.8%) bad_alignment= 60 (5.6% , 5 files)
 speaker= 043 total_vots= 2304 (100.0%) good= 1787 (77.6%) short= 17 (0.7%) zero= 0 (0.0%) prevoiced= 392 (17.0%) bad_alignment= 108 (4.7% , 9 files)
 speaker= 046 total_vots= 2304 (100.0%) good= 1780 (77.3%) short= 43 (1.9%) zero= 0 (0.0%) prevoiced= 97 (4.2%) bad_alignment= 384 (16.7% , 32 files)
+speaker= 019 total_vots= 2304 (100.0%) good= 1164 (50.5%) short= 34 (1.5%) zero= 0 (0.0%) prevoiced= 86 (3.7%) bad_alignment= 1020 (44.3% , 85 files)
+speaker= 019 total_vots= 2304 (100.0%) good= 1164 (50.5%) short= 34 (1.5%) zero= 0 (0.0%) prevoiced= 86 (3.7%) bad_alignment= 1020 (44.3% , 85 files)
+speaker= 019 total_vots= 2088 (100.0%) good= 1086 (52.0%) short= 40 (1.9%) zero= 0 (0.0%) prevoiced= 14 (0.7%) bad_alignment= 948 (45.4% , 79 files)

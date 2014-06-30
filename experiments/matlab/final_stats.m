@@ -7,9 +7,7 @@ speaker_id = {'001','002','003','004','006','007','008','009','010','011','012',
   '035','036','037','038','039','040','041','042','043','046'};
 
 %speaker_id = {'001','002','003','004','006','007','008','009','010','011','012','014'};
-speaker_id = {'001','002','003','004','006','007','008','009','010','011','012','014','015','017',...
-  '018','019','020','021','022','023','024','025','026','028','029','030','031','032','033','034',...
-  '036','037','040','041','042','043','046'};
+speaker_id = {'019'};
 
 % speakers 035, 038 and 039 have problems in their og files
 
@@ -89,8 +87,8 @@ for s=1:length(speaker_id)
   overall_prevoicing = overall_prevoicing + num_prevoicing;
   
   % plot histogram
-  %%figure(1), hist(vots, num_bins), title(['Speaker ' speaker_id{s}])
-  %%axis([0 0.18 0 350])
+  figure(1), hist(vots, num_bins), title(['Speaker ' speaker_id{s}])
+  axis([0 0.18 0 350])
   %%print('-dpdf',[speaker_id{s} '.pdf'])
   %%pause
 end

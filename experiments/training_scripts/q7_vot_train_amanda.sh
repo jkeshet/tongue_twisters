@@ -22,7 +22,7 @@ fi
 if [ 1 = 1 ] ; then
 	for i in 1 2 3 4 5 6 7 8 9 
 	do
-		auto_vot_extract_features.py --max_num_instances 5 --vot_tier VOT \
+		auto_vot_extract_features.py --max_num_instances 1000 --vot_tier VOT \
 			config/amanda_textgrids_only_speaker_$i.list \
 			config/amanda_wavs_only_speaker_$i.list \
 			config/amanda_fe_input_$i.txt \
@@ -41,12 +41,9 @@ if [ 1 = 1 ] ; then
 	done
 fi
 
+
 if [ 1 = 1 ] ; then
-	for i in 1 2 3 4 5 6 7 8 9 
-	do
-		echo "*** Training and testing speaker $i versus rest ***"
-		auto_vot_train_after_fe.py --log=INFO config/amanda_fe_features.txt config/amanda_fe_labels.txt  \
-			models/vot_amanda.classifier
-	done
+	auto_vot_train_after_fe.py --log=INFO config/amanda_fe_features.txt config/amanda_fe_labels.txt  \
+		models/vot_predictor.amanda.max_num_instances_1000.model
 fi
 
