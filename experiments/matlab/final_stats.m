@@ -6,10 +6,7 @@ speaker_id = {'001','002','003','004','006','007','008','009','010','011','012',
   '018','019','020','021','022','023','024','025','026','028','029','030','031','032','033','034',...
   '035','036','037','038','039','040','041','042','043','046'};
 
-%speaker_id = {'001','002','003','004','006','007','008','009','010','011','012','014'};
-speaker_id = {'019'};
-
-% speakers 035, 038 and 039 have problems in their og files
+speaker_id = {'001','002','003','004','006','007','008','009','010','019'};
 
 overall_vots = 0;
 overall_vot_good = 0;
@@ -20,34 +17,34 @@ overall_prevoicing = 0;
 
 % run over all speakers
 for s=1:length(speaker_id)
-  % load speaker's log file
-  log_filename = ['../logs/Twister_Recordings.' speaker_id{s} '.log'];
-  log_fid = fopen(log_filename, 'rt');
-  log_data = textscan(log_fid, '%s %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f', ...
-    'delimiter', ',');
-  fclose(log_fid);
+   % load speaker's log file
+   log_filename = ['../logs/Twister_Recordings.' speaker_id{s} '.log'];
+%   log_fid = fopen(log_filename, 'rt');
+%   log_data = textscan(log_fid, '%s %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f', ...
+%     'delimiter', ',');
+%   fclose(log_fid);
   
-  % save bad alignment filenames
-  fid = fopen([log_filename '.bad_alignments'], 'wt');
-  
-  % arrange log data in matrix
-  n = numel(log_data);
-  m = numel(log_data{1});
   num_vot_good = 0;
   num_vot_zero = 0;
   num_vot_short = 0;
   num_bad_alignment = 0;
   num_prevoicing = 0;  
-  for i=1:m
-    alignment_confidence = log_data{2}(i);
-    mse_score = log_data{3}(i);
-    if  alignment_confidence > 11.0 || mse_score > 0.003
-      fprintf(fid,'%s\n', cell2mat(log_data{1}(i)));
+  % save bad alignment filenames
+  fid = fopen([log_filename '.bad_alignments'], 'w');
+  fid2 = fopen(log_filename,'r');
+  tline = fgetl(fid2);
+  while ischar(tline)
+    line_fields = strsplit(tline, ',');
+    %disp([ num2str(nn), ' ', num2str(numel(line_fields))])
+    alignment_confidence = str2double(line_fields{2});
+    mse_score = str2double(line_fields{3});
+    if  alignment_confidence > 11.0 || mse_score > 0.00535 % or 0.00306
+      fprintf(fid,'%s\n', line_fields{1});
       num_bad_alignment = num_bad_alignment + 1;
     else
-      for j=4:2:n
-        vot_score = log_data{j}(i);
-        vot_value = log_data{j+1}(i);
+      for j=4:2:numel(line_fields)-1
+        vot_score = str2double(line_fields{j});
+        vot_value = str2double(line_fields{j+1});
         if vot_value == 0
           num_vot_zero = num_vot_zero + 1;
         elseif vot_value <= 0.005
@@ -60,8 +57,10 @@ for s=1:length(speaker_id)
         end
       end
     end
+    % read next line
+    tline = fgetl(fid2);
   end
-  
+  fclose(fid2); % input log file
   fclose(fid); % bad alignment filenames
   
   % check how mant bins of 5msec there are
@@ -87,8 +86,8 @@ for s=1:length(speaker_id)
   overall_prevoicing = overall_prevoicing + num_prevoicing;
   
   % plot histogram
-  figure(1), hist(vots, num_bins), title(['Speaker ' speaker_id{s}])
-  axis([0 0.18 0 350])
+  %%figure(1), hist(vots, num_bins), title(['Speaker ' speaker_id{s}])
+  %%axis([0 0.18 0 350])
   %%print('-dpdf',[speaker_id{s} '.pdf'])
   %%pause
 end

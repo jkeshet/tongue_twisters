@@ -7,8 +7,8 @@ BIN=packages/forced_alignment/bin
 SIGMA=4.3589
 C=1
 B=0.8
-PAD=5
-EPOCHS=3
+PAD=1
+EPOCHS=1
 
 input_list=config/timit_train.mfc
 target_list=config/timit_train.labels

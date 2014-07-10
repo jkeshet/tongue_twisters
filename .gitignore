@@ -5,5 +5,12 @@ experiments/.idea/
 experiments/scripts/.idea/
 experiments/scripts/textgrid.pyc
 experiments/training_scripts/.idea/
+experiments/logs/*log.bak*
+experiments/logs.pad_1.epochs_1
+experiments/logs.pad_5.epochs_1
+experiments/scripts/forced_align.develop.py
+experiments/scripts/filename2phonemes.develop.py
+experiments/scripts/analyze_wav.develop.sh
+experiments/scripts/data/
 papers
-	
+

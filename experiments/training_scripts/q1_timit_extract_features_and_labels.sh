@@ -10,6 +10,8 @@ BIN=packages/forced_alignment/bin
 echo $TIMIT > config/timit_location
 echo $HTK > config/htk_location
 
+if [[ 0 = 1 ]] ; then
+
 # read the TIMIT disk and encode into acoutic features and labels
 mkdir -p $DATA
 for DIR in train test ; do
@@ -55,6 +57,9 @@ tail -n 2196 config/timit_train.labels > config/timit_train_frame_based_classifi
 # files.
 sed "s/labels$/scores/" config/timit_train_frame_based_classifier_1500_rest.labels > config/timit_train_frame_based_classifier_1500_rest.scores
 sed "s/labels$/scores/" config/timit_test.labels > config/timit_test.scores
+
+fi
+
 
 # The rest of the 2196 training files are splitted as follows:
 

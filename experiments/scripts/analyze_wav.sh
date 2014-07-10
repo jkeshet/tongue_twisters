@@ -29,16 +29,11 @@ basename=`basename $wavfile ".wav"`
 wav16file="data/$basename.wav"
 tgfile="data/$basename.TextGrid"
 phonemesfile="data/$basename.phonemes"
+bestalignmentfile="data/$basename.best_alignment"
 
 # make dir data, if does not exist
 mkdir -p data
 cp $wavfile data/
-
-# find the template transciption
-if [ $debug ] ; then
-	echo -e "\n** python scripts/filename2phonemes.py $debug $basename > $phonemesfile"
-fi
-python scripts/filename2phonemes.py $debug $basename > $phonemesfile
 
 # converts WAV to 16kHz
 sampling_rate=`packages/sox/soxi $wavfile | grep "Sample Rate" | awk '{print \$4}'`
@@ -52,15 +47,53 @@ else
 	wav16file="$wavfile"
 fi
 
+/bin/rm -fr $bestalignmentfile
+for i in `seq 7 16`;
+do
+    # find the template transciption
+    if [ $debug ] ; then
+        echo -e "\n** python scripts/filename2phonemes.py --begin $i --end $i $debug $basename > $phonemesfile"
+    fi
+    python scripts/filename2phonemes.py --begin $i --end $i $debug $basename > $phonemesfile
+
+    # forced align the trascription against the WAV file
+    if [ $debug ] ; then
+        echo -e "\n** python scripts/forced_align.py $wav16file $phonemesfile $tgfile"
+    fi
+    python scripts/forced_align.py $debug $wav16file $phonemesfile $tgfile
+
+    # located processing windows based on the forced alignement
+    if [ $debug ] ; then
+        echo -e "\n** python scripts/locate_processing_windows.py $tgfile"
+    fi
+    python scripts/locate_processing_windows.py $debug $tgfile
+
+    if [ $debug ] ; then
+        echo -e "\n** python scripts/alignment_confidence.py $tgfile"
+    fi
+    echo $i, `python scripts/alignment_confidence.py $tgfile` >> $bestalignmentfile
+
+done
+
+best_i=`cat $bestalignmentfile | sort -n -k2 | head -1 | cut -f1 -d,`
+echo "Info: the best alignment found for ${best_i} patterns." >&2
+
+# find the template transciption
+if [ $debug ] ; then
+    echo -e "\n** python scripts/filename2phonemes.py --begin ${best_i} --end ${best_i} $debug $basename >
+    $phonemesfile"
+fi
+python scripts/filename2phonemes.py --begin ${best_i} --end ${best_i} $debug $basename > $phonemesfile
+
 # forced align the trascription against the WAV file
 if [ $debug ] ; then
-	echo -e "\n** python scripts/forced_align.py $wav16file $phonemesfile $tgfile"
+    echo -e "\n** python scripts/forced_align.py $wav16file $phonemesfile $tgfile"
 fi
-python scripts/forced_align.py $wav16file $phonemesfile $tgfile
+python scripts/forced_align.py $debug $wav16file $phonemesfile $tgfile
 
 # located processing windows based on the forced alignement
 if [ $debug ] ; then
-	echo -e "\n** python scripts/locate_processing_windows.py $tgfile"
+    echo -e "\n** python scripts/locate_processing_windows.py $tgfile"
 fi
 python scripts/locate_processing_windows.py $debug $tgfile
 

@@ -751,3 +751,3498 @@ speaker= 046 total_vots= 2304 (100.0%) good= 1780 (77.3%) short= 43 (1.9%) zero=
 speaker= 019 total_vots= 2304 (100.0%) good= 1164 (50.5%) short= 34 (1.5%) zero= 0 (0.0%) prevoiced= 86 (3.7%) bad_alignment= 1020 (44.3% , 85 files)
 speaker= 019 total_vots= 2304 (100.0%) good= 1164 (50.5%) short= 34 (1.5%) zero= 0 (0.0%) prevoiced= 86 (3.7%) bad_alignment= 1020 (44.3% , 85 files)
 speaker= 019 total_vots= 2088 (100.0%) good= 1086 (52.0%) short= 40 (1.9%) zero= 0 (0.0%) prevoiced= 14 (0.7%) bad_alignment= 948 (45.4% , 79 files)
+speaker= 019 total_vots= 492 (100.0%) good= 220 (44.7%) short= 4 (0.8%) zero= 0 (0.0%) prevoiced= 4 (0.8%) bad_alignment= 264 (53.7% , 22 files)
+speaker= 001 total_vots= 2304 (100.0%) good= 1975 (85.7%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 19 (0.8%) bad_alignment= 288 (12.5% , 24 files)
+speaker= 002 total_vots= 1356 (100.0%) good= 1059 (78.1%) short= 41 (3.0%) zero= 0 (0.0%) prevoiced= 64 (4.7%) bad_alignment= 192 (14.2% , 16 files)
+speaker= 003 total_vots= 2292 (100.0%) good= 1960 (85.5%) short= 38 (1.7%) zero= 0 (0.0%) prevoiced= 174 (7.6%) bad_alignment= 120 (5.2% , 10 files)
+speaker= 004 total_vots= 2292 (100.0%) good= 2081 (90.8%) short= 33 (1.4%) zero= 0 (0.0%) prevoiced= 58 (2.5%) bad_alignment= 120 (5.2% , 10 files)
+speaker= 006 total_vots= 2292 (100.0%) good= 1318 (57.5%) short= 97 (4.2%) zero= 0 (0.0%) prevoiced= 49 (2.1%) bad_alignment= 828 (36.1% , 69 files)
+speaker= 007 total_vots= 2304 (100.0%) good= 2022 (87.8%) short= 38 (1.6%) zero= 0 (0.0%) prevoiced= 52 (2.3%) bad_alignment= 192 (8.3% , 16 files)
+speaker= 008 total_vots= 2304 (100.0%) good= 2116 (91.8%) short= 29 (1.3%) zero= 0 (0.0%) prevoiced= 27 (1.2%) bad_alignment= 132 (5.7% , 11 files)
+speaker= 009 total_vots= 2304 (100.0%) good= 2056 (89.2%) short= 55 (2.4%) zero= 0 (0.0%) prevoiced= 37 (1.6%) bad_alignment= 156 (6.8% , 13 files)
+speaker= 010 total_vots= 2304 (100.0%) good= 2102 (91.2%) short= 25 (1.1%) zero= 0 (0.0%) prevoiced= 21 (0.9%) bad_alignment= 156 (6.8% , 13 files)
+speaker= 011 total_vots= 2304 (100.0%) good= 2072 (89.9%) short= 69 (3.0%) zero= 0 (0.0%) prevoiced= 79 (3.4%) bad_alignment= 84 (3.6% , 7 files)
+speaker= 012 total_vots= 2304 (100.0%) good= 1956 (84.9%) short= 19 (0.8%) zero= 0 (0.0%) prevoiced= 29 (1.3%) bad_alignment= 300 (13.0% , 25 files)
+speaker= 014 total_vots= 2304 (100.0%) good= 1953 (84.8%) short= 41 (1.8%) zero= 0 (0.0%) prevoiced= 130 (5.6%) bad_alignment= 180 (7.8% , 15 files)
+speaker= 015 total_vots= 2304 (100.0%) good= 1857 (80.6%) short= 50 (2.2%) zero= 0 (0.0%) prevoiced= 97 (4.2%) bad_alignment= 300 (13.0% , 25 files)
+speaker= 001 total_vots= 2304 (100.0%) good= 1988 (86.3%) short= 19 (0.8%) zero= 0 (0.0%) prevoiced= 57 (2.5%) bad_alignment= 240 (10.4% , 20 files)
+speaker= 002 total_vots= 2292 (100.0%) good= 1841 (80.3%) short= 49 (2.1%) zero= 0 (0.0%) prevoiced= 198 (8.6%) bad_alignment= 204 (8.9% , 17 files)
+speaker= 003 total_vots= 2292 (100.0%) good= 1879 (82.0%) short= 28 (1.2%) zero= 0 (0.0%) prevoiced= 253 (11.0%) bad_alignment= 132 (5.8% , 11 files)
+speaker= 004 total_vots= 2292 (100.0%) good= 2046 (89.3%) short= 32 (1.4%) zero= 0 (0.0%) prevoiced= 142 (6.2%) bad_alignment= 72 (3.1% , 6 files)
+speaker= 006 total_vots= 2292 (100.0%) good= 1188 (51.8%) short= 117 (5.1%) zero= 0 (0.0%) prevoiced= 195 (8.5%) bad_alignment= 792 (34.6% , 66 files)
+speaker= 007 total_vots= 2304 (100.0%) good= 1990 (86.4%) short= 61 (2.6%) zero= 0 (0.0%) prevoiced= 97 (4.2%) bad_alignment= 156 (6.8% , 13 files)
+speaker= 008 total_vots= 2304 (100.0%) good= 2030 (88.1%) short= 27 (1.2%) zero= 0 (0.0%) prevoiced= 55 (2.4%) bad_alignment= 192 (8.3% , 16 files)
+speaker= 009 total_vots= 2304 (100.0%) good= 1980 (85.9%) short= 40 (1.7%) zero= 0 (0.0%) prevoiced= 164 (7.1%) bad_alignment= 120 (5.2% , 10 files)
+speaker= 010 total_vots= 132 (100.0%) good= 114 (86.4%) short= 4 (3.0%) zero= 0 (0.0%) prevoiced= 2 (1.5%) bad_alignment= 12 (9.1% , 1 files)
+speaker= 011 total_vots= 2304 (100.0%) good= 1968 (85.4%) short= 47 (2.0%) zero= 0 (0.0%) prevoiced= 253 (11.0%) bad_alignment= 36 (1.6% , 3 files)
+speaker= 012 total_vots= 1944 (100.0%) good= 1561 (80.3%) short= 16 (0.8%) zero= 0 (0.0%) prevoiced= 103 (5.3%) bad_alignment= 264 (13.6% , 22 files)
+speaker= 014 total_vots= 2304 (100.0%) good= 1903 (82.6%) short= 32 (1.4%) zero= 0 (0.0%) prevoiced= 225 (9.8%) bad_alignment= 144 (6.2% , 12 files)
+speaker= 015 total_vots= 2304 (100.0%) good= 1904 (82.6%) short= 30 (1.3%) zero= 0 (0.0%) prevoiced= 166 (7.2%) bad_alignment= 204 (8.9% , 17 files)
+speaker= 001 total_vots= 2304 (100.0%) good= 1975 (85.7%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 19 (0.8%) bad_alignment= 288 (12.5% , 24 files)
+speaker= 002 total_vots= 1356 (100.0%) good= 1059 (78.1%) short= 41 (3.0%) zero= 0 (0.0%) prevoiced= 64 (4.7%) bad_alignment= 192 (14.2% , 16 files)
+speaker= 003 total_vots= 2292 (100.0%) good= 1960 (85.5%) short= 38 (1.7%) zero= 0 (0.0%) prevoiced= 174 (7.6%) bad_alignment= 120 (5.2% , 10 files)
+speaker= 004 total_vots= 2292 (100.0%) good= 2081 (90.8%) short= 33 (1.4%) zero= 0 (0.0%) prevoiced= 58 (2.5%) bad_alignment= 120 (5.2% , 10 files)
+speaker= 006 total_vots= 2292 (100.0%) good= 1318 (57.5%) short= 97 (4.2%) zero= 0 (0.0%) prevoiced= 49 (2.1%) bad_alignment= 828 (36.1% , 69 files)
+speaker= 007 total_vots= 2304 (100.0%) good= 2022 (87.8%) short= 38 (1.6%) zero= 0 (0.0%) prevoiced= 52 (2.3%) bad_alignment= 192 (8.3% , 16 files)
+speaker= 008 total_vots= 2304 (100.0%) good= 2116 (91.8%) short= 29 (1.3%) zero= 0 (0.0%) prevoiced= 27 (1.2%) bad_alignment= 132 (5.7% , 11 files)
+speaker= 009 total_vots= 2304 (100.0%) good= 2056 (89.2%) short= 55 (2.4%) zero= 0 (0.0%) prevoiced= 37 (1.6%) bad_alignment= 156 (6.8% , 13 files)
+speaker= 010 total_vots= 2304 (100.0%) good= 2102 (91.2%) short= 25 (1.1%) zero= 0 (0.0%) prevoiced= 21 (0.9%) bad_alignment= 156 (6.8% , 13 files)
+speaker= 011 total_vots= 2304 (100.0%) good= 2072 (89.9%) short= 69 (3.0%) zero= 0 (0.0%) prevoiced= 79 (3.4%) bad_alignment= 84 (3.6% , 7 files)
+speaker= 012 total_vots= 2304 (100.0%) good= 1956 (84.9%) short= 19 (0.8%) zero= 0 (0.0%) prevoiced= 29 (1.3%) bad_alignment= 300 (13.0% , 25 files)
+speaker= 014 total_vots= 2304 (100.0%) good= 1953 (84.8%) short= 41 (1.8%) zero= 0 (0.0%) prevoiced= 130 (5.6%) bad_alignment= 180 (7.8% , 15 files)
+speaker= 015 total_vots= 2304 (100.0%) good= 1857 (80.6%) short= 50 (2.2%) zero= 0 (0.0%) prevoiced= 97 (4.2%) bad_alignment= 300 (13.0% , 25 files)
+speaker= 017 total_vots= 2304 (100.0%) good= 1995 (86.6%) short= 68 (3.0%) zero= 0 (0.0%) prevoiced= 109 (4.7%) bad_alignment= 132 (5.7% , 11 files)
+speaker= 018 total_vots= 2304 (100.0%) good= 1540 (66.8%) short= 102 (4.4%) zero= 0 (0.0%) prevoiced= 458 (19.9%) bad_alignment= 204 (8.9% , 17 files)
+
+speaker_id = 
+
+  Columns 1 through 17
+
+    '001'    '002'    '003'    '004'    '006'    '007'    '008'    '009'    '010'    '011'    '012'    '014'    '015'    '017'    '018'    '019'    '020'
+
+  Columns 18 through 26
+
+    '021'    '022'    '023'    '024'    '025'    '026'    '028'    '029'    '030'
+
+speaker= 001 total_vots= 2304 (100.0%) good= 1975 (85.7%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 19 (0.8%) bad_alignment= 288 (12.5% , 24 files)
+speaker= 002 total_vots= 1356 (100.0%) good= 1059 (78.1%) short= 41 (3.0%) zero= 0 (0.0%) prevoiced= 64 (4.7%) bad_alignment= 192 (14.2% , 16 files)
+speaker= 003 total_vots= 2292 (100.0%) good= 1960 (85.5%) short= 38 (1.7%) zero= 0 (0.0%) prevoiced= 174 (7.6%) bad_alignment= 120 (5.2% , 10 files)
+speaker= 004 total_vots= 2292 (100.0%) good= 2081 (90.8%) short= 33 (1.4%) zero= 0 (0.0%) prevoiced= 58 (2.5%) bad_alignment= 120 (5.2% , 10 files)
+speaker= 006 total_vots= 2292 (100.0%) good= 1318 (57.5%) short= 97 (4.2%) zero= 0 (0.0%) prevoiced= 49 (2.1%) bad_alignment= 828 (36.1% , 69 files)
+speaker= 007 total_vots= 2304 (100.0%) good= 2022 (87.8%) short= 38 (1.6%) zero= 0 (0.0%) prevoiced= 52 (2.3%) bad_alignment= 192 (8.3% , 16 files)
+speaker= 008 total_vots= 2304 (100.0%) good= 2116 (91.8%) short= 29 (1.3%) zero= 0 (0.0%) prevoiced= 27 (1.2%) bad_alignment= 132 (5.7% , 11 files)
+speaker= 009 total_vots= 2304 (100.0%) good= 2056 (89.2%) short= 55 (2.4%) zero= 0 (0.0%) prevoiced= 37 (1.6%) bad_alignment= 156 (6.8% , 13 files)
+speaker= 010 total_vots= 2304 (100.0%) good= 2102 (91.2%) short= 25 (1.1%) zero= 0 (0.0%) prevoiced= 21 (0.9%) bad_alignment= 156 (6.8% , 13 files)
+speaker= 011 total_vots= 2304 (100.0%) good= 2072 (89.9%) short= 69 (3.0%) zero= 0 (0.0%) prevoiced= 79 (3.4%) bad_alignment= 84 (3.6% , 7 files)
+speaker= 012 total_vots= 2304 (100.0%) good= 1956 (84.9%) short= 19 (0.8%) zero= 0 (0.0%) prevoiced= 29 (1.3%) bad_alignment= 300 (13.0% , 25 files)
+speaker= 014 total_vots= 2304 (100.0%) good= 1953 (84.8%) short= 41 (1.8%) zero= 0 (0.0%) prevoiced= 130 (5.6%) bad_alignment= 180 (7.8% , 15 files)
+speaker= 015 total_vots= 2304 (100.0%) good= 1857 (80.6%) short= 50 (2.2%) zero= 0 (0.0%) prevoiced= 97 (4.2%) bad_alignment= 300 (13.0% , 25 files)
+speaker= 017 total_vots= 2304 (100.0%) good= 1995 (86.6%) short= 68 (3.0%) zero= 0 (0.0%) prevoiced= 109 (4.7%) bad_alignment= 132 (5.7% , 11 files)
+speaker= 018 total_vots= 2304 (100.0%) good= 1540 (66.8%) short= 102 (4.4%) zero= 0 (0.0%) prevoiced= 458 (19.9%) bad_alignment= 204 (8.9% , 17 files)
+speaker= 019 total_vots= 492 (100.0%) good= 220 (44.7%) short= 4 (0.8%) zero= 0 (0.0%) prevoiced= 4 (0.8%) bad_alignment= 264 (53.7% , 22 files)
+speaker= 020 total_vots= 2304 (100.0%) good= 1861 (80.8%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 133 (5.8%) bad_alignment= 288 (12.5% , 24 files)
+speaker= 021 total_vots= 2304 (100.0%) good= 1736 (75.3%) short= 27 (1.2%) zero= 0 (0.0%) prevoiced= 25 (1.1%) bad_alignment= 516 (22.4% , 43 files)
+speaker= 022 total_vots= 2304 (100.0%) good= 2068 (89.8%) short= 34 (1.5%) zero= 0 (0.0%) prevoiced= 34 (1.5%) bad_alignment= 168 (7.3% , 14 files)
+speaker= 023 total_vots= 1776 (100.0%) good= 789 (44.4%) short= 25 (1.4%) zero= 0 (0.0%) prevoiced= 26 (1.5%) bad_alignment= 936 (52.7% , 78 files)
+speaker= 024 total_vots= 2304 (100.0%) good= 2034 (88.3%) short= 20 (0.9%) zero= 0 (0.0%) prevoiced= 34 (1.5%) bad_alignment= 216 (9.4% , 18 files)
+speaker= 025 total_vots= 396 (100.0%) good= 276 (69.7%) short= 10 (2.5%) zero= 0 (0.0%) prevoiced= 2 (0.5%) bad_alignment= 108 (27.3% , 9 files)
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('final_stats', '/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m', 50)" style="font-weight:bold">final_stats</a> (<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',50,0)">line 50</a>)
+        vot_score = log_data{j}(i);
+} 
+clear all
+clc
+final_stats
+
+speaker_id = 
+
+  Columns 1 through 17
+
+    '001'    '002'    '003'    '004'    '006'    '007'    '008'    '009'    '010'    '011'    '012'    '014'    '015'    '017'    '018'    '019'    '020'
+
+  Columns 18 through 26
+
+    '021'    '022'    '023'    '024'    '025'    '026'    '028'    '029'    '030'
+
+speaker= 001 total_vots= 2304 (100.0%) good= 1988 (86.3%) short= 19 (0.8%) zero= 0 (0.0%) prevoiced= 57 (2.5%) bad_alignment= 240 (10.4% , 20 files)
+speaker= 001 total_vots= 2304 (100.0%) good= 1988 (86.3%) short= 19 (0.8%) zero= 0 (0.0%) prevoiced= 57 (2.5%) bad_alignment= 240 (10.4% , 20 files)
+speaker= 001 total_vots= 2304 (100.0%) good= 1975 (85.7%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 19 (0.8%) bad_alignment= 288 (12.5% , 24 files)
+speaker= 001 total_vots= 2304 (100.0%) good= 1999 (86.8%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 19 (0.8%) bad_alignment= 264 (11.5% , 22 files)
+****
+****
+****
+****
+****
+****
+****
+****
+****
+****
+****
+speaker= 001 total_vots= 2304 (100.0%) good= 1999 (86.8%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 19 (0.8%) bad_alignment= 264 (11.5% , 22 files)
+speaker= 002 total_vots= 1356 (100.0%) good= 1079 (79.6%) short= 41 (3.0%) zero= 0 (0.0%) prevoiced= 68 (5.0%) bad_alignment= 168 (12.4% , 14 files)
+speaker= 001 total_vots= 2304 (100.0%) good= 1999 (86.8%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 19 (0.8%) bad_alignment= 264 (11.5% , 22 files)
+speaker= 002 total_vots= 1356 (100.0%) good= 1079 (79.6%) short= 41 (3.0%) zero= 0 (0.0%) prevoiced= 68 (5.0%) bad_alignment= 168 (12.4% , 14 files)
+speaker= 003 total_vots= 2292 (100.0%) good= 1981 (86.4%) short= 41 (1.8%) zero= 0 (0.0%) prevoiced= 174 (7.6%) bad_alignment= 96 (4.2% , 8 files)
+speaker= 004 total_vots= 2292 (100.0%) good= 2127 (92.8%) short= 34 (1.5%) zero= 0 (0.0%) prevoiced= 59 (2.6%) bad_alignment= 72 (3.1% , 6 files)
+speaker= 006 total_vots= 2292 (100.0%) good= 1413 (61.6%) short= 107 (4.7%) zero= 0 (0.0%) prevoiced= 52 (2.3%) bad_alignment= 720 (31.4% , 60 files)
+speaker= 007 total_vots= 2304 (100.0%) good= 2066 (89.7%) short= 40 (1.7%) zero= 0 (0.0%) prevoiced= 54 (2.3%) bad_alignment= 144 (6.2% , 12 files)
+speaker= 008 total_vots= 2304 (100.0%) good= 2128 (92.4%) short= 29 (1.3%) zero= 0 (0.0%) prevoiced= 27 (1.2%) bad_alignment= 120 (5.2% , 10 files)
+speaker= 009 total_vots= 2304 (100.0%) good= 2101 (91.2%) short= 56 (2.4%) zero= 0 (0.0%) prevoiced= 39 (1.7%) bad_alignment= 108 (4.7% , 9 files)
+speaker= 010 total_vots= 2304 (100.0%) good= 2137 (92.8%) short= 25 (1.1%) zero= 0 (0.0%) prevoiced= 22 (1.0%) bad_alignment= 120 (5.2% , 10 files)
+speaker= 011 total_vots= 2304 (100.0%) good= 2072 (89.9%) short= 69 (3.0%) zero= 0 (0.0%) prevoiced= 79 (3.4%) bad_alignment= 84 (3.6% , 7 files)
+speaker= 012 total_vots= 2304 (100.0%) good= 1968 (85.4%) short= 19 (0.8%) zero= 0 (0.0%) prevoiced= 29 (1.3%) bad_alignment= 288 (12.5% , 24 files)
+speaker= 014 total_vots= 2304 (100.0%) good= 2009 (87.2%) short= 43 (1.9%) zero= 0 (0.0%) prevoiced= 132 (5.7%) bad_alignment= 120 (5.2% , 10 files)
+speaker= 015 total_vots= 2304 (100.0%) good= 1914 (83.1%) short= 53 (2.3%) zero= 0 (0.0%) prevoiced= 97 (4.2%) bad_alignment= 240 (10.4% , 20 files)
+speaker= 017 total_vots= 2304 (100.0%) good= 2017 (87.5%) short= 69 (3.0%) zero= 0 (0.0%) prevoiced= 110 (4.8%) bad_alignment= 108 (4.7% , 9 files)
+speaker= 018 total_vots= 2304 (100.0%) good= 1540 (66.8%) short= 102 (4.4%) zero= 0 (0.0%) prevoiced= 458 (19.9%) bad_alignment= 204 (8.9% , 17 files)
+speaker= 019 total_vots= 492 (100.0%) good= 220 (44.7%) short= 4 (0.8%) zero= 0 (0.0%) prevoiced= 4 (0.8%) bad_alignment= 264 (53.7% , 22 files)
+speaker= 020 total_vots= 2304 (100.0%) good= 1907 (82.8%) short= 23 (1.0%) zero= 0 (0.0%) prevoiced= 134 (5.8%) bad_alignment= 240 (10.4% , 20 files)
+speaker= 021 total_vots= 2304 (100.0%) good= 1802 (78.2%) short= 30 (1.3%) zero= 0 (0.0%) prevoiced= 28 (1.2%) bad_alignment= 444 (19.3% , 37 files)
+speaker= 022 total_vots= 2304 (100.0%) good= 2101 (91.2%) short= 36 (1.6%) zero= 0 (0.0%) prevoiced= 35 (1.5%) bad_alignment= 132 (5.7% , 11 files)
+speaker= 023 total_vots= 1776 (100.0%) good= 905 (51.0%) short= 39 (2.2%) zero= 0 (0.0%) prevoiced= 28 (1.6%) bad_alignment= 804 (45.3% , 67 files)
+speaker= 024 total_vots= 2304 (100.0%) good= 2091 (90.8%) short= 23 (1.0%) zero= 0 (0.0%) prevoiced= 34 (1.5%) bad_alignment= 156 (6.8% , 13 files)
+speaker= 025 total_vots= 396 (100.0%) good= 298 (75.3%) short= 11 (2.8%) zero= 0 (0.0%) prevoiced= 3 (0.8%) bad_alignment= 84 (21.2% , 7 files)
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('final_stats', '/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m', 49)" style="font-weight:bold">final_stats</a> (<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',49,0)">line 49</a>)
+        vot_score = log_data{j}(i);
+} 
+final_stats
+speaker= 001 total_vots= 2304 (100.0%) good= 1999 (86.8%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 19 (0.8%) bad_alignment= 264 (11.5% , 22 files)
+speaker= 002 total_vots= 1356 (100.0%) good= 1079 (79.6%) short= 41 (3.0%) zero= 0 (0.0%) prevoiced= 68 (5.0%) bad_alignment= 168 (12.4% , 14 files)
+speaker= 003 total_vots= 2292 (100.0%) good= 1981 (86.4%) short= 41 (1.8%) zero= 0 (0.0%) prevoiced= 174 (7.6%) bad_alignment= 96 (4.2% , 8 files)
+speaker= 004 total_vots= 2292 (100.0%) good= 2127 (92.8%) short= 34 (1.5%) zero= 0 (0.0%) prevoiced= 59 (2.6%) bad_alignment= 72 (3.1% , 6 files)
+speaker= 006 total_vots= 2292 (100.0%) good= 1413 (61.6%) short= 107 (4.7%) zero= 0 (0.0%) prevoiced= 52 (2.3%) bad_alignment= 720 (31.4% , 60 files)
+speaker= 007 total_vots= 2304 (100.0%) good= 2066 (89.7%) short= 40 (1.7%) zero= 0 (0.0%) prevoiced= 54 (2.3%) bad_alignment= 144 (6.2% , 12 files)
+speaker= 008 total_vots= 2304 (100.0%) good= 2128 (92.4%) short= 29 (1.3%) zero= 0 (0.0%) prevoiced= 27 (1.2%) bad_alignment= 120 (5.2% , 10 files)
+speaker= 009 total_vots= 2304 (100.0%) good= 2101 (91.2%) short= 56 (2.4%) zero= 0 (0.0%) prevoiced= 39 (1.7%) bad_alignment= 108 (4.7% , 9 files)
+speaker= 010 total_vots= 2304 (100.0%) good= 2137 (92.8%) short= 25 (1.1%) zero= 0 (0.0%) prevoiced= 22 (1.0%) bad_alignment= 120 (5.2% , 10 files)
+speaker= 011 total_vots= 2304 (100.0%) good= 2072 (89.9%) short= 69 (3.0%) zero= 0 (0.0%) prevoiced= 79 (3.4%) bad_alignment= 84 (3.6% , 7 files)
+speaker= 012 total_vots= 2304 (100.0%) good= 1968 (85.4%) short= 19 (0.8%) zero= 0 (0.0%) prevoiced= 29 (1.3%) bad_alignment= 288 (12.5% , 24 files)
+speaker= 014 total_vots= 2304 (100.0%) good= 2009 (87.2%) short= 43 (1.9%) zero= 0 (0.0%) prevoiced= 132 (5.7%) bad_alignment= 120 (5.2% , 10 files)
+speaker= 015 total_vots= 2304 (100.0%) good= 1914 (83.1%) short= 53 (2.3%) zero= 0 (0.0%) prevoiced= 97 (4.2%) bad_alignment= 240 (10.4% , 20 files)
+speaker= 017 total_vots= 2304 (100.0%) good= 2017 (87.5%) short= 69 (3.0%) zero= 0 (0.0%) prevoiced= 110 (4.8%) bad_alignment= 108 (4.7% , 9 files)
+speaker= 018 total_vots= 2304 (100.0%) good= 1540 (66.8%) short= 102 (4.4%) zero= 0 (0.0%) prevoiced= 458 (19.9%) bad_alignment= 204 (8.9% , 17 files)
+speaker= 019 total_vots= 492 (100.0%) good= 220 (44.7%) short= 4 (0.8%) zero= 0 (0.0%) prevoiced= 4 (0.8%) bad_alignment= 264 (53.7% , 22 files)
+speaker= 020 total_vots= 2304 (100.0%) good= 1907 (82.8%) short= 23 (1.0%) zero= 0 (0.0%) prevoiced= 134 (5.8%) bad_alignment= 240 (10.4% , 20 files)
+speaker= 021 total_vots= 2304 (100.0%) good= 1802 (78.2%) short= 30 (1.3%) zero= 0 (0.0%) prevoiced= 28 (1.2%) bad_alignment= 444 (19.3% , 37 files)
+speaker= 022 total_vots= 2304 (100.0%) good= 2101 (91.2%) short= 36 (1.6%) zero= 0 (0.0%) prevoiced= 35 (1.5%) bad_alignment= 132 (5.7% , 11 files)
+speaker= 023 total_vots= 1776 (100.0%) good= 905 (51.0%) short= 39 (2.2%) zero= 0 (0.0%) prevoiced= 28 (1.6%) bad_alignment= 804 (45.3% , 67 files)
+speaker= 024 total_vots= 2304 (100.0%) good= 2091 (90.8%) short= 23 (1.0%) zero= 0 (0.0%) prevoiced= 34 (1.5%) bad_alignment= 156 (6.8% , 13 files)
+speaker= 025 total_vots= 396 (100.0%) good= 298 (75.3%) short= 11 (2.8%) zero= 0 (0.0%) prevoiced= 3 (0.8%) bad_alignment= 84 (21.2% , 7 files)
+speaker= 028 total_vots= 2304 (100.0%) good= 1990 (86.4%) short= 15 (0.7%) zero= 0 (0.0%) prevoiced= 59 (2.6%) bad_alignment= 240 (10.4% , 20 files)
+speaker= 029 total_vots= 2304 (100.0%) good= 2008 (87.2%) short= 15 (0.7%) zero= 0 (0.0%) prevoiced= 149 (6.5%) bad_alignment= 132 (5.7% , 11 files)
+speaker= 030 total_vots= 2304 (100.0%) good= 2049 (88.9%) short= 17 (0.7%) zero= 0 (0.0%) prevoiced= 82 (3.6%) bad_alignment= 156 (6.8% , 13 files)
+speaker= 001 total_vots= 1692 (100.0%) good= 1530 (90.4%) short= 15 (0.9%) zero= 0 (0.0%) prevoiced= 15 (0.9%) bad_alignment= 132 (7.8% , 11 files)
+speaker= 002 total_vots= 2292 (100.0%) good= 2001 (87.3%) short= 69 (3.0%) zero= 0 (0.0%) prevoiced= 90 (3.9%) bad_alignment= 132 (5.8% , 11 files)
+speaker= 003 total_vots= 2292 (100.0%) good= 1958 (85.4%) short= 45 (2.0%) zero= 0 (0.0%) prevoiced= 181 (7.9%) bad_alignment= 108 (4.7% , 9 files)
+speaker= 004 total_vots= 2292 (100.0%) good= 2160 (94.2%) short= 41 (1.8%) zero= 0 (0.0%) prevoiced= 55 (2.4%) bad_alignment= 36 (1.6% , 3 files)
+speaker= 006 total_vots= 2292 (100.0%) good= 1458 (63.6%) short= 100 (4.4%) zero= 0 (0.0%) prevoiced= 50 (2.2%) bad_alignment= 684 (29.8% , 57 files)
+speaker= 007 total_vots= 2304 (100.0%) good= 2107 (91.4%) short= 46 (2.0%) zero= 0 (0.0%) prevoiced= 55 (2.4%) bad_alignment= 96 (4.2% , 8 files)
+speaker= 008 total_vots= 1212 (100.0%) good= 1109 (91.5%) short= 15 (1.2%) zero= 0 (0.0%) prevoiced= 16 (1.3%) bad_alignment= 72 (5.9% , 6 files)
+speaker= 009 total_vots= 2304 (100.0%) good= 2122 (92.1%) short= 50 (2.2%) zero= 0 (0.0%) prevoiced= 48 (2.1%) bad_alignment= 84 (3.6% , 7 files)
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('final_stats', '/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m', 50)" style="font-weight:bold">final_stats</a> (<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',50,0)">line 50</a>)
+        vot_score = log_data{j}(i);
+} 
+final_stats
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('final_stats', '/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m', 51)" style="font-weight:bold">final_stats</a> (<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',51,0)">line 51</a>)
+        vot_score = log_data{j}(i);
+} 
+dbstop if error
+final_stats
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('final_stats', '/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m', 51)" style="font-weight:bold">final_stats</a> (<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',51,0)">line 51</a>)
+        vot_score = log_data{j}(i);
+} 
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',51,1)">51  </a>        vot_score = log_data{j}(i);
+final_stats
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',51,1)">51  </a>        vot_score = log_data{j}(i);
+if system_dependent('IsDebugMode')==1, dbquit; end
+final_stats
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('final_stats', '/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m', 51)" style="font-weight:bold">final_stats</a> (<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',51,0)">line 51</a>)
+        vot_score = log_data{j}(i);
+} 
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',51,1)">51  </a>        vot_score = log_data{j}(i);
+final_stats
+speaker= 001 total_vots= 2304 (100.0%) good= 2021 (87.7%) short= 23 (1.0%) zero= 0 (0.0%) prevoiced= 20 (0.9%) bad_alignment= 240 (10.4% , 20 files)
+speaker= 002 total_vots= 2292 (100.0%) good= 2001 (87.3%) short= 69 (3.0%) zero= 0 (0.0%) prevoiced= 90 (3.9%) bad_alignment= 132 (5.8% , 11 files)
+{Error using <a href="matlab:helpUtils.errorDocCallback('figure')" style="font-weight:bold">figure</a>
+UIJ_AreThereWindowShowsPending - timeout waiting for window to show up
+
+Error in <a href="matlab:helpUtils.errorDocCallback('final_stats', '/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m', 87)" style="font-weight:bold">final_stats</a> (<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',87,0)">line 87</a>)
+  figure(1), hist(vots, num_bins), title(['Speaker ' speaker_id{s}])
+} 
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',87,1)">87  </a>  figure(1), hist(vots, num_bins), title(['Speaker ' speaker_id{s}])
+dbquit
+close all
+clear all
+clc
+final_stats
+speaker= 001 total_vots= 2304 (100.0%) good= 2021 (87.7%) short= 23 (1.0%) zero= 0 (0.0%) prevoiced= 20 (0.9%) bad_alignment= 240 (10.4% , 20 files)
+speaker= 002 total_vots= 2292 (100.0%) good= 2001 (87.3%) short= 69 (3.0%) zero= 0 (0.0%) prevoiced= 90 (3.9%) bad_alignment= 132 (5.8% , 11 files)
+speaker= 003 total_vots= 2292 (100.0%) good= 1958 (85.4%) short= 45 (2.0%) zero= 0 (0.0%) prevoiced= 181 (7.9%) bad_alignment= 108 (4.7% , 9 files)
+speaker= 004 total_vots= 2292 (100.0%) good= 2160 (94.2%) short= 41 (1.8%) zero= 0 (0.0%) prevoiced= 55 (2.4%) bad_alignment= 36 (1.6% , 3 files)
+speaker= 001 total_vots= 2304 (100.0%) good= 2021 (87.7%) short= 23 (1.0%) zero= 0 (0.0%) prevoiced= 20 (0.9%) bad_alignment= 240 (10.4% , 20 files)
+speaker= 002 total_vots= 2292 (100.0%) good= 1940 (84.6%) short= 64 (2.8%) zero= 0 (0.0%) prevoiced= 84 (3.7%) bad_alignment= 204 (8.9% , 17 files)
+speaker= 003 total_vots= 2292 (100.0%) good= 1937 (84.5%) short= 43 (1.9%) zero= 0 (0.0%) prevoiced= 180 (7.9%) bad_alignment= 132 (5.8% , 11 files)
+speaker= 004 total_vots= 2292 (100.0%) good= 2124 (92.7%) short= 41 (1.8%) zero= 0 (0.0%) prevoiced= 55 (2.4%) bad_alignment= 72 (3.1% , 6 files)
+speaker= 001 total_vots= 2304 (100.0%) good= 2021 (87.7%) short= 23 (1.0%) zero= 0 (0.0%) prevoiced= 20 (0.9%) bad_alignment= 240 (10.4% , 20 files)
+speaker= 002 total_vots= 2292 (100.0%) good= 2001 (87.3%) short= 69 (3.0%) zero= 0 (0.0%) prevoiced= 90 (3.9%) bad_alignment= 132 (5.8% , 11 files)
+speaker= 003 total_vots= 2292 (100.0%) good= 1958 (85.4%) short= 45 (2.0%) zero= 0 (0.0%) prevoiced= 181 (7.9%) bad_alignment= 108 (4.7% , 9 files)
+speaker= 004 total_vots= 2292 (100.0%) good= 2160 (94.2%) short= 41 (1.8%) zero= 0 (0.0%) prevoiced= 55 (2.4%) bad_alignment= 36 (1.6% , 3 files)
+speaker= 001 total_vots= 2304 (100.0%) good= 2021 (87.7%) short= 23 (1.0%) zero= 0 (0.0%) prevoiced= 20 (0.9%) bad_alignment= 240 (10.4% , 20 files)
+speaker= 002 total_vots= 2292 (100.0%) good= 2001 (87.3%) short= 69 (3.0%) zero= 0 (0.0%) prevoiced= 90 (3.9%) bad_alignment= 132 (5.8% , 11 files)
+speaker= 003 total_vots= 2292 (100.0%) good= 1958 (85.4%) short= 45 (2.0%) zero= 0 (0.0%) prevoiced= 181 (7.9%) bad_alignment= 108 (4.7% , 9 files)
+speaker= 004 total_vots= 2292 (100.0%) good= 2160 (94.2%) short= 41 (1.8%) zero= 0 (0.0%) prevoiced= 55 (2.4%) bad_alignment= 36 (1.6% , 3 files)
+speaker= 006 total_vots= 2292 (100.0%) good= 1458 (63.6%) short= 100 (4.4%) zero= 0 (0.0%) prevoiced= 50 (2.2%) bad_alignment= 684 (29.8% , 57 files)
+speaker= 007 total_vots= 2304 (100.0%) good= 2108 (91.5%) short= 45 (2.0%) zero= 0 (0.0%) prevoiced= 55 (2.4%) bad_alignment= 96 (4.2% , 8 files)
+speaker= 008 total_vots= 2304 (100.0%) good= 2096 (91.0%) short= 34 (1.5%) zero= 0 (0.0%) prevoiced= 30 (1.3%) bad_alignment= 144 (6.2% , 12 files)
+speaker= 009 total_vots= 2304 (100.0%) good= 2122 (92.1%) short= 50 (2.2%) zero= 0 (0.0%) prevoiced= 48 (2.1%) bad_alignment= 84 (3.6% , 7 files)
+speaker= 010 total_vots= 2304 (100.0%) good= 2184 (94.8%) short= 27 (1.2%) zero= 0 (0.0%) prevoiced= 21 (0.9%) bad_alignment= 72 (3.1% , 6 files)
+speaker= 011 total_vots= 2304 (100.0%) good= 2112 (91.7%) short= 66 (2.9%) zero= 0 (0.0%) prevoiced= 90 (3.9%) bad_alignment= 36 (1.6% , 3 files)
+speaker= 012 total_vots= 2304 (100.0%) good= 2038 (88.5%) short= 25 (1.1%) zero= 0 (0.0%) prevoiced= 25 (1.1%) bad_alignment= 216 (9.4% , 18 files)
+speaker= 014 total_vots= 636 (100.0%) good= 575 (90.4%) short= 8 (1.3%) zero= 0 (0.0%) prevoiced= 53 (8.3%) bad_alignment= 0 (0.0% , 0 files)
+speaker= 019 total_vots= 5100 (100.0%) good= 3708 (72.7%) short= 37 (0.7%) zero= 0 (0.0%) prevoiced= 23 (0.5%) bad_alignment= 1332 (26.1% , 111 files)
+speaker= 019 total_vots= 2796 (100.0%) good= 1404 (50.2%) short= 37 (1.3%) zero= 0 (0.0%) prevoiced= 23 (0.8%) bad_alignment= 1332 (47.6% , 111 files)
+speaker= 019 total_vots= 2796 (100.0%) good= 1547 (55.3%) short= 38 (1.4%) zero= 0 (0.0%) prevoiced= 23 (0.8%) bad_alignment= 1188 (42.5% , 99 files)
+speaker= 019 total_vots= 3000 (100.0%) good= 2039 (68.0%) short= 74 (2.5%) zero= 0 (0.0%) prevoiced= 35 (1.2%) bad_alignment= 852 (28.4% , 71 files)
+speaker= 019 total_vots= 3000 (100.0%) good= 2235 (74.5%) short= 81 (2.7%) zero= 0 (0.0%) prevoiced= 36 (1.2%) bad_alignment= 648 (21.6% , 54 files)
+speaker= 001 total_vots= 2388 (100.0%) good= 2094 (87.7%) short= 22 (0.9%) zero= 0 (0.0%) prevoiced= 20 (0.8%) bad_alignment= 252 (10.6% , 21 files)
+{Error using <a href="matlab:helpUtils.errorDocCallback('textscan')" style="font-weight:bold">textscan</a>
+Invalid file identifier.  Use fopen to generate a valid file identifier.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('final_stats', '/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m', 23)" style="font-weight:bold">final_stats</a> (<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',23,0)">line 23</a>)
+  log_data = textscan(log_fid, '%s %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f', ...
+} 
+final_stats
+speaker= 001 total_vots= 0 (NaN%) good= 0 (NaN%) short= 0 (NaN%) zero= 0 (NaN%) prevoiced= 0 (NaN%) bad_alignment= 0 (NaN% , 0 files)
+speaker= 001 total_vots= 2304 (100.0%) good= 1988 (86.3%) short= 19 (0.8%) zero= 0 (0.0%) prevoiced= 57 (2.5%) bad_alignment= 240 (10.4% , 20 files)
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',28,1)">28  </a>  fid = fopen([log_filename '.bad_alignments'], 'wt');
+log_filename
+
+log_filename =
+
+../logs.pad_1.epochs_1/Twister_Recordings.001.log
+
+dbquit
+fid=fopen('../logs.pad_1.epochs_1/Twister_Recordings.001.log','r');
+tline = fgetl(fid);
+while ischar(tline)
+    disp(tline)
+    tline = fgetl(fid);
+end
+001-pdm01ABABa1, 8.911610, 0.000463338842975, 175.109, 0.015, 249.606, 0.06, 218.274, 0.015, 240.349, 0.046, 233.043, 0.022, 233.769, 0.057, 244.77, 0.031, 240.695, 0.066, 191.835, 0.076, 227.37, 0.059, 234.566, 0.025, 224.252, 0.067,
+001-pdm01ABABb1, 8.836150, 0.000755239669421, 219.853, 0.058, 230.115, 0.046, 301.697, 0.056, 281.276, 0.032, 282.034, 0.085, 194.71, 0.005, 231.142, 0.071, 214.613, 0.043, 304.605, 0.081, 256.597, 0.02, 270.292, 0.068, 207.27, 0.005,
+001-pdm01ABBAa1, 9.113960, 0.000557173553719, 178.21, 0.026, 233.774, 0.069, 239.1, 0.08, -125.074, 0.015, 219.323, 0.028, 222.28, 0.049, 230.868, 0.04, 239.824, 0.028, 215.584, 0.039, 250.929, 0.064, 220.408, 0.066, -168.789, 0.071,
+001-pdm01ABBAb1, 8.893220, 0.000593652892562, 235.779, 0.059, 180.387, 0.031, 225.538, 0.035, 280.853, 0.087, 258.753, 0.08, 244.53, 0.033, 219.041, 0.026, 272.021, 0.072, 263.159, 0.063, 173.821, 0.03, 185.015, 0.038, 239.643, 0.097,
+001-pdm02ABABa1, 10.425900, 0.000294743801653, 206.625, 0.022, 243.152, 0.042, 244.006, 0.013, 271.463, 0.044, 250.242, 0.014, 277.428, 0.04, 231.713, 0.013, 261.139, 0.041, 215.185, 0.019, 278.352, 0.047, 218.78, 0.018, 275.47, 0.04,
+001-pdm02ABABb1, 10.596200, 0.000213537190083, 276.568, 0.039, 219.666, 0.015, 268.705, 0.052, 255.814, 0.014, 293.892, 0.059, 252.879, 0.014, 286.973, 0.043, 257.308, 0.015, 261.475, 0.049, 254.48, 0.016, 247.551, 0.025, 214.392, 0.014,
+001-pdm02ABBAa1, 10.375400, 0.000187867768595, 201.108, 0.014, 252.375, 0.052, 239.709, 0.046, 214.257, 0.014, 217.951, 0.017, 252.904, 0.039, 250.641, 0.034, 218.092, 0.013, 254.487, 0.024, 234.92, 0.047, 267.591, 0.072, 218.075, 0.023,
+001-pdm02ABBAb1, 10.272400, 0.000660975206612, 275.881, 0.044, 193.06, 0.02, 253.149, 0.009, 279.776, 0.05, 289.655, 0.044, 256.43, 0.015, 276.114, 0.015, 270.658, 0.048, 277.277, 0.045, 251.465, 0.019, 250.002, 0.011, 257.374, 0.056,
+001-pdm03ABABa1, 9.266930, 0.000425239669421, 200.082, 0.248, 240.604, 0.035, 210.456, 0.016, 260.363, 0.079, 218.495, 0.021, 255.628, 0.038, 206.585, 0.017, 232.365, 0.072, 231.719, 0.018, 211.522, 0.025, 229.95, 0.015, 254.304, 0.073,
+001-pdm03ABABb1, 10.067400, 0.00148305785124, 195.683, 0.043, 215.608, 0.014, 262.699, 0.038, 172.456, 0.022, 229.843, 0.028, 166.735, 0.023, 249.896, 0.043, 242.683, 0.021, 212.015, 0.023, 243.45, 0.03, 178.367, 0.076, 151.593, 0.014,
+001-pdm03ABBAa1, 9.493930, 0.000726958677686, 170.548, 0.015, 211.498, 0.038, 225.225, 0.033, 208.344, 0.015, -202.492, 0.081, 231.995, 0.035, 184.512, 0.027, 219.496, 0.013, 225.348, 0.015, 238.261, 0.044, 227.826, 0.03, 214.307, 0.015,
+001-pdm03ABBAb1, 9.553570, 0.000288958677686, 263.658, 0.031, 190.901, 0.015, 217.701, 0.013, 239.692, 0.054, 244.091, 0.033, -205.173, 0.081, 206.992, 0.014, 238.173, 0.052, 216.797, 0.029, 225.299, 0.013, 222.014, 0.014, 244.655, 0.029,
+001-pdm04ABABa1, 9.197520, 0.00072, 239.724, 0.019, 251.144, 0.054, 162.099, 0.019, 220.628, 0.062, 213.383, 0.015, 255.759, 0.069, 158.239, 0.015, 241.938, 0.061, 202.345, 0.019, 218.512, 0.052, 223.657, 0.013, 206.149, 0.059,
+001-pdm04ABABb1, 8.927580, 0.000256743801653, 241.517, 0.062, 243.872, 0.034, 276.168, 0.071, 235.373, 0.025, 278.058, 0.06, 224.258, 0.032, 249.688, 0.07, 216.188, 0.037, 210.144, 0.033, 217.373, 0.025, 253.061, 0.039, 190.145, 0.024,
+001-pdm04ABBAa1, 9.644380, 0.000110991735537, -124.58, 0.089, 243.607, 0.062, 204.93, 0.067, 132.952, 0.023, 202.817, 0.024, 249.34, 0.065, 229.53, 0.046, 215.108, 0.023, 201.871, 0.025, 246.663, 0.051, 220.018, 0.029, 224.983, 0.029,
+001-pdm04ABBAb1, 9.708510, 0.00013932231405, 250.177, 0.048, 209.689, 0.018, 196.801, 0.025, 241.825, 0.046, 239.576, 0.043, 156.186, 0.02, 178.952, 0.02, 242.971, 0.039, 231.213, 0.045, 192.656, 0.026, 194.009, 0.02, 186.536, 0.048,
+001-pdm05ABABa1, 9.229060, 0.000404231404959, 206.903, 0.028, 229.321, 0.073, 232.881, 0.019, 255.941, 0.077, 230.158, 0.022, 225.169, 0.045, 209.538, 0.021, 230.303, 0.054, 242.374, 0.016, 228.112, 0.062, 242.431, 0.018, 241.927, 0.091,
+001-pdm05ABABb1, 9.805080, 0.011398446281, 219.725, 0.036, 221.749, 0.025, 206.015, 0.121, 232.043, 0.028, 241.806, 0.091, 184.133, 0.015, 256.708, 0.089, -148.117, 0.043, 230.976, 0.025, -119.32, 0.049, 173.799, 0.083, 210.788, 0.03,
+001-pdm05ABBAa1, 9.168670, 0.000261239669421, 267.156, 0.021, 226.35, 0.081, 208.849, 0.055, 250.866, 0.024, 233.516, 0.03, 257.378, 0.085, 289.502, 0.072, 251.435, 0.032, 231.574, 0.029, 163.156, 0.098, 209.407, 0.057, 246.692, 0.049,
+001-pdm05ABBAb1, 9.019030, 0.000215685950413, 204.302, 0.11, 253.508, 0.032, 147.317, 0.024, 249.653, 0.053, 287.079, 0.05, 261.05, 0.028, 258.365, 0.029, 271.143, 0.05, 273.629, 0.053, 235.894, 0.026, 229.346, 0.037, 211.377, 0.069,
+001-pdm06ABABa1, 8.830290, 0.000440727272727, 286.925, 0.017, 274.582, 0.063, 237.07, 0.022, 209.124, 0.056, 259.094, 0.029, 249.109, 0.064, 264.115, 0.021, 226.349, 0.086, 254.746, 0.021, 163.24, 0.024, 246.18, 0.025, -207.483, 0.119,
+001-pdm06ABABb1, 8.779350, 0.000213537190083, 276.799, 0.062, 219.058, 0.024, 206.871, 0.044, 228.676, 0.02, 227.408, 0.047, 234.19, 0.025, 227.146, 0.05, 270.09, 0.022, 250.387, 0.058, 245.763, 0.033, 243.869, 0.055, 236.886, 0.033,
+001-pdm06ABBAa1, 9.227570, 0.00020147107438, 262.145, 0.025, 229.264, 0.052, 236.999, 0.045, 238.113, 0.021, 230.979, 0.028, 252.016, 0.057, 268.283, 0.055, 257.002, 0.028, 247.307, 0.026, 247.34, 0.053, 249.096, 0.046, 228.511, 0.017,
+001-pdm06ABBAb1, 5.491820, 0.0664158842975, -188.008, 0.121, 256.784, 0.021, 245.734, 0.017, 216.986, 0.055, 231.136, 0.048, 241.495, 0.024, 220.935, 0.022, 242.972, 0.049, 226.762, 0.026, 233.881, 0.024, 218.648, 0.073, 205.885, 0.059,
+001-pdm07ABABa1, 8.507710, 0.00131370247934, 277.895, 0.028, 261.257, 0.078, 230.634, 0.024, 253.685, 0.052, 240.212, 0.021, 282.783, 0.085, 250.531, 0.027, 273.331, 0.047, 192.288, 0.02, 211.49, 0.054, 229.231, 0.025, 148.147, 0.085,
+001-pdm07ABABb1, 8.441170, 0.000966611570248, 190.612, 0.311, 325.165, 0.037, 324.448, 0.081, 310.336, 0.039, 323.865, 0.069, 314.828, 0.027, 331.333, 0.071, 323.249, 0.038, 296.493, 0.068, 283.454, 0.023, 325.661, 0.067, 281.02, 0.025,
+001-pdm07ABBAa1, 8.830660, 0.000721421487603, 306.262, 0.021, 273.031, 0.037, 265.169, 0.044, 246.475, 0.021, 231.918, 0.02, 265.028, 0.063, 284.335, 0.051, 246.138, 0.044, 252.245, 0.017, 232.296, 0.017, 297.696, 0.071, -193.345, 0.085,
+001-pdm07ABBAb1, 9.168160, 0.000755702479339, 209.671, 0.015, 275.259, 0.018, 262.898, 0.021, 315.354, 0.039, 248.324, 0.076, 306.315, 0.027, 273.812, 0.104, 238.222, 0.068, 294.86, 0.068, 225.633, 0.019, 256.113, 0.023, 269.909, 0.068,
+001-pdm08ABABa1, 8.304490, 0.000351272727273, 289.563, 0.042, 277.573, 0.08, 245.217, 0.033, 298.812, 0.078, 254.991, 0.041, 251.754, 0.096, 165.779, 0.055, 294.538, 0.084, 218.272, 0.048, 263.549, 0.068, 247.708, 0.043, 282.864, 0.047,
+001-pdm08ABABb1, 8.738240, 0.000453537190083, 307.206, 0.093, 199.771, 0.03, 251.329, 0.1, 206.981, 0.033, 288.611, 0.097, -154.356, 0.013, 250.662, 0.095, 182.68, 0.059, 266.54, 0.092, 193.485, 0.042, 274.908, 0.067, -138.166, 0.029,
+001-pdm08ABBAa1, 8.987840, 0.000255702479339, 206.235, 0.021, 233.364, 0.074, 208.571, 0.079, 229.097, 0.031, 213.253, 0.03, 232.488, 0.073, 236.44, 0.069, 256.204, 0.033, 212.164, 0.033, 247.053, 0.061, 257.331, 0.075, 238.32, 0.029,
+001-pdm08ABBAb1, 9.245180, 0.000170595041322, 278.453, 0.077, 200.398, 0.032, 205.976, 0.04, 258.861, 0.083, 234.433, 0.065, 224.095, 0.035, 201.923, 0.036, 214.678, 0.075, 224.559, 0.069, 217.889, 0.035, 206.845, 0.018, 185.13, 0.091,
+001-pdm09ABABa1, 9.035400, 0.00113110743802, 269.513, 0.021, 275.099, 0.071, 239.039, 0.019, 129.239, 0.045, 217.141, 0.027, 270.239, 0.061, 244.614, 0.024, 261.888, 0.086, 253.418, 0.075, 260.768, 0.08, 226.884, 0.032, 242.82, 0.056,
+001-pdm09ABABb1, 8.991030, 0.00103069421488, 214.608, 0.056, 178.508, 0.02, 236.401, 0.081, 240.033, 0.023, 141.08, 0.009, 244.652, 0.022, 259.754, 0.078, 230.207, 0.021, 226.827, 0.07, 209.184, 0.026, 218.392, 0.072, 235.102, 0.034,
+001-pdm09ABBAa1, 8.843900, 0.000909719008264, 219.543, 0.03, 272.649, 0.07, 273.746, 0.053, 264.256, 0.026, 193.25, 0.032, 244.728, 0.059, 262.646, 0.053, 251.814, 0.02, 282.134, 0.034, 256.208, 0.061, 275.231, 0.077, 154.881, 0.019,
+001-pdm09ABBAb1, 9.571580, 0.000368066115702, 246.43, 0.077, 243.646, 0.022, 221.765, 0.017, 215.017, 0.089, 293.498, 0.058, 238.519, 0.024, 272.406, 0.04, 252.899, 0.064, 261.834, 0.067, 301.652, 0.022, 265.565, 0.031, 165.946, 0.096,
+001-pdm10ABABa1, 8.715090, 0.000618148760331, 229.964, 0.022, 247.38, 0.074, 255.573, 0.043, 295.098, 0.071, 249.575, 0.038, 250.722, 0.095, 224.816, 0.037, 289.285, 0.088, 282.409, 0.06, 181.125, 0.078, 213.119, 0.046, 242.51, 0.063,
+001-pdm10ABABb1, 9.019340, 0.000363537190083, 316.926, 0.118, 263.426, 0.03, 280.82, 0.095, 241.534, 0.032, 277.092, 0.09, 212.948, 0.047, 267.306, 0.099, 192.789, 0.035, 285.917, 0.054, 202.569, 0.045, 252.361, 0.068, 189.729, 0.036,
+001-pdm10ABBAa1, 9.214870, 0.000317603305785, 269.729, 0.021, 249.723, 0.093, 208.694, 0.067, 195.178, 0.027, 212.936, 0.032, 248.772, 0.092, 191.911, 0.071, 212.706, 0.036, 238.139, 0.039, 254.701, 0.069, 218.899, 0.058, -172.531, 0.037,
+001-pdm10ABBAb1, 9.359240, 0.000108330578512, 261.423, 0.091, 227.061, 0.032, 215.022, 0.028, 215.714, 0.102, 214.893, 0.062, 198.255, 0.028, 193.821, 0.032, 196.323, 0.111, 208.358, 0.08, 237.383, 0.031, -150.607, 0.03, 234.829, 0.093,
+001-pdm11ABABa1, 8.858920, 0.00219892561983, 272.049, 0.024, 215.403, 0.051, 260.342, 0.034, 197.531, 0.054, 270.256, 0.022, 153.217, 0.051, 276.111, 0.024, 252.573, 0.064, 232.952, 0.023, 272.772, 0.06, 293.394, 0.028, 252.502, 0.06,
+001-pdm11ABABb1, 8.442300, 0.000714925619835, 240.081, 0.079, 240.847, 0.031, 197.113, 0.05, 277.435, 0.031, 201.653, 0.08, 269.536, 0.036, 158.191, 0.075, 224.399, 0.153, 266.302, 0.061, 167.23, 0.005, 280.374, 0.077, 277.758, 0.031,
+001-pdm11ABBAa1, 8.423790, 0.00247692561983, 271.634, 0.035, 244.436, 0.071, 253.176, 0.063, 281.84, 0.031, 280.703, 0.05, 269.281, 0.094, 278.706, 0.077, 250.318, 0.037, 109.458, 0.007, 278.253, 0.109, 240.658, 0.049, 243.858, 0.028,
+001-pdm11ABBAb1, 8.613620, 0.000591140495868, 284.509, 0.066, 240.347, 0.022, 243.447, 0.037, 279.857, 0.074, 271.419, 0.067, 269.632, 0.027, 249.877, 0.034, 289.766, 0.064, 290.581, 0.067, 267.257, 0.029, 203.616, 0.031, 231.801, 0.083,
+001-pdm12ABABa1, 9.039100, 0.000698512396694, 271.975, 0.03, 220.072, 0.073, 191.323, 0.033, 233.256, 0.081, 237.231, 0.03, 244.339, 0.066, 198.898, 0.03, 229.266, 0.051, 242.682, 0.031, 235.438, 0.073, 187.51, 0.03, -187.11, 0.13,
+001-pdm12ABABb1, 8.332720, 0.00131732231405, 225.46, 0.057, 217.669, 0.038, 204.398, 0.091, 196.543, 0.071, 239.875, 0.09, -161.098, 0.071, 227.287, 0.097, 227.551, 0.031, 277.917, 0.095, 171.202, 0.031, 208.862, 0.111, 222.176, 0.025,
+001-pdm12ABBAa1, 9.155490, 0.000138066115702, 217.092, 0.037, 243.855, 0.074, 215.307, 0.064, 203.725, 0.026, 230.112, 0.034, 272.676, 0.096, 258.902, 0.059, 208.968, 0.04, 251.721, 0.032, 229.997, 0.083, 247.344, 0.096, 170.964, 0.026,
+001-pdm12ABBAb1, 8.871950, 0.000691338842975, 224.366, 0.081, 226.093, 0.041, 174.955, 0.04, 154.743, 0.021, 254.333, 0.066, 177.731, 0.025, 190.059, 0.039, 271.475, 0.082, 209.481, 0.061, 187.084, 0.031, 175.803, 0.033, 181.951, 0.085,
+001-pdn01ABABa1, 9.160080, 0.000518446280992, 186.957, 0.028, 230.018, 0.061, 182.318, 0.017, 202.518, 0.053, 196.101, 0.024, 226.844, 0.06, 189.366, 0.021, 243.256, 0.068, 219.008, 0.023, 219.098, 0.058, 199.081, 0.005, 232.012, 0.049,
+001-pdn01ABABb1, 8.882300, 0.000526049586777, 213.463, 0.055, 158.011, 0.02, 245.136, 0.066, 175.11, 0.021, 255.195, 0.072, 182.225, 0.026, 247.453, 0.068, 174.471, 0.025, 271.615, 0.043, 201.014, 0.014, 271.199, 0.062, 159.678, 0.018,
+001-pdn01ABBAa1, 9.301240, 0.000182231404959, 213.859, 0.022, 220.071, 0.061, 162.114, 0.027, 185.855, 0.024, 183.038, 0.024, 224.327, 0.049, 193.883, 0.037, 171.807, 0.016, 186.662, 0.022, 212.728, 0.042, 198.979, 0.047, 168.248, 0.024,
+001-pdn01ABBAb1, 8.944390, 0.000212694214876, 267.008, 0.057, 194.335, 0.024, 170.903, 0.023, 181.292, 0.092, 230.546, 0.061, 165.729, 0.026, -194.019, 0.073, 192.419, 0.045, 258.025, 0.06, 210.723, 0.027, 201.541, 0.026, 236.646, 0.076,
+001-pdn02ABABa1, 9.124020, 0.000338016528926, 208.944, 0.014, 267.428, 0.067, 217.407, 0.023, 207.671, 0.102, 214.648, 0.022, 269.401, 0.091, 200.572, 0.028, 298.492, 0.079, 227.764, 0.029, 244.772, 0.09, 193.242, 0.02, 266.89, 0.085,
+001-pdn02ABABb1, 10.169200, 0.000606446280992, 242.118, 0.065, 185.741, 0.025, 259.668, 0.069, 204.086, 0.031, 250.264, 0.056, 170.538, 0.022, 260.561, 0.084, 141.434, 0.014, 249.213, 0.037, 198.687, 0.014, -176.687, 0.084, 172.834, 0.026,
+001-pdn02ABBAa1, 3.841020, 0.0642394545455, 125.04, 0.034, 180.029, 0.108, 187.679, 0.408, 105.308, 0.006, 118.813, 0.005, 170.469, 0.457, 155.287, 0.081, 143.11, 0.09, 176.137, 0.011, 129.007, 0.038, 140.84, 0.005, 112.468, 0.031,
+001-pdn02ABBAb1, 9.396930, 0.000659173553719, 319.826, 0.08, 177.757, 0.018, 182.976, 0.02, 255.878, 0.083, 244.148, 0.071, -112.111, 0.08, 205.024, 0.014, 185.543, 0.031, 226.07, 0.084, 187.872, 0.014, 207.785, 0.014, 231.914, 0.049,
+001-pdn03ABABa1, 8.972810, 0.000297157024793, 198.782, 0.009, 250.19, 0.062, -178.915, 0.077, 270.163, 0.067, -204.769, 0.084, 263.282, 0.043, -204.04, 0.005, 256.455, 0.026, 233.163, 0.01, 276.442, 0.068, 226.091, 0.021, 251.778, 0.031,
+001-pdn03ABABb1, 8.538070, 0.000734446280992, 217.063, 0.043, 234.578, 0.034, 253.164, 0.063, 193.264, 0.015, 228.42, 0.067, 176.936, 0.018, 171.062, 0.088, 196.141, 0.005, 259.957, 0.08, 230.271, 0.025, 262.359, 0.098, 173.67, 0.031,
+001-pdn03ABBAa1, 8.675280, 0.000653685950413, 138.696, 0.015, 215.412, 0.047, 216.621, 0.04, 214.691, 0.014, 153.536, 0.015, 163.038, 0.083, 241.499, 0.043, 216.071, 0.015, 228.066, 0.015, 263.637, 0.059, 253.515, 0.078, 186.088, 0.027,
+001-pdn03ABBAb1, 8.715140, 0.00102965289256, 270.863, 0.05, 229.341, 0.017, 220.509, 0.024, 253.18, 0.046, 233.116, 0.036, 156.783, 0.015, 177.439, 0.019, 241.288, 0.064, 236.212, 0.066, 200.349, 0.02, 184.606, 0.019, 209.396, 0.084,
+001-pdn04ABABa1, 8.164760, 0.000461603305785, 193.281, 0.028, 272.778, 0.061, 225.915, 0.033, 270.666, 0.066, 205.024, 0.033, 236.345, 0.054, 244.952, 0.019, 266.06, 0.047, -166.364, 0.075, 281.825, 0.07, 208.198, 0.027, 273.366, 0.073,
+001-pdn04ABABb1, 7.648480, 0.000597719008264, 246.956, 0.066, 241.1, 0.03, 297.762, 0.071, 239.913, 0.025, 284.826, 0.071, 222.788, 0.028, 281.632, 0.096, 257.886, 0.043, 264.288, 0.069, 214.395, 0.005, 215.131, 0.069, 208.285, 0.043,
+001-pdn04ABBAa1, 7.555260, 0.00168062809917, -186.895, 0.108, 262.815, 0.071, 232.252, 0.046, 253.644, 0.039, 264.612, 0.028, 276.999, 0.086, 252.545, 0.084, 216.734, 0.014, 188.734, 0.027, 239.322, 0.051, 220.902, 0.039, 225.654, 0.036,
+001-pdn04ABBAb1, 8.436950, 0.00111092561983, 226.778, 0.081, 197.173, 0.017, 181.874, 0.028, 257.908, 0.057, 230.345, 0.041, -171.168, 0.088, 211.404, 0.021, 252.901, 0.057, 212.323, 0.047, 202.878, 0.051, 153.405, 0.13, 274.761, 0.081,
+001-pdn05ABABa1, 9.667200, 0.000574561983471, 221.945, 0.033, 241.694, 0.05, 217.029, 0.023, 218.508, 0.032, 223.082, 0.019, 200.878, 0.03, 258.04, 0.017, 224.118, 0.029, 248.85, 0.023, 246.88, 0.03, 250.687, 0.024, 235.697, 0.039,
+001-pdn05ABABb1, 8.932390, 0.00036532231405, 288.819, 0.083, 212.1, 0.017, 154.067, 0.025, 228.907, 0.017, 177.963, 0.023, 219.325, 0.023, 158.837, 0.054, 225.15, 0.028, 140.248, 0.043, 232.901, 0.018, 235.17, 0.067, 217.572, 0.02,
+001-pdn05ABBAa1, 9.254290, 0.000240198347107, 227.207, 0.017, -183.769, 0.13, 251.524, 0.07, 252.201, 0.022, 223.423, 0.029, 206.367, 0.053, 243.301, 0.051, 229.883, 0.024, 234.893, 0.027, 246.145, 0.068, 150.523, 0.005, 233.641, 0.029,
+001-pdn05ABBAb1, 9.593560, 0.000209157024793, 217.635, 0.126, 216.317, 0.021, 224.303, 0.016, 226.593, 0.049, 241.999, 0.093, 229.357, 0.026, 226.45, 0.019, 203.74, 0.054, 233.494, 0.057, 204.617, 0.018, 198.564, 0.017, 234.525, 0.04,
+001-pdn06ABABa1, 8.626850, 0.00106314049587, 182.119, 0.005, -240.332, 0.144, 294.931, 0.034, 217.642, 0.037, 301.97, 0.036, 220.869, 0.04, 333.953, 0.031, 301.701, 0.039, 282.817, 0.028, 273.032, 0.075, 271.261, 0.037, 287.988, 0.066,
+001-pdn06ABABb1, 7.858480, 0.000642909090909, 206.537, 0.064, 244.397, 0.035, 179.79, 0.08, 178.431, 0.063, 273.533, 0.071, 243.235, 0.032, 255.838, 0.07, 244.091, 0.032, 280.978, 0.057, 290.073, 0.049, 263.725, 0.073, 241.164, 0.026,
+001-pdn06ABBAa1, 8.633970, 0.000316330578512, 259.357, 0.018, 233.922, 0.073, 258.484, 0.071, 239.298, 0.024, 281.937, 0.023, 298.03, 0.054, 247.738, 0.052, 268.555, 0.019, 244.318, 0.027, -201.628, 0.106, 236.961, 0.055, 232.911, 0.021,
+001-pdn06ABBAb1, 8.728110, 0.000361702479339, 235.191, 0.06, 252.102, 0.021, 220.826, 0.025, 207.537, 0.056, 292.994, 0.066, 250.133, 0.019, 278.621, 0.027, 153.17, 0.095, 219.358, 0.021, 243.913, 0.016, 253.109, 0.024, 185.165, 0.052,
+001-pdn07ABABa1, 8.637780, 0.000263355371901, 210.44, 0.024, 226.538, 0.066, 217.974, 0.021, 261.263, 0.042, 219.174, 0.019, 228.387, 0.039, 212.264, 0.016, 226.871, 0.059, 260.154, 0.024, 245.769, 0.071, 202.999, 0.022, 177.785, 0.005,
+001-pdn07ABABb1, 7.719260, 0.000748595041322, 245.946, 0.065, 198.787, 0.023, 293.314, 0.099, 210.409, 0.02, 189.149, 0.047, 184.087, 0.029, 285.592, 0.077, 207.731, 0.017, 153.666, 0.078, 183.66, 0.016, 183.569, 0.071, 220.325, 0.02,
+001-pdn07ABBAa1, 8.420640, 0.000830876033058, 242.351, 0.016, 215.018, 0.063, 256.211, 0.06, 180.868, 0.016, 198.797, 0.016, 230.68, 0.078, 208.158, 0.051, -147.699, 0.085, 201.521, 0.027, 240.137, 0.087, 207.063, 0.039, 166.797, 0.011,
+001-pdn07ABBAb1, 8.879610, 0.000291900826446, 274.233, 0.069, 198.031, 0.021, 180.201, 0.018, 210.586, 0.051, 216.725, 0.057, 167.512, 0.024, 205.159, 0.029, 205.821, 0.057, 189.035, 0.03, 191.641, 0.016, 176.9, 0.026, 201.129, 0.063,
+001-pdn08ABABa1, 9.410880, 0.00104441322314, 235.669, 0.189, 293.847, 0.083, 326.464, 0.034, 290.598, 0.075, 280.49, 0.039, 301.222, 0.08, 258.471, 0.049, 283.798, 0.073, 278.442, 0.035, 308.17, 0.07, 282.259, 0.03, 303.594, 0.059,
+001-pdn08ABABb1, 9.947230, 0.000364628099174, 266.826, 0.071, 272.228, 0.028, 252.718, 0.063, 241.998, 0.021, 331.909, 0.081, 229.503, 0.023, 277.684, 0.082, 255.27, 0.037, 293.041, 0.069, 260.409, 0.032, 286.511, 0.061, 279.369, 0.019,
+001-pdn08ABBAa1, 9.858080, 0.000558595041322, -217.931, 0.072, 272.585, 0.087, 251.222, 0.054, 245.917, 0.023, 274.582, 0.03, 287.962, 0.069, 237.625, 0.044, 238.498, 0.018, 267.031, 0.033, 274.954, 0.08, 280.305, 0.071, 244.678, 0.029,
+001-pdn08ABBAb1, 9.637450, 0.000555504132231, 328.428, 0.088, 270.969, 0.038, 256.524, 0.042, 300.901, 0.079, 279.959, 0.101, 262.407, 0.047, 188.734, 0.03, 248.998, 0.069, 235.918, 0.076, 229.606, 0.046, 255.154, 0.02, 284.365, 0.05,
+001-pdn09ABABa1, 9.405930, 0.000294231404959, 201.553, 0.023, 257.094, 0.078, 205.519, 0.019, 142.929, 0.072, 228.701, 0.017, 252.911, 0.074, 228.67, 0.021, 224.83, 0.044, 234.045, 0.022, 242.953, 0.053, 247.222, 0.022, 142.467, 0.005,
+001-pdn09ABABb1, 9.349330, 0.000469719008264, 148.36, 0.028, 213.813, 0.023, 239.838, 0.06, 210.534, 0.027, 237.827, 0.067, 221.425, 0.019, 160.273, 0.067, 204.011, 0.029, 238.155, 0.068, 177.723, 0.024, 164.441, 0.091, 218.286, 0.03,
+001-pdn09ABBAa1, 8.539680, 0.00039747107438, 224.261, 0.017, 246.187, 0.059, 190.783, 0.054, 226.154, 0.016, 214.021, 0.02, 140.965, 0.06, 208.842, 0.058, 205.48, 0.018, 211.678, 0.031, 129.944, 0.097, 212.423, 0.028, 129.623, 0.034,
+001-pdn09ABBAb1, 9.104820, 0.000115966942149, 245.32, 0.048, 219.109, 0.024, 236.031, 0.019, 150.584, 0.084, 237.705, 0.04, 227.245, 0.019, 194.292, 0.026, 211.066, 0.085, 193.293, 0.028, 226.113, 0.032, 186.062, 0.03, 214.627, 0.039,
+001-pdn10ABABa1, 10.206200, 0.000595338842975, 278.179, 0.028, 267.108, 0.062, 243.544, 0.027, 247.958, 0.066, 240.416, 0.025, 258.847, 0.072, 230.194, 0.027, 198.649, 0.059, 254.673, 0.02, 238.002, 0.054, 239.245, 0.043, 207.042, 0.042,
+001-pdn10ABABb1, 10.451300, 0.000350082644628, 241.517, 0.045, 233.449, 0.06, 273.846, 0.059, 223.642, 0.033, 298.773, 0.096, 226.786, 0.049, 261.599, 0.086, 239.508, 0.037, 236.167, 0.092, 253.191, 0.049, 257.043, 0.072, 211.281, 0.029,
+001-pdn10ABBAa1, 9.811180, 0.000297702479339, 314.785, 0.03, 292.987, 0.054, 258.081, 0.056, 204.616, 0.03, 259.212, 0.037, 229.806, 0.081, 247.813, 0.074, 223.992, 0.042, 189.476, 0.04, 248.825, 0.064, 245.048, 0.068, 206.292, 0.028,
+001-pdn10ABBAb1, 9.838190, 0.000281702479339, 318.224, 0.071, 227.998, 0.038, 249.844, 0.037, 289.239, 0.055, 266.646, 0.078, 266.211, 0.051, 245.983, 0.035, 259.713, 0.085, 249.717, 0.062, 213.545, 0.054, 233.128, 0.037, 247.46, 0.055,
+001-pdn11ABABa1, 9.422670, 0.000699652892562, 302.47, 0.025, 255.696, 0.053, 207.938, 0.026, 263.665, 0.06, 275.912, 0.03, 231.773, 0.038, 240.213, 0.027, 241.924, 0.037, 208.185, 0.013, 266.141, 0.083, 271.679, 0.031, 275.394, 0.051,
+001-pdn11ABABb1, 9.240840, 0.00113788429752, 300.861, 0.083, 231.209, 0.036, 247.502, 0.068, 198.779, 0.029, 255.877, 0.058, 247.554, 0.028, 255.553, 0.03, 241.402, 0.029, 215.415, 0.153, 217.834, 0.036, 262.637, 0.073, 209.615, 0.046,
+001-pdn11ABBAa1, 9.540660, 0.000787900826446, 280.324, 0.027, 245.096, 0.071, 223.021, 0.039, 252.017, 0.024, 232.871, 0.027, 250.542, 0.061, 246.792, 0.046, 236.731, 0.022, 230.104, 0.025, 195.913, 0.048, 223.992, 0.042, 233.739, 0.03,
+001-pdn11ABBAb1, 4.973550, 0.199159289256, 138.353, 0.115, 173.217, 0.226, 110.759, 0.13, 128.555, 0.062, 140.621, 0.05, 131.031, 0.039, 125.265, 0.025, 114.398, 0.038, 113.02, 0.096, 135.493, 0.02, 169.93, 0.017, 147.498, 0.314,
+001-pdn12ABABa1, 8.982220, 0.00072732231405, 297.794, 0.031, 241.878, 0.077, 239.464, 0.026, 263.367, 0.06, 215.281, 0.032, 267.082, 0.087, 256.617, 0.03, 222.759, 0.081, 283.203, 0.039, 235.983, 0.085, 240.507, 0.026, 177.518, 0.064,
+001-pdn12ABABb1, 9.564290, 0.000494446280992, 189.617, 0.055, 270.89, 0.029, 254.721, 0.078, 243.783, 0.031, 208.07, 0.142, 234.135, 0.031, 185.19, 0.115, 230.719, 0.022, 287.039, 0.061, 200.948, 0.012, 232.83, 0.069, 217.47, 0.013,
+001-pdn12ABBAa1, 9.430430, 0.000652016528926, 238.616, 0.027, 236.081, 0.054, 233.874, 0.061, 247.834, 0.027, 259.823, 0.033, 256.505, 0.067, 278.103, 0.053, 260.04, 0.025, 266.942, 0.05, 270.019, 0.072, 274.423, 0.06, 235.175, 0.035,
+001-pdn12ABBAb1, 9.181090, 0.00182051239669, 250.529, 0.049, 168.027, 0.005, 252.889, 0.019, 233.345, 0.057, 279.243, 0.056, 188.357, 0.02, 206.219, 0.02, 229.159, 0.033, 272.247, 0.059, 303.08, 0.027, 259.63, 0.034, 269.553, 0.067,
+001-psm01ABABa1, 9.607600, 0.00118461157025, 198.823, 0.04, -195.531, 0.005, 280.536, 0.051, 242.158, 0.039, 268.238, 0.059, 240.445, 0.024, 271.451, 0.049, 242.954, 0.025, 261.26, 0.041, 217.107, 0.019, 264.247, 0.033, 210.729, 0.035,
+001-psm01ABABb1, 5.566050, 0.121628016529, 167.284, 0.008, 252.838, 0.039, 216.047, 0.013, 246.194, 0.043, 204.838, 0.018, 270.435, 0.057, 216.176, 0.018, 298.259, 0.055, 221.305, 0.023, 291.11, 0.047, 281.479, 0.048, -173.725, 0.017,
+001-psm01ABBAa1, 9.725520, 0.000283603305785, 259.628, 0.065, 200.206, 0.02, 219.302, 0.018, 272.844, 0.05, 262.841, 0.055, 186.077, 0.028, 240.11, 0.028, 276.377, 0.059, 258.631, 0.055, 215.407, 0.019, -177.365, 0.083, 248.934, 0.033,
+001-psm01ABBAb1, 8.928860, 0.000702198347107, 217.624, 0.013, 248.691, 0.047, 219.935, 0.037, 232.678, 0.014, 200.552, 0.017, 270.289, 0.069, 254.364, 0.041, 249.809, 0.026, -208.821, 0.083, 204.134, 0.057, 211.055, 0.035, 160.907, 0.005,
+001-psm02ABABa1, 10.688700, 0.0143569917355, 230.822, 0.028, 234.199, 0.017, 210.355, 0.02, 64.8084, 0.017, 207.884, 0.019, 117.833, 0.038, 225.091, 0.034, 202.92, 0.023, 200.005, 0.163, 67.5963, 0.072, 202.029, 0.016, 118.216, 0.076,
+001-psm02ABABb1, 8.993160, 0.000386446280992, 197.094, 0.015, 205.499, 0.044, 214.015, 0.014, 215.737, 0.045, 234.997, 0.019, 236.464, 0.034, 216.848, 0.022, 246.027, 0.043, 238.777, 0.015, 247.854, 0.031, 236.022, 0.015, 222.935, 0.038,
+001-psm02ABBAa1, 9.268440, 0.000260694214876, 208.556, 0.047, 163.486, 0.015, 182.557, 0.013, 250.994, 0.048, 206.943, 0.028, 186.484, 0.015, 187.759, 0.02, 266.604, 0.041, 222.749, 0.029, 192.785, 0.027, 192.833, 0.018, 226.406, 0.034,
+001-psm02ABBAb1, 9.264270, 0.000291173553719, 174.552, 0.013, 211.81, 0.05, 220.518, 0.029, 240.899, 0.014, 225.714, 0.014, 219.804, 0.025, 245.469, 0.05, 208.928, 0.013, 210.297, 0.015, 229.264, 0.036, 213.345, 0.025, -222.465, 0.078,
+001-psm03ABABa1, 9.864830, 0.000568363636364, 302.577, 0.053, -188.123, 0.074, 261.218, 0.055, 224.178, 0.02, 279.604, 0.05, 223.379, 0.017, 186.267, 0.033, 235.705, 0.015, 277.643, 0.066, 255.608, 0.014, 295.552, 0.044, 179.443, 0.023,
+001-psm03ABABb1, 10.408100, 0.000223504132231, 214.937, 0.014, 279.845, 0.053, 245.942, 0.03, 282.384, 0.06, 260.475, 0.027, 265.09, 0.044, 218.606, 0.016, 263.495, 0.038, 229.061, 0.029, 288.651, 0.086, 229.795, 0.022, 255.367, 0.035,
+001-psm03ABBAa1, 9.737860, 0.000508876033058, 231.35, 0.032, 216.728, 0.015, 270.835, 0.023, 298.167, 0.063, 234.367, 0.075, 255.542, 0.026, -188.887, 0.09, 235.36, 0.075, -192.8, 0.144, 236.697, 0.021, 229.939, 0.03, 250.046, 0.045,
+001-psm03ABBAb1, 10.444500, 0.000495421487603, 227.985, 0.016, 259.298, 0.066, 259.898, 0.054, 218.615, 0.014, 227.01, 0.014, 262.419, 0.073, 275.311, 0.033, 233.842, 0.01, 228.967, 0.019, 275.938, 0.061, 258.116, 0.022, 219.162, 0.019,
+001-psm04ABABa1, 9.550940, 0.000666049586777, 265.589, 0.115, 215.338, 0.011, 234.648, 0.038, 186.779, 0.017, 220.068, 0.046, 244.541, 0.023, 250.391, 0.047, 242.984, 0.012, 238.801, 0.042, 237.738, 0.013, 232.144, 0.052, -191.175, 0.054,
+001-psm04ABABb1, 9.694180, 0.000149537190083, 165.824, 0.015, 217.495, 0.051, 204.273, 0.014, 214.098, 0.057, 220.639, 0.013, 253.275, 0.05, 215.607, 0.013, 223.151, 0.058, 233.151, 0.009, 241.342, 0.055, 244.05, 0.014, 219.989, 0.038,
+001-psm04ABBAa1, 9.311190, 0.000182727272727, 268.309, 0.057, 218.985, 0.019, 183.693, 0.018, 226.269, 0.047, 215.47, 0.027, 224.383, 0.01, -185.039, 0.082, 244.957, 0.054, 218.085, 0.036, 211.965, 0.021, 185.864, 0.022, 211.462, 0.074,
+001-psm04ABBAb1, 9.771540, 0.000821157024793, -94.9404, 0.06, 230.887, 0.042, 233.257, 0.038, 204.125, 0.017, 213.378, 0.02, 254.972, 0.035, 249.952, 0.03, 228.531, 0.014, 189.069, 0.015, 228.109, 0.039, 237.831, 0.026, 198.448, 0.018,
+001-psm05ABABa1, 8.963600, 0.000260975206612, 199.224, 0.106, 230.085, 0.028, 195.726, 0.077, 260.914, 0.041, 247.456, 0.061, 194.08, 0.005, 257.848, 0.084, 227.525, 0.051, 243.881, 0.066, 225.289, 0.026, 278.679, 0.059, 221.706, 0.017,
+001-psm05ABABb1, 9.403190, 0.000209090909091, 221.899, 0.023, 255.938, 0.059, 222.839, 0.022, 221.734, 0.088, 263, 0.018, 229.27, 0.088, 242.528, 0.018, 229.601, 0.098, 246.566, 0.026, 202.957, 0.105, 239.976, 0.028, -198.311, 0.131,
+001-psm05ABBAa1, 9.441780, 0.000376446280992, 192.685, 0.06, 210.595, 0.033, 243.005, 0.034, -237.854, 0.119, 208.635, 0.032, 228.683, 0.018, 239.203, 0.023, 252.57, 0.061, 251.046, 0.056, -211.965, 0.085, 233.501, 0.022, 243.743, 0.055,
+001-psm05ABBAb1, 7.213610, 0.0139361487603, 215.695, 0.02, 254.867, 0.074, 225.791, 0.058, 285.769, 0.017, 274.023, 0.022, 261.435, 0.07, 272.127, 0.065, 277.151, 0.018, 234.687, 0.021, 250.838, 0.07, 237.886, 0.05, 118.184, 0.045,
+001-psm06ABABa1, 8.388750, 0.000520925619835, 194.278, 0.09, 238.329, 0.02, 200.142, 0.109, 247.501, 0.046, 194.552, 0.035, 271.227, 0.034, 165.233, 0.032, 261.958, 0.039, 166.659, 0.029, 270.345, 0.035, 203.004, 0.048, 201.315, 0.031,
+001-psm06ABABb1, 6.077190, 0.0457398347107, 285.98, 0.036, 191.273, 0.048, 214.313, 0.026, 216.445, 0.054, 237.902, 0.022, 207.935, 0.066, 211.07, 0.027, 249.825, 0.037, 233.838, 0.021, 222.769, 0.042, 228.12, 0.039, 235.954, 0.474,
+001-psm06ABBAa1, 8.730010, 0.000627173553719, 282.151, 0.062, 212.932, 0.022, 201.367, 0.024, 227.558, 0.068, 239.714, 0.055, 254.052, 0.022, 222.905, 0.029, 259.545, 0.073, 229.694, 0.073, 225.991, 0.031, 219.847, 0.031, 218.631, 0.047,
+001-psm06ABBAb1, 9.338930, 0.000187603305785, 237.127, 0.023, 124.907, 0.077, 215.31, 0.038, 258.367, 0.02, 226.242, 0.023, 238.341, 0.038, 195.402, 0.033, 245.075, 0.027, 215.233, 0.026, 160.696, 0.047, 224.71, 0.033, 217.654, 0.027,
+001-psm07ABABa1, 8.237100, 0.000934991735537, 271.878, 0.057, 278.426, 0.021, 250.031, 0.068, 267.476, 0.025, 277.378, 0.081, 249.066, 0.015, 280.11, 0.081, 215.712, 0.014, 207.262, 0.191, 297.033, 0.025, 266.292, 0.073, 239.545, 0.017,
+001-psm07ABABb1, 8.842820, 0.000275818181818, 257.737, 0.027, 273.515, 0.089, 280.574, 0.017, 255.718, 0.056, 281.647, 0.025, 282.602, 0.07, 260.575, 0.032, 253.98, 0.066, 239.795, 0.019, 254.872, 0.065, 250.864, 0.029, 261.255, 0.046,
+001-psm07ABBAa1, 8.174430, 0.000648595041322, 230.998, 0.071, 247.609, 0.021, 296.929, 0.024, 192.58, 0.087, 244.699, 0.085, 219.103, 0.02, 224.674, 0.016, 293.999, 0.055, 303.445, 0.061, 219.339, 0.025, 275.869, 0.016, 169.632, 0.078,
+001-psm07ABBAb1, 8.399640, 0.000425603305785, 307.822, 0.022, 230.677, 0.074, 156.456, 0.071, 239.642, 0.016, 229.042, 0.03, 154.034, 0.089, 216.974, 0.049, 259.836, 0.023, -173.777, 0.078, 159.832, 0.084, 168.294, 0.066, 198.159, 0.02,
+001-psm08ABABa1, 12.272400, 0.0105928099174, 133.904, 0.044, 148.697, 0.08, 243.316, 0.069, 244.405, 0.03, 258.852, 0.064, 104.193, 0.038, 190.408, 0.03, 134.964, 0.046, 204.32, 0.05, 260.557, 0.029, 249.713, 0.053, 247.579, 0.03,
+001-psm08ABABb1, 9.820370, 0.000289900826446, 251.77, 0.022, 292.639, 0.054, 279.747, 0.025, 291.972, 0.046, 259.872, 0.019, 310.822, 0.05, 269.037, 0.022, 294.572, 0.074, 258.96, 0.019, 272.498, 0.042, 234.316, 0.022, 255.752, 0.055,
+001-psm08ABBAa1, 9.409750, 0.000680595041322, 255.467, 0.066, 294.805, 0.025, 279.912, 0.025, 298.298, 0.035, 318.777, 0.055, 229.838, 0.023, 275.148, 0.024, 273.476, 0.068, 256.166, 0.053, 284.109, 0.024, 299.549, 0.037, 272.102, 0.07,
+001-psm08ABBAb1, 9.427270, 0.000241834710744, 275.831, 0.026, 286.109, 0.045, 255.904, 0.045, 258.732, 0.021, 258.046, 0.022, 268.284, 0.058, 244.935, 0.062, 254.016, 0.025, 254.891, 0.02, 254.516, 0.07, 274.361, 0.06, 258.131, 0.016,
+001-psm09ABABa1, 9.326830, 0.000288066115702, 292.157, 0.073, 217.016, 0.038, 302.097, 0.075, 258.5, 0.041, 291.625, 0.089, 276.818, 0.035, 234.941, 0.042, 243.807, 0.051, 213.462, 0.119, 258.262, 0.087, 262.178, 0.039, 241.577, 0.041,
+001-psm09ABABb1, 9.801690, 0.000467173553719, 229.507, 0.039, 274.053, 0.057, 236.524, 0.031, 288.341, 0.072, 250.775, 0.029, 262.105, 0.072, 243.157, 0.037, 229.032, 0.048, 259.504, 0.038, 263.355, 0.054, 241.154, 0.045, 259.394, 0.048,
+001-psm09ABBAa1, 9.615300, 0.000240231404959, 303.453, 0.069, 207.561, 0.039, 231.77, 0.03, 303.472, 0.073, 226.879, 0.048, 258.106, 0.036, 229.945, 0.048, 247.427, 0.065, 279.861, 0.073, 211.045, 0.04, 225.796, 0.035, 268.216, 0.082,
+001-psm09ABBAb1, 9.888260, 0.000734776859504, 223.951, 0.024, 282.656, 0.094, 268.592, 0.082, 206.09, 0.028, 243.064, 0.05, 275.032, 0.06, 273.093, 0.065, 244.02, 0.029, 220.041, 0.058, 245.674, 0.058, 236.368, 0.074, 224.734, 0.045,
+001-psm10ABABa1, 13.174300, 0.0128040495868, 294.368, 0.052, 205.958, 0.019, 271.813, 0.073, 212.412, 0.019, 264.559, 0.055, 121.336, 0.048, 168.576, 0.027, 99.6604, 0.027, 218.248, 0.07, 238.069, 0.019, 64.5664, 0.006, 173.711, 0.005,
+001-psm10ABABb1, 9.106090, 0.000562049586777, 241.803, 0.025, 238.448, 0.044, 227.951, 0.028, 239.463, 0.04, -228.39, 0.08, 229.786, 0.052, 253.33, 0.024, 210.133, 0.029, 223.311, 0.026, 259.959, 0.045, 238.609, 0.027, 252.063, 0.046,
+001-psm10ABBAa1, 9.300340, 0.000314595041322, 230.529, 0.05, 249.011, 0.024, 223.915, 0.025, 236.827, 0.056, 230.006, 0.05, 211.047, 0.029, 263.075, 0.026, 210.263, 0.051, 155.787, 0.081, 264.617, 0.026, 201.467, 0.026, 156.75, 0.06,
+001-psm10ABBAb1, 9.015280, 0.00119363636364, -182.397, 0.005, 317.742, 0.047, 272.598, 0.054, 235.638, 0.022, 231.39, 0.028, 244.287, 0.064, 257.112, 0.052, 169.124, 0.026, 240.233, 0.027, 233.289, 0.044, 238.615, 0.07, 188.841, 0.022,
+001-psm11ABABa1, 9.227720, 0.000365966942149, 284.877, 0.064, 254.28, 0.045, 265.172, 0.086, 240.501, 0.035, 304.632, 0.074, 263.473, 0.03, 270.881, 0.101, 269.172, 0.056, 308.992, 0.095, 242.183, 0.054, 272.302, 0.064, 233.7, 0.04,
+001-psm11ABABb1, 9.433130, 0.000612776859504, 261.556, 0.037, 244.589, 0.052, 268.413, 0.038, 307.334, 0.067, 233.646, 0.043, 283.028, 0.089, 260.293, 0.049, 303.983, 0.062, 244.66, 0.05, 230.146, 0.082, 244.826, 0.077, 275.575, 0.072,
+001-psm11ABBAa1, 9.430160, 0.00042347107438, 199.628, 0.069, 258.618, 0.031, 229.524, 0.046, 250.121, 0.061, 260.272, 0.089, 284.363, 0.05, 273.685, 0.039, 196.782, 0.105, 226.863, 0.073, 295.421, 0.046, 301.538, 0.039, 239.142, 0.07,
+001-psm11ABBAb1, 9.102920, 0.000336016528926, 273.835, 0.027, 225.549, 0.067, 252.748, 0.065, 230.969, 0.03, 288.34, 0.041, 274.412, 0.075, 253.28, 0.061, 263.411, 0.023, 275.202, 0.052, 293.67, 0.061, 271.875, 0.064, 261.68, 0.036,
+001-psm12ABABa1, 11.924100, 0.0138432396694, 102.778, 0.005, 113.801, 0.009, 265.07, 0.07, 241.353, 0.025, 250.169, 0.074, 266.42, 0.035, 266.019, 0.086, 194.178, 0.023, 217.33, 0.032, 137.764, 0.025, 273.355, 0.087, 253.379, 0.028,
+001-psm12ABABb1, 9.892570, 0.000195652892562, 266.772, 0.037, 287.449, 0.068, 279.773, 0.029, 276.904, 0.068, 261.112, 0.032, 292.527, 0.062, 255.986, 0.031, 236.03, 0.058, 251.169, 0.035, 260.343, 0.06, 228.703, 0.037, 290.27, 0.074,
+001-psm12ABBAa1, 9.665550, 0.000316198347107, 222.045, 0.084, 209.071, 0.025, 192.734, 0.025, 235.961, 0.091, 231.881, 0.06, 222.333, 0.027, 230.845, 0.039, 275.747, 0.079, 226.075, 0.066, 256.584, 0.032, 239.579, 0.036, 298.696, 0.09,
+001-psm12ABBAb1, 9.971810, 0.000470958677686, 268.401, 0.023, 285.305, 0.064, 278.715, 0.063, 256.609, 0.025, 232.405, 0.021, 305.489, 0.078, 238.538, 0.075, 220.617, 0.03, 248.812, 0.033, 266.068, 0.076, 218.015, 0.047, 248.776, 0.031,
+001-psn01ABABa1, 5.476810, 0.0451644132231, 209.404, 0.394, 244.135, 0.023, 144.342, 0.077, 287.024, 0.023, 202.987, 0.073, 287.267, 0.029, 330.465, 0.096, 273.677, 0.022, 246.063, 0.042, 215.82, 0.02, 137.319, 0.005, 177.131, 0.02,
+001-psn01ABABb1, 8.353970, 0.0058193553719, 214.761, 0.019, 200.353, 0.058, 245.523, 0.043, 193.242, 0.07, 257.006, 0.036, 274.606, 0.078, 254.636, 0.026, 193.427, 0.068, 220.868, 0.042, -248.199, 0.005, 182.553, 0.005, 258.457, 0.056,
+001-psn01ABBAa1, 7.816960, 0.000375520661157, 238.363, 0.076, 212.369, 0.029, 234.815, 0.02, 254.686, 0.058, 277.775, 0.056, 231.806, 0.024, 229.874, 0.042, 246.869, 0.053, 227.363, 0.064, 227.793, 0.019, 278.549, 0.031, 258.111, 0.073,
+001-psn01ABBAb1, 7.832740, 0.000936247933884, 169.682, 0.023, 256.205, 0.062, -195.793, 0.08, 219.789, 0.021, 224.726, 0.036, 271.679, 0.053, 263.707, 0.057, 205.411, 0.032, 236.421, 0.034, 260.683, 0.063, 224.777, 0.069, 209.033, 0.033,
+001-psn02ABABa1, 8.085930, 0.000363834710744, 228.091, 0.063, 194.781, 0.026, 268.504, 0.056, 194.883, 0.014, 251.706, 0.05, -177.155, 0.08, 280.425, 0.047, 192.372, 0.036, 264.242, 0.055, 169.062, 0.023, 293.003, 0.055, 199.372, 0.04,
+001-psn02ABABb1, 8.459150, 0.000350727272727, 221.944, 0.029, 216.572, 0.075, 226.343, 0.036, 261.838, 0.072, 252.965, 0.017, 276.167, 0.065, 239.23, 0.014, 230.412, 0.054, 220.232, 0.021, 277.916, 0.055, 242.963, 0.016, 165.242, 0.055,
+001-psn02ABBAa1, 8.525590, 0.000223173553719, 298.858, 0.057, -169.116, 0.066, 190.545, 0.026, 257.709, 0.072, 243.565, 0.077, 193.971, 0.022, 226.039, 0.027, 255.891, 0.046, 214.038, 0.041, 204.096, 0.023, 163.474, 0.029, 209.804, 0.058,
+001-psn02ABBAb1, 8.799400, 0.000314082644628, 201.953, 0.019, 258.697, 0.069, 251.021, 0.078, 213.412, 0.021, 170.96, 0.013, 256.823, 0.064, 256.828, 0.059, 207.386, 0.025, 244.491, 0.031, 260.88, 0.054, 266.348, 0.062, -178.942, 0.051,
+001-psn03ABABa1, 9.789620, 0.000772049586777, 257.453, 0.062, 223.827, 0.013, 253.643, 0.066, -137.248, 0.072, 279.86, 0.078, 213.112, 0.022, 277.909, 0.086, 221.426, 0.026, 243.858, 0.051, -169.28, 0.005, 268.517, 0.055, 229.256, 0.017,
+001-psn03ABABb1, 9.091550, 0.000205272727273, 228.119, 0.013, 259.02, 0.059, 206.675, 0.017, 256.917, 0.074, 203.458, 0.025, 265.117, 0.044, 227.372, 0.028, 227, 0.082, 219.324, 0.029, 174.35, 0.094, 193.293, 0.021, 200.419, 0.093,
+001-psn03ABBAa1, 9.507970, 0.000502876033058, 209.349, 0.058, 189.446, 0.015, 206.321, 0.017, 271.804, 0.058, 214.96, 0.081, 223.603, 0.014, 225.732, 0.015, 253.012, 0.071, 255.803, 0.057, 239.49, 0.015, 196.071, 0.023, 265.543, 0.088,
+001-psn03ABBAb1, 9.797760, 0.000490049586777, 185.87, 0.016, 208.951, 0.056, 242.04, 0.071, 177.247, 0.02, -198.584, 0.079, 266.072, 0.083, 242.144, 0.031, 244.074, 0.016, -184.847, 0.073, 257.538, 0.117, 224.668, 0.046, 162.178, 0.027,
+001-psn04ABABa1, 8.909110, 0.000410595041322, 287.934, 0.062, 202.648, 0.014, 231.356, 0.064, -187.347, 0.069, 268.488, 0.095, -184.006, 0.084, 261.131, 0.064, 234.693, 0.014, 226.653, 0.058, 254.112, 0.013, 285.708, 0.061, 146.124, 0.011,
+001-psn04ABABb1, 11.926900, 0.0130966280992, 224.35, 0.021, 240.913, 0.044, 81.8786, 0.078, 211.23, 0.017, 228.216, 0.066, 133.285, 0.04, 232.013, 0.015, 258.607, 0.055, 235.155, 0.017, 241.243, 0.075, 78.346, 0.054, 92.2106, 0.045,
+001-psn04ABBAa1, 9.130350, 0.00055347107438, 237.006, 0.069, -139.831, 0.079, 170.906, 0.015, 221.405, 0.049, 238.464, 0.052, -168.608, 0.078, 192.591, 0.028, 227.328, 0.048, 243.132, 0.05, -214.39, 0.079, -227.575, 0.08, 233.744, 0.052,
+001-psn04ABBAb1, 8.677690, 0.000302148760331, -189.71, 0.073, 244.14, 0.06, 232.432, 0.061, 241.105, 0.013, 244.023, 0.015, 258.197, 0.046, 249.168, 0.072, 200.758, 0.029, 224.772, 0.009, 238.333, 0.046, 207.736, 0.041, 169.275, 0.043,
+001-psn05ABABa1, 9.334810, 0.000268049586777, 132.205, 0.122, 244.315, 0.029, 271.206, 0.098, 239.171, 0.036, 250.838, 0.075, 223.867, 0.027, 261.232, 0.092, -188.031, 0.084, 253.935, 0.067, 215.795, 0.028, 270.2, 0.049, 190.708, 0.074,
+001-psn05ABABb1, 12.804800, 0.0104625123967, 258.477, 0.022, 238.416, 0.078, 232.228, 0.027, 206.185, 0.095, 104.955, 0.03, 183.538, 0.051, 141.73, 0.014, 154.801, 0.029, 106.256, 0.051, 243.661, 0.024, 172.611, 0.026, 132.781, 0.005,
+001-psn05ABBAa1, 9.490790, 0.000213685950413, 197.167, 0.065, 222.651, 0.032, 237.444, 0.028, 211.9, 0.051, 177.321, 0.039, 224.212, 0.02, 198.656, 0.023, 236.307, 0.072, 220.607, 0.055, 272.967, 0.028, 235.69, 0.028, 191.468, 0.043,
+001-psn05ABBAb1, 9.349820, 0.000265636363636, 231.704, 0.041, 231.815, 0.061, 241.489, 0.034, 255.566, 0.016, 173.639, 0.023, 225.848, 0.046, 220.531, 0.037, 224.166, 0.024, 227.233, 0.041, 235.544, 0.057, 225.409, 0.029, 220.098, 0.014,
+001-psn06ABABa1, 7.692990, 0.0014793553719, 198.896, 0.078, 229.148, 0.022, 205.979, 0.101, 217.28, 0.023, 219.109, 0.041, 234.454, 0.021, 259.939, 0.036, 214.013, 0.022, -206.953, 0.117, 238.958, 0.034, 246.692, 0.017, 225.626, 0.039,
+001-psn06ABABb1, 7.655410, 0.00073547107438, 235.48, 0.024, 225.042, 0.056, 242.266, 0.028, 265.404, 0.058, 236.03, 0.036, 245.182, 0.054, 255.274, 0.028, 250.466, 0.043, 252.258, 0.032, 250.119, 0.062, 319.274, 0.027, 143.04, 0.013,
+001-psn06ABBAa1, 8.698440, 0.000923421487603, -170.595, 0.133, 236.06, 0.024, 230.47, 0.027, 219.484, 0.05, 219.349, 0.063, 204.558, 0.048, 172.712, 0.042, 204.608, 0.061, 219.791, 0.059, 236.013, 0.024, 221.317, 0.022, 265.54, 0.082,
+001-psn06ABBAb1, 17.904500, 0.00118952066116, 113.246, 0.018, 180.649, 0.029, 159.191, 0.005, 100.691, 0.027, 222.289, 0.052, 131.156, 0.049, 239.153, 0.046, -80.0122, 0.027, 111.766, 0.032, 175.603, 0.02, 114.024, 0.005, 117.843, 0.025,
+001-psn07ABABa1, 8.821280, 0.000291685950413, 228.006, 0.087, 215.856, 0.022, 196.56, 0.046, 213.993, 0.024, 241.538, 0.059, 202.077, 0.022, 241.384, 0.051, 222.021, 0.019, 298.419, 0.081, 196.189, 0.035, 249.647, 0.04, 189.201, 0.024,
+001-psn07ABABb1, 8.593840, 0.00201019834711, 279.866, 0.025, 232.883, 0.085, 254.929, 0.021, 235.694, 0.065, 266.156, 0.019, 247.912, 0.083, 226.755, 0.021, 156.637, 0.031, 262.059, 0.036, 269.054, 0.074, 229.148, 0.02, 145.487, 0.005,
+001-psn07ABBAa1, 8.824160, 0.000528016528926, 227.193, 0.082, 228.403, 0.015, 196.469, 0.018, 231.568, 0.087, 261.525, 0.098, 190.799, 0.015, 193.281, 0.019, 253.907, 0.077, 166.938, 0.109, 209.565, 0.018, 197.05, 0.027, 202.42, 0.107,
+001-psn07ABBAb1, 9.169610, 0.000127884297521, 218.477, 0.017, 269.661, 0.074, 262.414, 0.08, 191.617, 0.02, 226.956, 0.027, 251.957, 0.055, 241.132, 0.075, 180.825, 0.02, 173.075, 0.031, 164.737, 0.095, 195.192, 0.049, 211.072, 0.027,
+001-psn08ABABa1, 9.279350, 0.000159702479339, 265.925, 0.081, 217.119, 0.028, 265.648, 0.078, 252.43, 0.027, 279.015, 0.07, 261.405, 0.031, 254.392, 0.06, 229.812, 0.034, 273.139, 0.066, 189.101, 0.025, 297.112, 0.076, 262.301, 0.03,
+001-psn08ABABb1, 9.180850, 0.000310595041322, 271.148, 0.031, 274.118, 0.058, 262.734, 0.035, 271.531, 0.065, 259.193, 0.029, 248.784, 0.047, 213.633, 0.024, 273.202, 0.059, 277.8, 0.029, 250.165, 0.045, 246.049, 0.029, 272.215, 0.044,
+001-psn08ABBAa1, 9.681730, 0.000527834710744, 289.559, 0.075, 203.849, 0.024, 237.134, 0.02, 306.411, 0.056, 229.764, 0.015, 185.497, 0.02, 235.213, 0.029, 254.793, 0.047, 284.453, 0.051, 279.085, 0.025, 267.935, 0.023, 300.477, 0.057,
+001-psn08ABBAb1, 9.572680, 0.000645520661157, 314.81, 0.018, 255.912, 0.041, 219.971, 0.045, 221.285, 0.016, 202.551, 0.015, 311.156, 0.036, 290.003, 0.034, 283.967, 0.016, 223.007, 0.016, 296.676, 0.042, 283.915, 0.032, 167.238, 0.005,
+001-psn09ABABa1, 8.789460, 0.000118776859504, 299.665, 0.111, 236.456, 0.029, 275.99, 0.082, 237.596, 0.03, 297.355, 0.074, 230.473, 0.045, 138.996, 0.092, 233.589, 0.05, 286.294, 0.09, 254.688, 0.037, 284.904, 0.067, 194.769, 0.057,
+001-psn09ABABb1, 9.481190, 0.000275636363636, 241.154, 0.035, 278.999, 0.077, 250.624, 0.03, 277.643, 0.067, 260.727, 0.03, 253.251, 0.053, 251.539, 0.026, 242.835, 0.064, 263.241, 0.027, 278.204, 0.058, 192.202, 0.047, 263.903, 0.057,
+001-psn09ABBAa1, 11.992900, 0.0140003636364, 336.422, 0.368, 244.457, 0.024, 266.314, 0.034, 152.135, 0.005, 213.869, 0.046, 258.488, 0.058, 160.099, 0.005, 172.543, 0.026, 132.04, 0.006, 179.155, 0.047, 127.531, 0.041, 226.083, 0.084,
+001-psn09ABBAb1, 9.298880, 0.000269702479339, 216.828, 0.019, 272.816, 0.082, 249.334, 0.042, 237.056, 0.033, 246.384, 0.027, 275.587, 0.085, 269.435, 0.084, 246.948, 0.042, 243.267, 0.053, 156.267, 0.087, 285.805, 0.07, 237.51, 0.042,
+001-psn10ABABa1, 9.326240, 0.000615289256198, 306.785, 0.058, 278.232, 0.03, 295.993, 0.074, 232.101, 0.019, 297.089, 0.078, 232.117, 0.034, 292.99, 0.063, 247.796, 0.04, 305.74, 0.102, 232.657, 0.038, 313.105, 0.089, 238.744, 0.032,
+001-psn10ABABb1, 9.579270, 0.000337355371901, 212.252, 0.032, 313.688, 0.089, 276.802, 0.034, 278.956, 0.051, 278.744, 0.041, 267.394, 0.067, 238.793, 0.067, 269.969, 0.068, 268.85, 0.041, 314.05, 0.088, 273.615, 0.044, 299.536, 0.063,
+001-psn10ABBAa1, 9.540490, 0.000623834710744, 311.964, 0.057, 226.995, 0.025, 254.614, 0.034, 291.485, 0.075, 265.373, 0.09, 288.201, 0.027, 270.758, 0.036, 245.848, 0.08, 232.976, 0.046, 264.456, 0.03, 273.877, 0.035, 263.839, 0.067,
+001-psn10ABBAb1, 9.331870, 0.000692429752066, 266.908, 0.026, 259.569, 0.054, 278.993, 0.053, 228.986, 0.029, 194.797, 0.022, 279.223, 0.087, 278.537, 0.059, 256.366, 0.029, 253.726, 0.027, 266.584, 0.067, 266.69, 0.081, 246.509, 0.036,
+001-psn11ABABa1, 8.983580, 0.0058694214876, 215.996, 0.313, 135.887, 0.052, 149.286, 0.108, 229.417, 0.043, 282.192, 0.059, 254.375, 0.042, 174.409, 0.042, 237.646, 0.047, 263.451, 0.063, 205.156, 0.042, 175.467, 0.073, 205.713, 0.045,
+001-psn11ABABb1, 9.646090, 0.000347289256198, 244.161, 0.031, 219.868, 0.083, 271.849, 0.027, 275.091, 0.078, 300.204, 0.03, 285.123, 0.077, 290.884, 0.037, 273.307, 0.06, 267.836, 0.027, 286.092, 0.064, 256.353, 0.03, 248.095, 0.09,
+001-psn11ABBAa1, 9.410470, 0.000819603305785, 222.06, 0.05, 302.807, 0.029, 259.629, 0.019, 273.595, 0.079, 258.88, 0.086, 272.481, 0.037, 248.329, 0.029, 261.876, 0.072, 264.627, 0.086, 199.21, 0.027, 213.112, 0.056, 167.423, 0.121,
+001-psn11ABBAb1, 9.409200, 0.000551289256198, 264.839, 0.029, 245.81, 0.073, 267.68, 0.068, 283.445, 0.037, 285.972, 0.03, 250.145, 0.07, 220.561, 0.084, 225.724, 0.033, 266.01, 0.032, 257.207, 0.078, 217.279, 0.083, 245.699, 0.029,
+001-psn12ABABa1, 9.979910, 0.00103950413223, 287.057, 0.101, 215.642, 0.027, 245.052, 0.067, 234.479, 0.025, 288.219, 0.087, 226.771, 0.032, 230.854, 0.067, 210.528, 0.03, 340.278, 0.056, 224.903, 0.025, 209.223, 0.058, 187.42, 0.051,
+001-psn12ABABb1, 10.863900, 0.0108107768595, 246.918, 0.025, 231.8, 0.062, 214.14, 0.035, 248.672, 0.079, 218.74, 0.037, 237.502, 0.071, 186.284, 0.005, 220.803, 0.042, 211.82, 0.046, 272.573, 0.041, -195.006, 0.102, 220.991, 0.048,
+001-psn12ABBAa1, 10.747300, 0.00681768595041, 242.268, 0.054, 258.954, 0.025, 184.002, 0.026, 231.281, 0.054, 220.225, 0.057, 167.776, 0.033, 112.897, 0.006, 197.835, 0.035, 244.506, 0.063, 216.934, 0.024, 186.236, 0.078, 211.232, 0.034,
+001-psn12ABBAb1, 9.782410, 0.000687537190083, 245.128, 0.032, 234.237, 0.058, 269.087, 0.069, 186.494, 0.036, 235.099, 0.037, 236.208, 0.07, 228.13, 0.061, 224.063, 0.03, 262.42, 0.039, 251.285, 0.067, 210.672, 0.078, 137.492, 0.06,
+
+fclose(fid);
+
+
+
+fid=fopen('../logs.pad_1.epochs_1/Twister_Recordings.001.log','r');
+Exception in thread "AWT-EventQueue-0" java.awt.dnd.InvalidDnDOperationException: Drag and drop in progress
+	at sun.awt.dnd.SunDragSourceContextPeer.setDragDropInProgress(SunDragSourceContextPeer.java:357)
+	at java.awt.dnd.DragSource.startDrag(DragSource.java:301)
+	at java.awt.dnd.DragSource.startDrag(DragSource.java:396)
+	at com.mathworks.mde.cmdhist.AltHistoryTable$DragListener.dragGestureRecognized(AltHistoryTable.java:600)
+	at java.awt.dnd.DragGestureRecognizer.fireDragGestureRecognized(DragGestureRecognizer.java:359)
+	at sun.lwawt.macosx.CMouseDragGestureRecognizer.mouseDragged(CMouseDragGestureRecognizer.java:139)
+	at com.mathworks.mwswing.MJTable.processMouseMotionEvent(MJTable.java:750)
+	at java.awt.Component.processEvent(Component.java:6285)
+	at java.awt.Container.processEvent(Container.java:2229)
+	at java.awt.Component.dispatchEventImpl(Component.java:4872)
+	at java.awt.Container.dispatchEventImpl(Container.java:2287)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4832)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4509)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4422)
+	at java.awt.Container.dispatchEventImpl(Container.java:2273)
+	at java.awt.Window.dispatchEventImpl(Window.java:2719)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:735)
+	at java.awt.EventQueue.access$200(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:694)
+	at java.awt.EventQueue$3.run(EventQueue.java:692)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.awt.EventQueue$4.run(EventQueue.java:708)
+	at java.awt.EventQueue$4.run(EventQueue.java:706)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:705)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+Exception in thread "AWT-EventQueue-0" java.awt.dnd.InvalidDnDOperationException: Drag and drop in progress
+	at sun.awt.dnd.SunDragSourceContextPeer.setDragDropInProgress(SunDragSourceContextPeer.java:357)
+	at java.awt.dnd.DragSource.startDrag(DragSource.java:301)
+	at java.awt.dnd.DragSource.startDrag(DragSource.java:396)
+	at com.mathworks.mde.cmdhist.AltHistoryTable$DragListener.dragGestureRecognized(AltHistoryTable.java:600)
+	at java.awt.dnd.DragGestureRecognizer.fireDragGestureRecognized(DragGestureRecognizer.java:359)
+	at sun.lwawt.macosx.CMouseDragGestureRecognizer.mouseDragged(CMouseDragGestureRecognizer.java:139)
+	at com.mathworks.mwswing.MJTable.processMouseMotionEvent(MJTable.java:750)
+	at java.awt.Component.processEvent(Component.java:6285)
+	at java.awt.Container.processEvent(Container.java:2229)
+	at java.awt.Component.dispatchEventImpl(Component.java:4872)
+	at java.awt.Container.dispatchEventImpl(Container.java:2287)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.LightweightDispatcher.retargetMouseEvent(Container.java:4832)
+	at java.awt.LightweightDispatcher.processMouseEvent(Container.java:4509)
+	at java.awt.LightweightDispatcher.dispatchEvent(Container.java:4422)
+	at java.awt.Container.dispatchEventImpl(Container.java:2273)
+	at java.awt.Window.dispatchEventImpl(Window.java:2719)
+	at java.awt.Component.dispatchEvent(Component.java:4698)
+	at java.awt.EventQueue.dispatchEventImpl(EventQueue.java:735)
+	at java.awt.EventQueue.access$200(EventQueue.java:103)
+	at java.awt.EventQueue$3.run(EventQueue.java:694)
+	at java.awt.EventQueue$3.run(EventQueue.java:692)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:87)
+	at java.awt.EventQueue$4.run(EventQueue.java:708)
+	at java.awt.EventQueue$4.run(EventQueue.java:706)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.security.ProtectionDomain$1.doIntersectionPrivilege(ProtectionDomain.java:76)
+	at java.awt.EventQueue.dispatchEvent(EventQueue.java:705)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(EventDispatchThread.java:242)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(EventDispatchThread.java:161)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(EventDispatchThread.java:150)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:146)
+	at java.awt.EventDispatchThread.pumpEvents(EventDispatchThread.java:138)
+	at java.awt.EventDispatchThread.run(EventDispatchThread.java:91)
+final_stats
+001-pdm01ABABa1, 8.911610, 0.000463338842975, 175.109, 0.015, 249.606, 0.06, 218.274, 0.015, 240.349, 0.046, 233.043, 0.022, 233.769, 0.057, 244.77, 0.031, 240.695, 0.066, 191.835, 0.076, 227.37, 0.059, 234.566, 0.025, 224.252, 0.067,
+  Columns 1 through 10
+
+    '001-pdm01ABABa1'    ' 8.911610'    ' 0.000463338842975'    ' 175.109'    ' 0.015'    ' 249.606'    ' 0.06'    ' 218.274'    ' 0.015'    ' 240.349'
+
+  Columns 11 through 22
+
+    ' 0.046'    ' 233.043'    ' 0.022'    ' 233.769'    ' 0.057'    ' 244.77'    ' 0.031'    ' 240.695'    ' 0.066'    ' 191.835'    ' 0.076'    ' 227.37'
+
+  Columns 23 through 28
+
+    ' 0.059'    ' 234.566'    ' 0.025'    ' 224.252'    ' 0.067'    ''
+
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',33,1)">33  </a>    tline = fgetl(fid);
+ C
+
+C = 
+
+  Columns 1 through 10
+
+    '001-pdm01ABABa1'    ' 8.911610'    ' 0.000463338842975'    ' 175.109'    ' 0.015'    ' 249.606'    ' 0.06'    ' 218.274'    ' 0.015'    ' 240.349'
+
+  Columns 11 through 22
+
+    ' 0.046'    ' 233.043'    ' 0.022'    ' 233.769'    ' 0.057'    ' 244.77'    ' 0.031'    ' 240.695'    ' 0.066'    ' 191.835'    ' 0.076'    ' 227.37'
+
+  Columns 23 through 28
+
+    ' 0.059'    ' 234.566'    ' 0.025'    ' 224.252'    ' 0.067'    ''
+
+tline
+
+tline =
+
+001-pdm01ABABa1, 8.911610, 0.000463338842975, 175.109, 0.015, 249.606, 0.06, 218.274, 0.015, 240.349, 0.046, 233.043, 0.022, 233.769, 0.057, 244.77, 0.031, 240.695, 0.066, 191.835, 0.076, 227.37, 0.059, 234.566, 0.025, 224.252, 0.067,
+
+nelem(C)
+{Undefined function 'nelem' for input arguments of type 'cell'.
+} 
+numel(C)
+
+ans =
+
+    28
+
+final_stats
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+
+ans =
+
+    28
+
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',37,1)">37  </a>  fid = fopen([log_filename '.bad_alignments'], 'wt');
+final_stats
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+28
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',37,1)">37  </a>  fid = fopen([log_filename '.bad_alignments'], 'wt');
+final_stats
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+1 28
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',40,1)">40  </a>  fid = fopen([log_filename '.bad_alignments'], 'wt');
+final_stats
+1 28
+1 28
+2 28
+3 28
+4 28
+5 28
+6 28
+7 28
+8 28
+9 28
+10 28
+11 28
+12 28
+13 28
+14 28
+15 28
+16 28
+17 28
+18 28
+19 28
+20 28
+21 28
+22 28
+23 28
+24 28
+25 28
+26 28
+27 28
+28 28
+29 28
+30 28
+31 28
+32 28
+33 28
+34 28
+35 28
+36 28
+37 28
+38 28
+39 28
+40 28
+41 28
+42 28
+43 28
+44 28
+45 28
+46 28
+47 28
+48 28
+49 28
+50 28
+51 28
+52 28
+53 28
+54 28
+55 28
+56 28
+57 28
+58 28
+59 28
+60 28
+61 28
+62 28
+63 28
+64 28
+65 28
+66 28
+67 28
+68 28
+69 28
+70 28
+71 28
+72 28
+73 28
+74 28
+75 28
+76 28
+77 28
+78 28
+79 28
+80 28
+81 28
+82 28
+83 28
+84 28
+85 28
+86 28
+87 28
+88 28
+89 28
+90 28
+91 28
+92 28
+93 28
+94 28
+95 28
+96 28
+97 28
+98 28
+99 28
+100 28
+101 28
+102 28
+103 28
+104 28
+105 28
+106 28
+107 28
+108 28
+109 28
+110 28
+111 28
+112 28
+113 28
+114 28
+115 28
+116 28
+117 28
+118 28
+119 28
+120 28
+121 28
+122 28
+123 28
+124 28
+125 28
+126 28
+127 28
+128 28
+129 28
+130 28
+131 28
+132 28
+133 28
+134 28
+135 28
+136 28
+137 28
+138 28
+139 28
+140 28
+141 28
+142 28
+143 28
+144 28
+145 28
+146 28
+147 28
+148 28
+149 28
+150 28
+151 28
+152 28
+153 28
+154 28
+155 28
+156 28
+157 28
+158 28
+159 28
+160 28
+161 28
+162 28
+163 28
+164 28
+165 28
+166 28
+167 28
+168 28
+169 28
+170 28
+171 28
+172 28
+173 28
+174 28
+175 28
+176 28
+177 28
+178 28
+179 28
+180 28
+181 28
+182 28
+183 28
+184 28
+185 28
+186 28
+187 28
+188 28
+189 28
+190 28
+191 28
+192 28
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',41,1)">41  </a>  fid = fopen([log_filename '.bad_alignments'], 'wt');
+final_stats
+1 28
+1 28
+001-pdm01ABABa1, 8.911610, 0.000463338842975, 175.109, 0.015, 249.606, 0.06, 218.274, 0.015, 240.349, 0.046, 233.043, 0.022, 233.769, 0.057, 244.77, 0.031, 240.695, 0.066, 191.835, 0.076, 227.37, 0.059, 234.566, 0.025, 224.252, 0.067,
+2 28
+001-pdm01ABABb1, 8.836150, 0.000755239669421, 219.853, 0.058, 230.115, 0.046, 301.697, 0.056, 281.276, 0.032, 282.034, 0.085, 194.71, 0.005, 231.142, 0.071, 214.613, 0.043, 304.605, 0.081, 256.597, 0.02, 270.292, 0.068, 207.27, 0.005,
+3 28
+001-pdm01ABBAa1, 9.113960, 0.000557173553719, 178.21, 0.026, 233.774, 0.069, 239.1, 0.08, -125.074, 0.015, 219.323, 0.028, 222.28, 0.049, 230.868, 0.04, 239.824, 0.028, 215.584, 0.039, 250.929, 0.064, 220.408, 0.066, -168.789, 0.071,
+4 28
+001-pdm01ABBAb1, 8.893220, 0.000593652892562, 235.779, 0.059, 180.387, 0.031, 225.538, 0.035, 280.853, 0.087, 258.753, 0.08, 244.53, 0.033, 219.041, 0.026, 272.021, 0.072, 263.159, 0.063, 173.821, 0.03, 185.015, 0.038, 239.643, 0.097,
+5 28
+001-pdm02ABABa1, 10.425900, 0.000294743801653, 206.625, 0.022, 243.152, 0.042, 244.006, 0.013, 271.463, 0.044, 250.242, 0.014, 277.428, 0.04, 231.713, 0.013, 261.139, 0.041, 215.185, 0.019, 278.352, 0.047, 218.78, 0.018, 275.47, 0.04,
+6 28
+001-pdm02ABABb1, 10.596200, 0.000213537190083, 276.568, 0.039, 219.666, 0.015, 268.705, 0.052, 255.814, 0.014, 293.892, 0.059, 252.879, 0.014, 286.973, 0.043, 257.308, 0.015, 261.475, 0.049, 254.48, 0.016, 247.551, 0.025, 214.392, 0.014,
+7 28
+001-pdm02ABBAa1, 10.375400, 0.000187867768595, 201.108, 0.014, 252.375, 0.052, 239.709, 0.046, 214.257, 0.014, 217.951, 0.017, 252.904, 0.039, 250.641, 0.034, 218.092, 0.013, 254.487, 0.024, 234.92, 0.047, 267.591, 0.072, 218.075, 0.023,
+8 28
+001-pdm02ABBAb1, 10.272400, 0.000660975206612, 275.881, 0.044, 193.06, 0.02, 253.149, 0.009, 279.776, 0.05, 289.655, 0.044, 256.43, 0.015, 276.114, 0.015, 270.658, 0.048, 277.277, 0.045, 251.465, 0.019, 250.002, 0.011, 257.374, 0.056,
+9 28
+001-pdm03ABABa1, 9.266930, 0.000425239669421, 200.082, 0.248, 240.604, 0.035, 210.456, 0.016, 260.363, 0.079, 218.495, 0.021, 255.628, 0.038, 206.585, 0.017, 232.365, 0.072, 231.719, 0.018, 211.522, 0.025, 229.95, 0.015, 254.304, 0.073,
+10 28
+001-pdm03ABABb1, 10.067400, 0.00148305785124, 195.683, 0.043, 215.608, 0.014, 262.699, 0.038, 172.456, 0.022, 229.843, 0.028, 166.735, 0.023, 249.896, 0.043, 242.683, 0.021, 212.015, 0.023, 243.45, 0.03, 178.367, 0.076, 151.593, 0.014,
+11 28
+001-pdm03ABBAa1, 9.493930, 0.000726958677686, 170.548, 0.015, 211.498, 0.038, 225.225, 0.033, 208.344, 0.015, -202.492, 0.081, 231.995, 0.035, 184.512, 0.027, 219.496, 0.013, 225.348, 0.015, 238.261, 0.044, 227.826, 0.03, 214.307, 0.015,
+12 28
+001-pdm03ABBAb1, 9.553570, 0.000288958677686, 263.658, 0.031, 190.901, 0.015, 217.701, 0.013, 239.692, 0.054, 244.091, 0.033, -205.173, 0.081, 206.992, 0.014, 238.173, 0.052, 216.797, 0.029, 225.299, 0.013, 222.014, 0.014, 244.655, 0.029,
+13 28
+001-pdm04ABABa1, 9.197520, 0.00072, 239.724, 0.019, 251.144, 0.054, 162.099, 0.019, 220.628, 0.062, 213.383, 0.015, 255.759, 0.069, 158.239, 0.015, 241.938, 0.061, 202.345, 0.019, 218.512, 0.052, 223.657, 0.013, 206.149, 0.059,
+14 28
+001-pdm04ABABb1, 8.927580, 0.000256743801653, 241.517, 0.062, 243.872, 0.034, 276.168, 0.071, 235.373, 0.025, 278.058, 0.06, 224.258, 0.032, 249.688, 0.07, 216.188, 0.037, 210.144, 0.033, 217.373, 0.025, 253.061, 0.039, 190.145, 0.024,
+15 28
+001-pdm04ABBAa1, 9.644380, 0.000110991735537, -124.58, 0.089, 243.607, 0.062, 204.93, 0.067, 132.952, 0.023, 202.817, 0.024, 249.34, 0.065, 229.53, 0.046, 215.108, 0.023, 201.871, 0.025, 246.663, 0.051, 220.018, 0.029, 224.983, 0.029,
+16 28
+001-pdm04ABBAb1, 9.708510, 0.00013932231405, 250.177, 0.048, 209.689, 0.018, 196.801, 0.025, 241.825, 0.046, 239.576, 0.043, 156.186, 0.02, 178.952, 0.02, 242.971, 0.039, 231.213, 0.045, 192.656, 0.026, 194.009, 0.02, 186.536, 0.048,
+17 28
+001-pdm05ABABa1, 9.229060, 0.000404231404959, 206.903, 0.028, 229.321, 0.073, 232.881, 0.019, 255.941, 0.077, 230.158, 0.022, 225.169, 0.045, 209.538, 0.021, 230.303, 0.054, 242.374, 0.016, 228.112, 0.062, 242.431, 0.018, 241.927, 0.091,
+18 28
+001-pdm05ABABb1, 9.805080, 0.011398446281, 219.725, 0.036, 221.749, 0.025, 206.015, 0.121, 232.043, 0.028, 241.806, 0.091, 184.133, 0.015, 256.708, 0.089, -148.117, 0.043, 230.976, 0.025, -119.32, 0.049, 173.799, 0.083, 210.788, 0.03,
+19 28
+001-pdm05ABBAa1, 9.168670, 0.000261239669421, 267.156, 0.021, 226.35, 0.081, 208.849, 0.055, 250.866, 0.024, 233.516, 0.03, 257.378, 0.085, 289.502, 0.072, 251.435, 0.032, 231.574, 0.029, 163.156, 0.098, 209.407, 0.057, 246.692, 0.049,
+20 28
+001-pdm05ABBAb1, 9.019030, 0.000215685950413, 204.302, 0.11, 253.508, 0.032, 147.317, 0.024, 249.653, 0.053, 287.079, 0.05, 261.05, 0.028, 258.365, 0.029, 271.143, 0.05, 273.629, 0.053, 235.894, 0.026, 229.346, 0.037, 211.377, 0.069,
+21 28
+001-pdm06ABABa1, 8.830290, 0.000440727272727, 286.925, 0.017, 274.582, 0.063, 237.07, 0.022, 209.124, 0.056, 259.094, 0.029, 249.109, 0.064, 264.115, 0.021, 226.349, 0.086, 254.746, 0.021, 163.24, 0.024, 246.18, 0.025, -207.483, 0.119,
+22 28
+001-pdm06ABABb1, 8.779350, 0.000213537190083, 276.799, 0.062, 219.058, 0.024, 206.871, 0.044, 228.676, 0.02, 227.408, 0.047, 234.19, 0.025, 227.146, 0.05, 270.09, 0.022, 250.387, 0.058, 245.763, 0.033, 243.869, 0.055, 236.886, 0.033,
+23 28
+001-pdm06ABBAa1, 9.227570, 0.00020147107438, 262.145, 0.025, 229.264, 0.052, 236.999, 0.045, 238.113, 0.021, 230.979, 0.028, 252.016, 0.057, 268.283, 0.055, 257.002, 0.028, 247.307, 0.026, 247.34, 0.053, 249.096, 0.046, 228.511, 0.017,
+24 28
+001-pdm06ABBAb1, 5.491820, 0.0664158842975, -188.008, 0.121, 256.784, 0.021, 245.734, 0.017, 216.986, 0.055, 231.136, 0.048, 241.495, 0.024, 220.935, 0.022, 242.972, 0.049, 226.762, 0.026, 233.881, 0.024, 218.648, 0.073, 205.885, 0.059,
+25 28
+001-pdm07ABABa1, 8.507710, 0.00131370247934, 277.895, 0.028, 261.257, 0.078, 230.634, 0.024, 253.685, 0.052, 240.212, 0.021, 282.783, 0.085, 250.531, 0.027, 273.331, 0.047, 192.288, 0.02, 211.49, 0.054, 229.231, 0.025, 148.147, 0.085,
+26 28
+001-pdm07ABABb1, 8.441170, 0.000966611570248, 190.612, 0.311, 325.165, 0.037, 324.448, 0.081, 310.336, 0.039, 323.865, 0.069, 314.828, 0.027, 331.333, 0.071, 323.249, 0.038, 296.493, 0.068, 283.454, 0.023, 325.661, 0.067, 281.02, 0.025,
+27 28
+001-pdm07ABBAa1, 8.830660, 0.000721421487603, 306.262, 0.021, 273.031, 0.037, 265.169, 0.044, 246.475, 0.021, 231.918, 0.02, 265.028, 0.063, 284.335, 0.051, 246.138, 0.044, 252.245, 0.017, 232.296, 0.017, 297.696, 0.071, -193.345, 0.085,
+28 28
+001-pdm07ABBAb1, 9.168160, 0.000755702479339, 209.671, 0.015, 275.259, 0.018, 262.898, 0.021, 315.354, 0.039, 248.324, 0.076, 306.315, 0.027, 273.812, 0.104, 238.222, 0.068, 294.86, 0.068, 225.633, 0.019, 256.113, 0.023, 269.909, 0.068,
+29 28
+001-pdm08ABABa1, 8.304490, 0.000351272727273, 289.563, 0.042, 277.573, 0.08, 245.217, 0.033, 298.812, 0.078, 254.991, 0.041, 251.754, 0.096, 165.779, 0.055, 294.538, 0.084, 218.272, 0.048, 263.549, 0.068, 247.708, 0.043, 282.864, 0.047,
+30 28
+001-pdm08ABABb1, 8.738240, 0.000453537190083, 307.206, 0.093, 199.771, 0.03, 251.329, 0.1, 206.981, 0.033, 288.611, 0.097, -154.356, 0.013, 250.662, 0.095, 182.68, 0.059, 266.54, 0.092, 193.485, 0.042, 274.908, 0.067, -138.166, 0.029,
+31 28
+001-pdm08ABBAa1, 8.987840, 0.000255702479339, 206.235, 0.021, 233.364, 0.074, 208.571, 0.079, 229.097, 0.031, 213.253, 0.03, 232.488, 0.073, 236.44, 0.069, 256.204, 0.033, 212.164, 0.033, 247.053, 0.061, 257.331, 0.075, 238.32, 0.029,
+32 28
+001-pdm08ABBAb1, 9.245180, 0.000170595041322, 278.453, 0.077, 200.398, 0.032, 205.976, 0.04, 258.861, 0.083, 234.433, 0.065, 224.095, 0.035, 201.923, 0.036, 214.678, 0.075, 224.559, 0.069, 217.889, 0.035, 206.845, 0.018, 185.13, 0.091,
+33 28
+001-pdm09ABABa1, 9.035400, 0.00113110743802, 269.513, 0.021, 275.099, 0.071, 239.039, 0.019, 129.239, 0.045, 217.141, 0.027, 270.239, 0.061, 244.614, 0.024, 261.888, 0.086, 253.418, 0.075, 260.768, 0.08, 226.884, 0.032, 242.82, 0.056,
+34 28
+001-pdm09ABABb1, 8.991030, 0.00103069421488, 214.608, 0.056, 178.508, 0.02, 236.401, 0.081, 240.033, 0.023, 141.08, 0.009, 244.652, 0.022, 259.754, 0.078, 230.207, 0.021, 226.827, 0.07, 209.184, 0.026, 218.392, 0.072, 235.102, 0.034,
+35 28
+001-pdm09ABBAa1, 8.843900, 0.000909719008264, 219.543, 0.03, 272.649, 0.07, 273.746, 0.053, 264.256, 0.026, 193.25, 0.032, 244.728, 0.059, 262.646, 0.053, 251.814, 0.02, 282.134, 0.034, 256.208, 0.061, 275.231, 0.077, 154.881, 0.019,
+36 28
+001-pdm09ABBAb1, 9.571580, 0.000368066115702, 246.43, 0.077, 243.646, 0.022, 221.765, 0.017, 215.017, 0.089, 293.498, 0.058, 238.519, 0.024, 272.406, 0.04, 252.899, 0.064, 261.834, 0.067, 301.652, 0.022, 265.565, 0.031, 165.946, 0.096,
+37 28
+001-pdm10ABABa1, 8.715090, 0.000618148760331, 229.964, 0.022, 247.38, 0.074, 255.573, 0.043, 295.098, 0.071, 249.575, 0.038, 250.722, 0.095, 224.816, 0.037, 289.285, 0.088, 282.409, 0.06, 181.125, 0.078, 213.119, 0.046, 242.51, 0.063,
+38 28
+001-pdm10ABABb1, 9.019340, 0.000363537190083, 316.926, 0.118, 263.426, 0.03, 280.82, 0.095, 241.534, 0.032, 277.092, 0.09, 212.948, 0.047, 267.306, 0.099, 192.789, 0.035, 285.917, 0.054, 202.569, 0.045, 252.361, 0.068, 189.729, 0.036,
+39 28
+001-pdm10ABBAa1, 9.214870, 0.000317603305785, 269.729, 0.021, 249.723, 0.093, 208.694, 0.067, 195.178, 0.027, 212.936, 0.032, 248.772, 0.092, 191.911, 0.071, 212.706, 0.036, 238.139, 0.039, 254.701, 0.069, 218.899, 0.058, -172.531, 0.037,
+40 28
+001-pdm10ABBAb1, 9.359240, 0.000108330578512, 261.423, 0.091, 227.061, 0.032, 215.022, 0.028, 215.714, 0.102, 214.893, 0.062, 198.255, 0.028, 193.821, 0.032, 196.323, 0.111, 208.358, 0.08, 237.383, 0.031, -150.607, 0.03, 234.829, 0.093,
+41 28
+001-pdm11ABABa1, 8.858920, 0.00219892561983, 272.049, 0.024, 215.403, 0.051, 260.342, 0.034, 197.531, 0.054, 270.256, 0.022, 153.217, 0.051, 276.111, 0.024, 252.573, 0.064, 232.952, 0.023, 272.772, 0.06, 293.394, 0.028, 252.502, 0.06,
+42 28
+001-pdm11ABABb1, 8.442300, 0.000714925619835, 240.081, 0.079, 240.847, 0.031, 197.113, 0.05, 277.435, 0.031, 201.653, 0.08, 269.536, 0.036, 158.191, 0.075, 224.399, 0.153, 266.302, 0.061, 167.23, 0.005, 280.374, 0.077, 277.758, 0.031,
+43 28
+001-pdm11ABBAa1, 8.423790, 0.00247692561983, 271.634, 0.035, 244.436, 0.071, 253.176, 0.063, 281.84, 0.031, 280.703, 0.05, 269.281, 0.094, 278.706, 0.077, 250.318, 0.037, 109.458, 0.007, 278.253, 0.109, 240.658, 0.049, 243.858, 0.028,
+44 28
+001-pdm11ABBAb1, 8.613620, 0.000591140495868, 284.509, 0.066, 240.347, 0.022, 243.447, 0.037, 279.857, 0.074, 271.419, 0.067, 269.632, 0.027, 249.877, 0.034, 289.766, 0.064, 290.581, 0.067, 267.257, 0.029, 203.616, 0.031, 231.801, 0.083,
+45 28
+001-pdm12ABABa1, 9.039100, 0.000698512396694, 271.975, 0.03, 220.072, 0.073, 191.323, 0.033, 233.256, 0.081, 237.231, 0.03, 244.339, 0.066, 198.898, 0.03, 229.266, 0.051, 242.682, 0.031, 235.438, 0.073, 187.51, 0.03, -187.11, 0.13,
+46 28
+001-pdm12ABABb1, 8.332720, 0.00131732231405, 225.46, 0.057, 217.669, 0.038, 204.398, 0.091, 196.543, 0.071, 239.875, 0.09, -161.098, 0.071, 227.287, 0.097, 227.551, 0.031, 277.917, 0.095, 171.202, 0.031, 208.862, 0.111, 222.176, 0.025,
+47 28
+001-pdm12ABBAa1, 9.155490, 0.000138066115702, 217.092, 0.037, 243.855, 0.074, 215.307, 0.064, 203.725, 0.026, 230.112, 0.034, 272.676, 0.096, 258.902, 0.059, 208.968, 0.04, 251.721, 0.032, 229.997, 0.083, 247.344, 0.096, 170.964, 0.026,
+48 28
+001-pdm12ABBAb1, 8.871950, 0.000691338842975, 224.366, 0.081, 226.093, 0.041, 174.955, 0.04, 154.743, 0.021, 254.333, 0.066, 177.731, 0.025, 190.059, 0.039, 271.475, 0.082, 209.481, 0.061, 187.084, 0.031, 175.803, 0.033, 181.951, 0.085,
+49 28
+001-pdn01ABABa1, 9.160080, 0.000518446280992, 186.957, 0.028, 230.018, 0.061, 182.318, 0.017, 202.518, 0.053, 196.101, 0.024, 226.844, 0.06, 189.366, 0.021, 243.256, 0.068, 219.008, 0.023, 219.098, 0.058, 199.081, 0.005, 232.012, 0.049,
+50 28
+001-pdn01ABABb1, 8.882300, 0.000526049586777, 213.463, 0.055, 158.011, 0.02, 245.136, 0.066, 175.11, 0.021, 255.195, 0.072, 182.225, 0.026, 247.453, 0.068, 174.471, 0.025, 271.615, 0.043, 201.014, 0.014, 271.199, 0.062, 159.678, 0.018,
+51 28
+001-pdn01ABBAa1, 9.301240, 0.000182231404959, 213.859, 0.022, 220.071, 0.061, 162.114, 0.027, 185.855, 0.024, 183.038, 0.024, 224.327, 0.049, 193.883, 0.037, 171.807, 0.016, 186.662, 0.022, 212.728, 0.042, 198.979, 0.047, 168.248, 0.024,
+52 28
+001-pdn01ABBAb1, 8.944390, 0.000212694214876, 267.008, 0.057, 194.335, 0.024, 170.903, 0.023, 181.292, 0.092, 230.546, 0.061, 165.729, 0.026, -194.019, 0.073, 192.419, 0.045, 258.025, 0.06, 210.723, 0.027, 201.541, 0.026, 236.646, 0.076,
+53 28
+001-pdn02ABABa1, 9.124020, 0.000338016528926, 208.944, 0.014, 267.428, 0.067, 217.407, 0.023, 207.671, 0.102, 214.648, 0.022, 269.401, 0.091, 200.572, 0.028, 298.492, 0.079, 227.764, 0.029, 244.772, 0.09, 193.242, 0.02, 266.89, 0.085,
+54 28
+001-pdn02ABABb1, 10.169200, 0.000606446280992, 242.118, 0.065, 185.741, 0.025, 259.668, 0.069, 204.086, 0.031, 250.264, 0.056, 170.538, 0.022, 260.561, 0.084, 141.434, 0.014, 249.213, 0.037, 198.687, 0.014, -176.687, 0.084, 172.834, 0.026,
+55 28
+001-pdn02ABBAa1, 3.841020, 0.0642394545455, 125.04, 0.034, 180.029, 0.108, 187.679, 0.408, 105.308, 0.006, 118.813, 0.005, 170.469, 0.457, 155.287, 0.081, 143.11, 0.09, 176.137, 0.011, 129.007, 0.038, 140.84, 0.005, 112.468, 0.031,
+56 28
+001-pdn02ABBAb1, 9.396930, 0.000659173553719, 319.826, 0.08, 177.757, 0.018, 182.976, 0.02, 255.878, 0.083, 244.148, 0.071, -112.111, 0.08, 205.024, 0.014, 185.543, 0.031, 226.07, 0.084, 187.872, 0.014, 207.785, 0.014, 231.914, 0.049,
+57 28
+001-pdn03ABABa1, 8.972810, 0.000297157024793, 198.782, 0.009, 250.19, 0.062, -178.915, 0.077, 270.163, 0.067, -204.769, 0.084, 263.282, 0.043, -204.04, 0.005, 256.455, 0.026, 233.163, 0.01, 276.442, 0.068, 226.091, 0.021, 251.778, 0.031,
+58 28
+001-pdn03ABABb1, 8.538070, 0.000734446280992, 217.063, 0.043, 234.578, 0.034, 253.164, 0.063, 193.264, 0.015, 228.42, 0.067, 176.936, 0.018, 171.062, 0.088, 196.141, 0.005, 259.957, 0.08, 230.271, 0.025, 262.359, 0.098, 173.67, 0.031,
+59 28
+001-pdn03ABBAa1, 8.675280, 0.000653685950413, 138.696, 0.015, 215.412, 0.047, 216.621, 0.04, 214.691, 0.014, 153.536, 0.015, 163.038, 0.083, 241.499, 0.043, 216.071, 0.015, 228.066, 0.015, 263.637, 0.059, 253.515, 0.078, 186.088, 0.027,
+60 28
+001-pdn03ABBAb1, 8.715140, 0.00102965289256, 270.863, 0.05, 229.341, 0.017, 220.509, 0.024, 253.18, 0.046, 233.116, 0.036, 156.783, 0.015, 177.439, 0.019, 241.288, 0.064, 236.212, 0.066, 200.349, 0.02, 184.606, 0.019, 209.396, 0.084,
+61 28
+001-pdn04ABABa1, 8.164760, 0.000461603305785, 193.281, 0.028, 272.778, 0.061, 225.915, 0.033, 270.666, 0.066, 205.024, 0.033, 236.345, 0.054, 244.952, 0.019, 266.06, 0.047, -166.364, 0.075, 281.825, 0.07, 208.198, 0.027, 273.366, 0.073,
+62 28
+001-pdn04ABABb1, 7.648480, 0.000597719008264, 246.956, 0.066, 241.1, 0.03, 297.762, 0.071, 239.913, 0.025, 284.826, 0.071, 222.788, 0.028, 281.632, 0.096, 257.886, 0.043, 264.288, 0.069, 214.395, 0.005, 215.131, 0.069, 208.285, 0.043,
+63 28
+001-pdn04ABBAa1, 7.555260, 0.00168062809917, -186.895, 0.108, 262.815, 0.071, 232.252, 0.046, 253.644, 0.039, 264.612, 0.028, 276.999, 0.086, 252.545, 0.084, 216.734, 0.014, 188.734, 0.027, 239.322, 0.051, 220.902, 0.039, 225.654, 0.036,
+64 28
+001-pdn04ABBAb1, 8.436950, 0.00111092561983, 226.778, 0.081, 197.173, 0.017, 181.874, 0.028, 257.908, 0.057, 230.345, 0.041, -171.168, 0.088, 211.404, 0.021, 252.901, 0.057, 212.323, 0.047, 202.878, 0.051, 153.405, 0.13, 274.761, 0.081,
+65 28
+001-pdn05ABABa1, 9.667200, 0.000574561983471, 221.945, 0.033, 241.694, 0.05, 217.029, 0.023, 218.508, 0.032, 223.082, 0.019, 200.878, 0.03, 258.04, 0.017, 224.118, 0.029, 248.85, 0.023, 246.88, 0.03, 250.687, 0.024, 235.697, 0.039,
+66 28
+001-pdn05ABABb1, 8.932390, 0.00036532231405, 288.819, 0.083, 212.1, 0.017, 154.067, 0.025, 228.907, 0.017, 177.963, 0.023, 219.325, 0.023, 158.837, 0.054, 225.15, 0.028, 140.248, 0.043, 232.901, 0.018, 235.17, 0.067, 217.572, 0.02,
+67 28
+001-pdn05ABBAa1, 9.254290, 0.000240198347107, 227.207, 0.017, -183.769, 0.13, 251.524, 0.07, 252.201, 0.022, 223.423, 0.029, 206.367, 0.053, 243.301, 0.051, 229.883, 0.024, 234.893, 0.027, 246.145, 0.068, 150.523, 0.005, 233.641, 0.029,
+68 28
+001-pdn05ABBAb1, 9.593560, 0.000209157024793, 217.635, 0.126, 216.317, 0.021, 224.303, 0.016, 226.593, 0.049, 241.999, 0.093, 229.357, 0.026, 226.45, 0.019, 203.74, 0.054, 233.494, 0.057, 204.617, 0.018, 198.564, 0.017, 234.525, 0.04,
+69 28
+001-pdn06ABABa1, 8.626850, 0.00106314049587, 182.119, 0.005, -240.332, 0.144, 294.931, 0.034, 217.642, 0.037, 301.97, 0.036, 220.869, 0.04, 333.953, 0.031, 301.701, 0.039, 282.817, 0.028, 273.032, 0.075, 271.261, 0.037, 287.988, 0.066,
+70 28
+001-pdn06ABABb1, 7.858480, 0.000642909090909, 206.537, 0.064, 244.397, 0.035, 179.79, 0.08, 178.431, 0.063, 273.533, 0.071, 243.235, 0.032, 255.838, 0.07, 244.091, 0.032, 280.978, 0.057, 290.073, 0.049, 263.725, 0.073, 241.164, 0.026,
+71 28
+001-pdn06ABBAa1, 8.633970, 0.000316330578512, 259.357, 0.018, 233.922, 0.073, 258.484, 0.071, 239.298, 0.024, 281.937, 0.023, 298.03, 0.054, 247.738, 0.052, 268.555, 0.019, 244.318, 0.027, -201.628, 0.106, 236.961, 0.055, 232.911, 0.021,
+72 28
+001-pdn06ABBAb1, 8.728110, 0.000361702479339, 235.191, 0.06, 252.102, 0.021, 220.826, 0.025, 207.537, 0.056, 292.994, 0.066, 250.133, 0.019, 278.621, 0.027, 153.17, 0.095, 219.358, 0.021, 243.913, 0.016, 253.109, 0.024, 185.165, 0.052,
+73 28
+001-pdn07ABABa1, 8.637780, 0.000263355371901, 210.44, 0.024, 226.538, 0.066, 217.974, 0.021, 261.263, 0.042, 219.174, 0.019, 228.387, 0.039, 212.264, 0.016, 226.871, 0.059, 260.154, 0.024, 245.769, 0.071, 202.999, 0.022, 177.785, 0.005,
+74 28
+001-pdn07ABABb1, 7.719260, 0.000748595041322, 245.946, 0.065, 198.787, 0.023, 293.314, 0.099, 210.409, 0.02, 189.149, 0.047, 184.087, 0.029, 285.592, 0.077, 207.731, 0.017, 153.666, 0.078, 183.66, 0.016, 183.569, 0.071, 220.325, 0.02,
+75 28
+001-pdn07ABBAa1, 8.420640, 0.000830876033058, 242.351, 0.016, 215.018, 0.063, 256.211, 0.06, 180.868, 0.016, 198.797, 0.016, 230.68, 0.078, 208.158, 0.051, -147.699, 0.085, 201.521, 0.027, 240.137, 0.087, 207.063, 0.039, 166.797, 0.011,
+76 28
+001-pdn07ABBAb1, 8.879610, 0.000291900826446, 274.233, 0.069, 198.031, 0.021, 180.201, 0.018, 210.586, 0.051, 216.725, 0.057, 167.512, 0.024, 205.159, 0.029, 205.821, 0.057, 189.035, 0.03, 191.641, 0.016, 176.9, 0.026, 201.129, 0.063,
+77 28
+001-pdn08ABABa1, 9.410880, 0.00104441322314, 235.669, 0.189, 293.847, 0.083, 326.464, 0.034, 290.598, 0.075, 280.49, 0.039, 301.222, 0.08, 258.471, 0.049, 283.798, 0.073, 278.442, 0.035, 308.17, 0.07, 282.259, 0.03, 303.594, 0.059,
+78 28
+001-pdn08ABABb1, 9.947230, 0.000364628099174, 266.826, 0.071, 272.228, 0.028, 252.718, 0.063, 241.998, 0.021, 331.909, 0.081, 229.503, 0.023, 277.684, 0.082, 255.27, 0.037, 293.041, 0.069, 260.409, 0.032, 286.511, 0.061, 279.369, 0.019,
+79 28
+001-pdn08ABBAa1, 9.858080, 0.000558595041322, -217.931, 0.072, 272.585, 0.087, 251.222, 0.054, 245.917, 0.023, 274.582, 0.03, 287.962, 0.069, 237.625, 0.044, 238.498, 0.018, 267.031, 0.033, 274.954, 0.08, 280.305, 0.071, 244.678, 0.029,
+80 28
+001-pdn08ABBAb1, 9.637450, 0.000555504132231, 328.428, 0.088, 270.969, 0.038, 256.524, 0.042, 300.901, 0.079, 279.959, 0.101, 262.407, 0.047, 188.734, 0.03, 248.998, 0.069, 235.918, 0.076, 229.606, 0.046, 255.154, 0.02, 284.365, 0.05,
+81 28
+001-pdn09ABABa1, 9.405930, 0.000294231404959, 201.553, 0.023, 257.094, 0.078, 205.519, 0.019, 142.929, 0.072, 228.701, 0.017, 252.911, 0.074, 228.67, 0.021, 224.83, 0.044, 234.045, 0.022, 242.953, 0.053, 247.222, 0.022, 142.467, 0.005,
+82 28
+001-pdn09ABABb1, 9.349330, 0.000469719008264, 148.36, 0.028, 213.813, 0.023, 239.838, 0.06, 210.534, 0.027, 237.827, 0.067, 221.425, 0.019, 160.273, 0.067, 204.011, 0.029, 238.155, 0.068, 177.723, 0.024, 164.441, 0.091, 218.286, 0.03,
+83 28
+001-pdn09ABBAa1, 8.539680, 0.00039747107438, 224.261, 0.017, 246.187, 0.059, 190.783, 0.054, 226.154, 0.016, 214.021, 0.02, 140.965, 0.06, 208.842, 0.058, 205.48, 0.018, 211.678, 0.031, 129.944, 0.097, 212.423, 0.028, 129.623, 0.034,
+84 28
+001-pdn09ABBAb1, 9.104820, 0.000115966942149, 245.32, 0.048, 219.109, 0.024, 236.031, 0.019, 150.584, 0.084, 237.705, 0.04, 227.245, 0.019, 194.292, 0.026, 211.066, 0.085, 193.293, 0.028, 226.113, 0.032, 186.062, 0.03, 214.627, 0.039,
+85 28
+001-pdn10ABABa1, 10.206200, 0.000595338842975, 278.179, 0.028, 267.108, 0.062, 243.544, 0.027, 247.958, 0.066, 240.416, 0.025, 258.847, 0.072, 230.194, 0.027, 198.649, 0.059, 254.673, 0.02, 238.002, 0.054, 239.245, 0.043, 207.042, 0.042,
+86 28
+001-pdn10ABABb1, 10.451300, 0.000350082644628, 241.517, 0.045, 233.449, 0.06, 273.846, 0.059, 223.642, 0.033, 298.773, 0.096, 226.786, 0.049, 261.599, 0.086, 239.508, 0.037, 236.167, 0.092, 253.191, 0.049, 257.043, 0.072, 211.281, 0.029,
+87 28
+001-pdn10ABBAa1, 9.811180, 0.000297702479339, 314.785, 0.03, 292.987, 0.054, 258.081, 0.056, 204.616, 0.03, 259.212, 0.037, 229.806, 0.081, 247.813, 0.074, 223.992, 0.042, 189.476, 0.04, 248.825, 0.064, 245.048, 0.068, 206.292, 0.028,
+88 28
+001-pdn10ABBAb1, 9.838190, 0.000281702479339, 318.224, 0.071, 227.998, 0.038, 249.844, 0.037, 289.239, 0.055, 266.646, 0.078, 266.211, 0.051, 245.983, 0.035, 259.713, 0.085, 249.717, 0.062, 213.545, 0.054, 233.128, 0.037, 247.46, 0.055,
+89 28
+001-pdn11ABABa1, 9.422670, 0.000699652892562, 302.47, 0.025, 255.696, 0.053, 207.938, 0.026, 263.665, 0.06, 275.912, 0.03, 231.773, 0.038, 240.213, 0.027, 241.924, 0.037, 208.185, 0.013, 266.141, 0.083, 271.679, 0.031, 275.394, 0.051,
+90 28
+001-pdn11ABABb1, 9.240840, 0.00113788429752, 300.861, 0.083, 231.209, 0.036, 247.502, 0.068, 198.779, 0.029, 255.877, 0.058, 247.554, 0.028, 255.553, 0.03, 241.402, 0.029, 215.415, 0.153, 217.834, 0.036, 262.637, 0.073, 209.615, 0.046,
+91 28
+001-pdn11ABBAa1, 9.540660, 0.000787900826446, 280.324, 0.027, 245.096, 0.071, 223.021, 0.039, 252.017, 0.024, 232.871, 0.027, 250.542, 0.061, 246.792, 0.046, 236.731, 0.022, 230.104, 0.025, 195.913, 0.048, 223.992, 0.042, 233.739, 0.03,
+92 28
+001-pdn11ABBAb1, 4.973550, 0.199159289256, 138.353, 0.115, 173.217, 0.226, 110.759, 0.13, 128.555, 0.062, 140.621, 0.05, 131.031, 0.039, 125.265, 0.025, 114.398, 0.038, 113.02, 0.096, 135.493, 0.02, 169.93, 0.017, 147.498, 0.314,
+93 28
+001-pdn12ABABa1, 8.982220, 0.00072732231405, 297.794, 0.031, 241.878, 0.077, 239.464, 0.026, 263.367, 0.06, 215.281, 0.032, 267.082, 0.087, 256.617, 0.03, 222.759, 0.081, 283.203, 0.039, 235.983, 0.085, 240.507, 0.026, 177.518, 0.064,
+94 28
+001-pdn12ABABb1, 9.564290, 0.000494446280992, 189.617, 0.055, 270.89, 0.029, 254.721, 0.078, 243.783, 0.031, 208.07, 0.142, 234.135, 0.031, 185.19, 0.115, 230.719, 0.022, 287.039, 0.061, 200.948, 0.012, 232.83, 0.069, 217.47, 0.013,
+95 28
+001-pdn12ABBAa1, 9.430430, 0.000652016528926, 238.616, 0.027, 236.081, 0.054, 233.874, 0.061, 247.834, 0.027, 259.823, 0.033, 256.505, 0.067, 278.103, 0.053, 260.04, 0.025, 266.942, 0.05, 270.019, 0.072, 274.423, 0.06, 235.175, 0.035,
+96 28
+001-pdn12ABBAb1, 9.181090, 0.00182051239669, 250.529, 0.049, 168.027, 0.005, 252.889, 0.019, 233.345, 0.057, 279.243, 0.056, 188.357, 0.02, 206.219, 0.02, 229.159, 0.033, 272.247, 0.059, 303.08, 0.027, 259.63, 0.034, 269.553, 0.067,
+97 28
+001-psm01ABABa1, 9.607600, 0.00118461157025, 198.823, 0.04, -195.531, 0.005, 280.536, 0.051, 242.158, 0.039, 268.238, 0.059, 240.445, 0.024, 271.451, 0.049, 242.954, 0.025, 261.26, 0.041, 217.107, 0.019, 264.247, 0.033, 210.729, 0.035,
+98 28
+001-psm01ABABb1, 5.566050, 0.121628016529, 167.284, 0.008, 252.838, 0.039, 216.047, 0.013, 246.194, 0.043, 204.838, 0.018, 270.435, 0.057, 216.176, 0.018, 298.259, 0.055, 221.305, 0.023, 291.11, 0.047, 281.479, 0.048, -173.725, 0.017,
+99 28
+001-psm01ABBAa1, 9.725520, 0.000283603305785, 259.628, 0.065, 200.206, 0.02, 219.302, 0.018, 272.844, 0.05, 262.841, 0.055, 186.077, 0.028, 240.11, 0.028, 276.377, 0.059, 258.631, 0.055, 215.407, 0.019, -177.365, 0.083, 248.934, 0.033,
+100 28
+001-psm01ABBAb1, 8.928860, 0.000702198347107, 217.624, 0.013, 248.691, 0.047, 219.935, 0.037, 232.678, 0.014, 200.552, 0.017, 270.289, 0.069, 254.364, 0.041, 249.809, 0.026, -208.821, 0.083, 204.134, 0.057, 211.055, 0.035, 160.907, 0.005,
+101 28
+001-psm02ABABa1, 10.688700, 0.0143569917355, 230.822, 0.028, 234.199, 0.017, 210.355, 0.02, 64.8084, 0.017, 207.884, 0.019, 117.833, 0.038, 225.091, 0.034, 202.92, 0.023, 200.005, 0.163, 67.5963, 0.072, 202.029, 0.016, 118.216, 0.076,
+102 28
+001-psm02ABABb1, 8.993160, 0.000386446280992, 197.094, 0.015, 205.499, 0.044, 214.015, 0.014, 215.737, 0.045, 234.997, 0.019, 236.464, 0.034, 216.848, 0.022, 246.027, 0.043, 238.777, 0.015, 247.854, 0.031, 236.022, 0.015, 222.935, 0.038,
+103 28
+001-psm02ABBAa1, 9.268440, 0.000260694214876, 208.556, 0.047, 163.486, 0.015, 182.557, 0.013, 250.994, 0.048, 206.943, 0.028, 186.484, 0.015, 187.759, 0.02, 266.604, 0.041, 222.749, 0.029, 192.785, 0.027, 192.833, 0.018, 226.406, 0.034,
+104 28
+001-psm02ABBAb1, 9.264270, 0.000291173553719, 174.552, 0.013, 211.81, 0.05, 220.518, 0.029, 240.899, 0.014, 225.714, 0.014, 219.804, 0.025, 245.469, 0.05, 208.928, 0.013, 210.297, 0.015, 229.264, 0.036, 213.345, 0.025, -222.465, 0.078,
+105 28
+001-psm03ABABa1, 9.864830, 0.000568363636364, 302.577, 0.053, -188.123, 0.074, 261.218, 0.055, 224.178, 0.02, 279.604, 0.05, 223.379, 0.017, 186.267, 0.033, 235.705, 0.015, 277.643, 0.066, 255.608, 0.014, 295.552, 0.044, 179.443, 0.023,
+106 28
+001-psm03ABABb1, 10.408100, 0.000223504132231, 214.937, 0.014, 279.845, 0.053, 245.942, 0.03, 282.384, 0.06, 260.475, 0.027, 265.09, 0.044, 218.606, 0.016, 263.495, 0.038, 229.061, 0.029, 288.651, 0.086, 229.795, 0.022, 255.367, 0.035,
+107 28
+001-psm03ABBAa1, 9.737860, 0.000508876033058, 231.35, 0.032, 216.728, 0.015, 270.835, 0.023, 298.167, 0.063, 234.367, 0.075, 255.542, 0.026, -188.887, 0.09, 235.36, 0.075, -192.8, 0.144, 236.697, 0.021, 229.939, 0.03, 250.046, 0.045,
+108 28
+001-psm03ABBAb1, 10.444500, 0.000495421487603, 227.985, 0.016, 259.298, 0.066, 259.898, 0.054, 218.615, 0.014, 227.01, 0.014, 262.419, 0.073, 275.311, 0.033, 233.842, 0.01, 228.967, 0.019, 275.938, 0.061, 258.116, 0.022, 219.162, 0.019,
+109 28
+001-psm04ABABa1, 9.550940, 0.000666049586777, 265.589, 0.115, 215.338, 0.011, 234.648, 0.038, 186.779, 0.017, 220.068, 0.046, 244.541, 0.023, 250.391, 0.047, 242.984, 0.012, 238.801, 0.042, 237.738, 0.013, 232.144, 0.052, -191.175, 0.054,
+110 28
+001-psm04ABABb1, 9.694180, 0.000149537190083, 165.824, 0.015, 217.495, 0.051, 204.273, 0.014, 214.098, 0.057, 220.639, 0.013, 253.275, 0.05, 215.607, 0.013, 223.151, 0.058, 233.151, 0.009, 241.342, 0.055, 244.05, 0.014, 219.989, 0.038,
+111 28
+001-psm04ABBAa1, 9.311190, 0.000182727272727, 268.309, 0.057, 218.985, 0.019, 183.693, 0.018, 226.269, 0.047, 215.47, 0.027, 224.383, 0.01, -185.039, 0.082, 244.957, 0.054, 218.085, 0.036, 211.965, 0.021, 185.864, 0.022, 211.462, 0.074,
+112 28
+001-psm04ABBAb1, 9.771540, 0.000821157024793, -94.9404, 0.06, 230.887, 0.042, 233.257, 0.038, 204.125, 0.017, 213.378, 0.02, 254.972, 0.035, 249.952, 0.03, 228.531, 0.014, 189.069, 0.015, 228.109, 0.039, 237.831, 0.026, 198.448, 0.018,
+113 28
+001-psm05ABABa1, 8.963600, 0.000260975206612, 199.224, 0.106, 230.085, 0.028, 195.726, 0.077, 260.914, 0.041, 247.456, 0.061, 194.08, 0.005, 257.848, 0.084, 227.525, 0.051, 243.881, 0.066, 225.289, 0.026, 278.679, 0.059, 221.706, 0.017,
+114 28
+001-psm05ABABb1, 9.403190, 0.000209090909091, 221.899, 0.023, 255.938, 0.059, 222.839, 0.022, 221.734, 0.088, 263, 0.018, 229.27, 0.088, 242.528, 0.018, 229.601, 0.098, 246.566, 0.026, 202.957, 0.105, 239.976, 0.028, -198.311, 0.131,
+115 28
+001-psm05ABBAa1, 9.441780, 0.000376446280992, 192.685, 0.06, 210.595, 0.033, 243.005, 0.034, -237.854, 0.119, 208.635, 0.032, 228.683, 0.018, 239.203, 0.023, 252.57, 0.061, 251.046, 0.056, -211.965, 0.085, 233.501, 0.022, 243.743, 0.055,
+116 28
+001-psm05ABBAb1, 7.213610, 0.0139361487603, 215.695, 0.02, 254.867, 0.074, 225.791, 0.058, 285.769, 0.017, 274.023, 0.022, 261.435, 0.07, 272.127, 0.065, 277.151, 0.018, 234.687, 0.021, 250.838, 0.07, 237.886, 0.05, 118.184, 0.045,
+117 28
+001-psm06ABABa1, 8.388750, 0.000520925619835, 194.278, 0.09, 238.329, 0.02, 200.142, 0.109, 247.501, 0.046, 194.552, 0.035, 271.227, 0.034, 165.233, 0.032, 261.958, 0.039, 166.659, 0.029, 270.345, 0.035, 203.004, 0.048, 201.315, 0.031,
+118 28
+001-psm06ABABb1, 6.077190, 0.0457398347107, 285.98, 0.036, 191.273, 0.048, 214.313, 0.026, 216.445, 0.054, 237.902, 0.022, 207.935, 0.066, 211.07, 0.027, 249.825, 0.037, 233.838, 0.021, 222.769, 0.042, 228.12, 0.039, 235.954, 0.474,
+119 28
+001-psm06ABBAa1, 8.730010, 0.000627173553719, 282.151, 0.062, 212.932, 0.022, 201.367, 0.024, 227.558, 0.068, 239.714, 0.055, 254.052, 0.022, 222.905, 0.029, 259.545, 0.073, 229.694, 0.073, 225.991, 0.031, 219.847, 0.031, 218.631, 0.047,
+120 28
+001-psm06ABBAb1, 9.338930, 0.000187603305785, 237.127, 0.023, 124.907, 0.077, 215.31, 0.038, 258.367, 0.02, 226.242, 0.023, 238.341, 0.038, 195.402, 0.033, 245.075, 0.027, 215.233, 0.026, 160.696, 0.047, 224.71, 0.033, 217.654, 0.027,
+121 28
+001-psm07ABABa1, 8.237100, 0.000934991735537, 271.878, 0.057, 278.426, 0.021, 250.031, 0.068, 267.476, 0.025, 277.378, 0.081, 249.066, 0.015, 280.11, 0.081, 215.712, 0.014, 207.262, 0.191, 297.033, 0.025, 266.292, 0.073, 239.545, 0.017,
+122 28
+001-psm07ABABb1, 8.842820, 0.000275818181818, 257.737, 0.027, 273.515, 0.089, 280.574, 0.017, 255.718, 0.056, 281.647, 0.025, 282.602, 0.07, 260.575, 0.032, 253.98, 0.066, 239.795, 0.019, 254.872, 0.065, 250.864, 0.029, 261.255, 0.046,
+123 28
+001-psm07ABBAa1, 8.174430, 0.000648595041322, 230.998, 0.071, 247.609, 0.021, 296.929, 0.024, 192.58, 0.087, 244.699, 0.085, 219.103, 0.02, 224.674, 0.016, 293.999, 0.055, 303.445, 0.061, 219.339, 0.025, 275.869, 0.016, 169.632, 0.078,
+124 28
+001-psm07ABBAb1, 8.399640, 0.000425603305785, 307.822, 0.022, 230.677, 0.074, 156.456, 0.071, 239.642, 0.016, 229.042, 0.03, 154.034, 0.089, 216.974, 0.049, 259.836, 0.023, -173.777, 0.078, 159.832, 0.084, 168.294, 0.066, 198.159, 0.02,
+125 28
+001-psm08ABABa1, 12.272400, 0.0105928099174, 133.904, 0.044, 148.697, 0.08, 243.316, 0.069, 244.405, 0.03, 258.852, 0.064, 104.193, 0.038, 190.408, 0.03, 134.964, 0.046, 204.32, 0.05, 260.557, 0.029, 249.713, 0.053, 247.579, 0.03,
+126 28
+001-psm08ABABb1, 9.820370, 0.000289900826446, 251.77, 0.022, 292.639, 0.054, 279.747, 0.025, 291.972, 0.046, 259.872, 0.019, 310.822, 0.05, 269.037, 0.022, 294.572, 0.074, 258.96, 0.019, 272.498, 0.042, 234.316, 0.022, 255.752, 0.055,
+127 28
+001-psm08ABBAa1, 9.409750, 0.000680595041322, 255.467, 0.066, 294.805, 0.025, 279.912, 0.025, 298.298, 0.035, 318.777, 0.055, 229.838, 0.023, 275.148, 0.024, 273.476, 0.068, 256.166, 0.053, 284.109, 0.024, 299.549, 0.037, 272.102, 0.07,
+128 28
+001-psm08ABBAb1, 9.427270, 0.000241834710744, 275.831, 0.026, 286.109, 0.045, 255.904, 0.045, 258.732, 0.021, 258.046, 0.022, 268.284, 0.058, 244.935, 0.062, 254.016, 0.025, 254.891, 0.02, 254.516, 0.07, 274.361, 0.06, 258.131, 0.016,
+129 28
+001-psm09ABABa1, 9.326830, 0.000288066115702, 292.157, 0.073, 217.016, 0.038, 302.097, 0.075, 258.5, 0.041, 291.625, 0.089, 276.818, 0.035, 234.941, 0.042, 243.807, 0.051, 213.462, 0.119, 258.262, 0.087, 262.178, 0.039, 241.577, 0.041,
+130 28
+001-psm09ABABb1, 9.801690, 0.000467173553719, 229.507, 0.039, 274.053, 0.057, 236.524, 0.031, 288.341, 0.072, 250.775, 0.029, 262.105, 0.072, 243.157, 0.037, 229.032, 0.048, 259.504, 0.038, 263.355, 0.054, 241.154, 0.045, 259.394, 0.048,
+131 28
+001-psm09ABBAa1, 9.615300, 0.000240231404959, 303.453, 0.069, 207.561, 0.039, 231.77, 0.03, 303.472, 0.073, 226.879, 0.048, 258.106, 0.036, 229.945, 0.048, 247.427, 0.065, 279.861, 0.073, 211.045, 0.04, 225.796, 0.035, 268.216, 0.082,
+132 28
+001-psm09ABBAb1, 9.888260, 0.000734776859504, 223.951, 0.024, 282.656, 0.094, 268.592, 0.082, 206.09, 0.028, 243.064, 0.05, 275.032, 0.06, 273.093, 0.065, 244.02, 0.029, 220.041, 0.058, 245.674, 0.058, 236.368, 0.074, 224.734, 0.045,
+133 28
+001-psm10ABABa1, 13.174300, 0.0128040495868, 294.368, 0.052, 205.958, 0.019, 271.813, 0.073, 212.412, 0.019, 264.559, 0.055, 121.336, 0.048, 168.576, 0.027, 99.6604, 0.027, 218.248, 0.07, 238.069, 0.019, 64.5664, 0.006, 173.711, 0.005,
+134 28
+001-psm10ABABb1, 9.106090, 0.000562049586777, 241.803, 0.025, 238.448, 0.044, 227.951, 0.028, 239.463, 0.04, -228.39, 0.08, 229.786, 0.052, 253.33, 0.024, 210.133, 0.029, 223.311, 0.026, 259.959, 0.045, 238.609, 0.027, 252.063, 0.046,
+135 28
+001-psm10ABBAa1, 9.300340, 0.000314595041322, 230.529, 0.05, 249.011, 0.024, 223.915, 0.025, 236.827, 0.056, 230.006, 0.05, 211.047, 0.029, 263.075, 0.026, 210.263, 0.051, 155.787, 0.081, 264.617, 0.026, 201.467, 0.026, 156.75, 0.06,
+136 28
+001-psm10ABBAb1, 9.015280, 0.00119363636364, -182.397, 0.005, 317.742, 0.047, 272.598, 0.054, 235.638, 0.022, 231.39, 0.028, 244.287, 0.064, 257.112, 0.052, 169.124, 0.026, 240.233, 0.027, 233.289, 0.044, 238.615, 0.07, 188.841, 0.022,
+137 28
+001-psm11ABABa1, 9.227720, 0.000365966942149, 284.877, 0.064, 254.28, 0.045, 265.172, 0.086, 240.501, 0.035, 304.632, 0.074, 263.473, 0.03, 270.881, 0.101, 269.172, 0.056, 308.992, 0.095, 242.183, 0.054, 272.302, 0.064, 233.7, 0.04,
+138 28
+001-psm11ABABb1, 9.433130, 0.000612776859504, 261.556, 0.037, 244.589, 0.052, 268.413, 0.038, 307.334, 0.067, 233.646, 0.043, 283.028, 0.089, 260.293, 0.049, 303.983, 0.062, 244.66, 0.05, 230.146, 0.082, 244.826, 0.077, 275.575, 0.072,
+139 28
+001-psm11ABBAa1, 9.430160, 0.00042347107438, 199.628, 0.069, 258.618, 0.031, 229.524, 0.046, 250.121, 0.061, 260.272, 0.089, 284.363, 0.05, 273.685, 0.039, 196.782, 0.105, 226.863, 0.073, 295.421, 0.046, 301.538, 0.039, 239.142, 0.07,
+140 28
+001-psm11ABBAb1, 9.102920, 0.000336016528926, 273.835, 0.027, 225.549, 0.067, 252.748, 0.065, 230.969, 0.03, 288.34, 0.041, 274.412, 0.075, 253.28, 0.061, 263.411, 0.023, 275.202, 0.052, 293.67, 0.061, 271.875, 0.064, 261.68, 0.036,
+141 28
+001-psm12ABABa1, 11.924100, 0.0138432396694, 102.778, 0.005, 113.801, 0.009, 265.07, 0.07, 241.353, 0.025, 250.169, 0.074, 266.42, 0.035, 266.019, 0.086, 194.178, 0.023, 217.33, 0.032, 137.764, 0.025, 273.355, 0.087, 253.379, 0.028,
+142 28
+001-psm12ABABb1, 9.892570, 0.000195652892562, 266.772, 0.037, 287.449, 0.068, 279.773, 0.029, 276.904, 0.068, 261.112, 0.032, 292.527, 0.062, 255.986, 0.031, 236.03, 0.058, 251.169, 0.035, 260.343, 0.06, 228.703, 0.037, 290.27, 0.074,
+143 28
+001-psm12ABBAa1, 9.665550, 0.000316198347107, 222.045, 0.084, 209.071, 0.025, 192.734, 0.025, 235.961, 0.091, 231.881, 0.06, 222.333, 0.027, 230.845, 0.039, 275.747, 0.079, 226.075, 0.066, 256.584, 0.032, 239.579, 0.036, 298.696, 0.09,
+144 28
+001-psm12ABBAb1, 9.971810, 0.000470958677686, 268.401, 0.023, 285.305, 0.064, 278.715, 0.063, 256.609, 0.025, 232.405, 0.021, 305.489, 0.078, 238.538, 0.075, 220.617, 0.03, 248.812, 0.033, 266.068, 0.076, 218.015, 0.047, 248.776, 0.031,
+145 28
+001-psn01ABABa1, 5.476810, 0.0451644132231, 209.404, 0.394, 244.135, 0.023, 144.342, 0.077, 287.024, 0.023, 202.987, 0.073, 287.267, 0.029, 330.465, 0.096, 273.677, 0.022, 246.063, 0.042, 215.82, 0.02, 137.319, 0.005, 177.131, 0.02,
+146 28
+001-psn01ABABb1, 8.353970, 0.0058193553719, 214.761, 0.019, 200.353, 0.058, 245.523, 0.043, 193.242, 0.07, 257.006, 0.036, 274.606, 0.078, 254.636, 0.026, 193.427, 0.068, 220.868, 0.042, -248.199, 0.005, 182.553, 0.005, 258.457, 0.056,
+147 28
+001-psn01ABBAa1, 7.816960, 0.000375520661157, 238.363, 0.076, 212.369, 0.029, 234.815, 0.02, 254.686, 0.058, 277.775, 0.056, 231.806, 0.024, 229.874, 0.042, 246.869, 0.053, 227.363, 0.064, 227.793, 0.019, 278.549, 0.031, 258.111, 0.073,
+148 28
+001-psn01ABBAb1, 7.832740, 0.000936247933884, 169.682, 0.023, 256.205, 0.062, -195.793, 0.08, 219.789, 0.021, 224.726, 0.036, 271.679, 0.053, 263.707, 0.057, 205.411, 0.032, 236.421, 0.034, 260.683, 0.063, 224.777, 0.069, 209.033, 0.033,
+149 28
+001-psn02ABABa1, 8.085930, 0.000363834710744, 228.091, 0.063, 194.781, 0.026, 268.504, 0.056, 194.883, 0.014, 251.706, 0.05, -177.155, 0.08, 280.425, 0.047, 192.372, 0.036, 264.242, 0.055, 169.062, 0.023, 293.003, 0.055, 199.372, 0.04,
+150 28
+001-psn02ABABb1, 8.459150, 0.000350727272727, 221.944, 0.029, 216.572, 0.075, 226.343, 0.036, 261.838, 0.072, 252.965, 0.017, 276.167, 0.065, 239.23, 0.014, 230.412, 0.054, 220.232, 0.021, 277.916, 0.055, 242.963, 0.016, 165.242, 0.055,
+151 28
+001-psn02ABBAa1, 8.525590, 0.000223173553719, 298.858, 0.057, -169.116, 0.066, 190.545, 0.026, 257.709, 0.072, 243.565, 0.077, 193.971, 0.022, 226.039, 0.027, 255.891, 0.046, 214.038, 0.041, 204.096, 0.023, 163.474, 0.029, 209.804, 0.058,
+152 28
+001-psn02ABBAb1, 8.799400, 0.000314082644628, 201.953, 0.019, 258.697, 0.069, 251.021, 0.078, 213.412, 0.021, 170.96, 0.013, 256.823, 0.064, 256.828, 0.059, 207.386, 0.025, 244.491, 0.031, 260.88, 0.054, 266.348, 0.062, -178.942, 0.051,
+153 28
+001-psn03ABABa1, 9.789620, 0.000772049586777, 257.453, 0.062, 223.827, 0.013, 253.643, 0.066, -137.248, 0.072, 279.86, 0.078, 213.112, 0.022, 277.909, 0.086, 221.426, 0.026, 243.858, 0.051, -169.28, 0.005, 268.517, 0.055, 229.256, 0.017,
+154 28
+001-psn03ABABb1, 9.091550, 0.000205272727273, 228.119, 0.013, 259.02, 0.059, 206.675, 0.017, 256.917, 0.074, 203.458, 0.025, 265.117, 0.044, 227.372, 0.028, 227, 0.082, 219.324, 0.029, 174.35, 0.094, 193.293, 0.021, 200.419, 0.093,
+155 28
+001-psn03ABBAa1, 9.507970, 0.000502876033058, 209.349, 0.058, 189.446, 0.015, 206.321, 0.017, 271.804, 0.058, 214.96, 0.081, 223.603, 0.014, 225.732, 0.015, 253.012, 0.071, 255.803, 0.057, 239.49, 0.015, 196.071, 0.023, 265.543, 0.088,
+156 28
+001-psn03ABBAb1, 9.797760, 0.000490049586777, 185.87, 0.016, 208.951, 0.056, 242.04, 0.071, 177.247, 0.02, -198.584, 0.079, 266.072, 0.083, 242.144, 0.031, 244.074, 0.016, -184.847, 0.073, 257.538, 0.117, 224.668, 0.046, 162.178, 0.027,
+157 28
+001-psn04ABABa1, 8.909110, 0.000410595041322, 287.934, 0.062, 202.648, 0.014, 231.356, 0.064, -187.347, 0.069, 268.488, 0.095, -184.006, 0.084, 261.131, 0.064, 234.693, 0.014, 226.653, 0.058, 254.112, 0.013, 285.708, 0.061, 146.124, 0.011,
+158 28
+001-psn04ABABb1, 11.926900, 0.0130966280992, 224.35, 0.021, 240.913, 0.044, 81.8786, 0.078, 211.23, 0.017, 228.216, 0.066, 133.285, 0.04, 232.013, 0.015, 258.607, 0.055, 235.155, 0.017, 241.243, 0.075, 78.346, 0.054, 92.2106, 0.045,
+159 28
+001-psn04ABBAa1, 9.130350, 0.00055347107438, 237.006, 0.069, -139.831, 0.079, 170.906, 0.015, 221.405, 0.049, 238.464, 0.052, -168.608, 0.078, 192.591, 0.028, 227.328, 0.048, 243.132, 0.05, -214.39, 0.079, -227.575, 0.08, 233.744, 0.052,
+160 28
+001-psn04ABBAb1, 8.677690, 0.000302148760331, -189.71, 0.073, 244.14, 0.06, 232.432, 0.061, 241.105, 0.013, 244.023, 0.015, 258.197, 0.046, 249.168, 0.072, 200.758, 0.029, 224.772, 0.009, 238.333, 0.046, 207.736, 0.041, 169.275, 0.043,
+161 28
+001-psn05ABABa1, 9.334810, 0.000268049586777, 132.205, 0.122, 244.315, 0.029, 271.206, 0.098, 239.171, 0.036, 250.838, 0.075, 223.867, 0.027, 261.232, 0.092, -188.031, 0.084, 253.935, 0.067, 215.795, 0.028, 270.2, 0.049, 190.708, 0.074,
+162 28
+001-psn05ABABb1, 12.804800, 0.0104625123967, 258.477, 0.022, 238.416, 0.078, 232.228, 0.027, 206.185, 0.095, 104.955, 0.03, 183.538, 0.051, 141.73, 0.014, 154.801, 0.029, 106.256, 0.051, 243.661, 0.024, 172.611, 0.026, 132.781, 0.005,
+163 28
+001-psn05ABBAa1, 9.490790, 0.000213685950413, 197.167, 0.065, 222.651, 0.032, 237.444, 0.028, 211.9, 0.051, 177.321, 0.039, 224.212, 0.02, 198.656, 0.023, 236.307, 0.072, 220.607, 0.055, 272.967, 0.028, 235.69, 0.028, 191.468, 0.043,
+164 28
+001-psn05ABBAb1, 9.349820, 0.000265636363636, 231.704, 0.041, 231.815, 0.061, 241.489, 0.034, 255.566, 0.016, 173.639, 0.023, 225.848, 0.046, 220.531, 0.037, 224.166, 0.024, 227.233, 0.041, 235.544, 0.057, 225.409, 0.029, 220.098, 0.014,
+165 28
+001-psn06ABABa1, 7.692990, 0.0014793553719, 198.896, 0.078, 229.148, 0.022, 205.979, 0.101, 217.28, 0.023, 219.109, 0.041, 234.454, 0.021, 259.939, 0.036, 214.013, 0.022, -206.953, 0.117, 238.958, 0.034, 246.692, 0.017, 225.626, 0.039,
+166 28
+001-psn06ABABb1, 7.655410, 0.00073547107438, 235.48, 0.024, 225.042, 0.056, 242.266, 0.028, 265.404, 0.058, 236.03, 0.036, 245.182, 0.054, 255.274, 0.028, 250.466, 0.043, 252.258, 0.032, 250.119, 0.062, 319.274, 0.027, 143.04, 0.013,
+167 28
+001-psn06ABBAa1, 8.698440, 0.000923421487603, -170.595, 0.133, 236.06, 0.024, 230.47, 0.027, 219.484, 0.05, 219.349, 0.063, 204.558, 0.048, 172.712, 0.042, 204.608, 0.061, 219.791, 0.059, 236.013, 0.024, 221.317, 0.022, 265.54, 0.082,
+168 28
+001-psn06ABBAb1, 17.904500, 0.00118952066116, 113.246, 0.018, 180.649, 0.029, 159.191, 0.005, 100.691, 0.027, 222.289, 0.052, 131.156, 0.049, 239.153, 0.046, -80.0122, 0.027, 111.766, 0.032, 175.603, 0.02, 114.024, 0.005, 117.843, 0.025,
+169 28
+001-psn07ABABa1, 8.821280, 0.000291685950413, 228.006, 0.087, 215.856, 0.022, 196.56, 0.046, 213.993, 0.024, 241.538, 0.059, 202.077, 0.022, 241.384, 0.051, 222.021, 0.019, 298.419, 0.081, 196.189, 0.035, 249.647, 0.04, 189.201, 0.024,
+170 28
+001-psn07ABABb1, 8.593840, 0.00201019834711, 279.866, 0.025, 232.883, 0.085, 254.929, 0.021, 235.694, 0.065, 266.156, 0.019, 247.912, 0.083, 226.755, 0.021, 156.637, 0.031, 262.059, 0.036, 269.054, 0.074, 229.148, 0.02, 145.487, 0.005,
+171 28
+001-psn07ABBAa1, 8.824160, 0.000528016528926, 227.193, 0.082, 228.403, 0.015, 196.469, 0.018, 231.568, 0.087, 261.525, 0.098, 190.799, 0.015, 193.281, 0.019, 253.907, 0.077, 166.938, 0.109, 209.565, 0.018, 197.05, 0.027, 202.42, 0.107,
+172 28
+001-psn07ABBAb1, 9.169610, 0.000127884297521, 218.477, 0.017, 269.661, 0.074, 262.414, 0.08, 191.617, 0.02, 226.956, 0.027, 251.957, 0.055, 241.132, 0.075, 180.825, 0.02, 173.075, 0.031, 164.737, 0.095, 195.192, 0.049, 211.072, 0.027,
+173 28
+001-psn08ABABa1, 9.279350, 0.000159702479339, 265.925, 0.081, 217.119, 0.028, 265.648, 0.078, 252.43, 0.027, 279.015, 0.07, 261.405, 0.031, 254.392, 0.06, 229.812, 0.034, 273.139, 0.066, 189.101, 0.025, 297.112, 0.076, 262.301, 0.03,
+174 28
+001-psn08ABABb1, 9.180850, 0.000310595041322, 271.148, 0.031, 274.118, 0.058, 262.734, 0.035, 271.531, 0.065, 259.193, 0.029, 248.784, 0.047, 213.633, 0.024, 273.202, 0.059, 277.8, 0.029, 250.165, 0.045, 246.049, 0.029, 272.215, 0.044,
+175 28
+001-psn08ABBAa1, 9.681730, 0.000527834710744, 289.559, 0.075, 203.849, 0.024, 237.134, 0.02, 306.411, 0.056, 229.764, 0.015, 185.497, 0.02, 235.213, 0.029, 254.793, 0.047, 284.453, 0.051, 279.085, 0.025, 267.935, 0.023, 300.477, 0.057,
+176 28
+001-psn08ABBAb1, 9.572680, 0.000645520661157, 314.81, 0.018, 255.912, 0.041, 219.971, 0.045, 221.285, 0.016, 202.551, 0.015, 311.156, 0.036, 290.003, 0.034, 283.967, 0.016, 223.007, 0.016, 296.676, 0.042, 283.915, 0.032, 167.238, 0.005,
+177 28
+001-psn09ABABa1, 8.789460, 0.000118776859504, 299.665, 0.111, 236.456, 0.029, 275.99, 0.082, 237.596, 0.03, 297.355, 0.074, 230.473, 0.045, 138.996, 0.092, 233.589, 0.05, 286.294, 0.09, 254.688, 0.037, 284.904, 0.067, 194.769, 0.057,
+178 28
+001-psn09ABABb1, 9.481190, 0.000275636363636, 241.154, 0.035, 278.999, 0.077, 250.624, 0.03, 277.643, 0.067, 260.727, 0.03, 253.251, 0.053, 251.539, 0.026, 242.835, 0.064, 263.241, 0.027, 278.204, 0.058, 192.202, 0.047, 263.903, 0.057,
+179 28
+001-psn09ABBAa1, 11.992900, 0.0140003636364, 336.422, 0.368, 244.457, 0.024, 266.314, 0.034, 152.135, 0.005, 213.869, 0.046, 258.488, 0.058, 160.099, 0.005, 172.543, 0.026, 132.04, 0.006, 179.155, 0.047, 127.531, 0.041, 226.083, 0.084,
+180 28
+001-psn09ABBAb1, 9.298880, 0.000269702479339, 216.828, 0.019, 272.816, 0.082, 249.334, 0.042, 237.056, 0.033, 246.384, 0.027, 275.587, 0.085, 269.435, 0.084, 246.948, 0.042, 243.267, 0.053, 156.267, 0.087, 285.805, 0.07, 237.51, 0.042,
+181 28
+001-psn10ABABa1, 9.326240, 0.000615289256198, 306.785, 0.058, 278.232, 0.03, 295.993, 0.074, 232.101, 0.019, 297.089, 0.078, 232.117, 0.034, 292.99, 0.063, 247.796, 0.04, 305.74, 0.102, 232.657, 0.038, 313.105, 0.089, 238.744, 0.032,
+182 28
+001-psn10ABABb1, 9.579270, 0.000337355371901, 212.252, 0.032, 313.688, 0.089, 276.802, 0.034, 278.956, 0.051, 278.744, 0.041, 267.394, 0.067, 238.793, 0.067, 269.969, 0.068, 268.85, 0.041, 314.05, 0.088, 273.615, 0.044, 299.536, 0.063,
+183 28
+001-psn10ABBAa1, 9.540490, 0.000623834710744, 311.964, 0.057, 226.995, 0.025, 254.614, 0.034, 291.485, 0.075, 265.373, 0.09, 288.201, 0.027, 270.758, 0.036, 245.848, 0.08, 232.976, 0.046, 264.456, 0.03, 273.877, 0.035, 263.839, 0.067,
+184 28
+001-psn10ABBAb1, 9.331870, 0.000692429752066, 266.908, 0.026, 259.569, 0.054, 278.993, 0.053, 228.986, 0.029, 194.797, 0.022, 279.223, 0.087, 278.537, 0.059, 256.366, 0.029, 253.726, 0.027, 266.584, 0.067, 266.69, 0.081, 246.509, 0.036,
+185 28
+001-psn11ABABa1, 8.983580, 0.0058694214876, 215.996, 0.313, 135.887, 0.052, 149.286, 0.108, 229.417, 0.043, 282.192, 0.059, 254.375, 0.042, 174.409, 0.042, 237.646, 0.047, 263.451, 0.063, 205.156, 0.042, 175.467, 0.073, 205.713, 0.045,
+186 28
+001-psn11ABABb1, 9.646090, 0.000347289256198, 244.161, 0.031, 219.868, 0.083, 271.849, 0.027, 275.091, 0.078, 300.204, 0.03, 285.123, 0.077, 290.884, 0.037, 273.307, 0.06, 267.836, 0.027, 286.092, 0.064, 256.353, 0.03, 248.095, 0.09,
+187 28
+001-psn11ABBAa1, 9.410470, 0.000819603305785, 222.06, 0.05, 302.807, 0.029, 259.629, 0.019, 273.595, 0.079, 258.88, 0.086, 272.481, 0.037, 248.329, 0.029, 261.876, 0.072, 264.627, 0.086, 199.21, 0.027, 213.112, 0.056, 167.423, 0.121,
+188 28
+001-psn11ABBAb1, 9.409200, 0.000551289256198, 264.839, 0.029, 245.81, 0.073, 267.68, 0.068, 283.445, 0.037, 285.972, 0.03, 250.145, 0.07, 220.561, 0.084, 225.724, 0.033, 266.01, 0.032, 257.207, 0.078, 217.279, 0.083, 245.699, 0.029,
+189 28
+001-psn12ABABa1, 9.979910, 0.00103950413223, 287.057, 0.101, 215.642, 0.027, 245.052, 0.067, 234.479, 0.025, 288.219, 0.087, 226.771, 0.032, 230.854, 0.067, 210.528, 0.03, 340.278, 0.056, 224.903, 0.025, 209.223, 0.058, 187.42, 0.051,
+190 28
+001-psn12ABABb1, 10.863900, 0.0108107768595, 246.918, 0.025, 231.8, 0.062, 214.14, 0.035, 248.672, 0.079, 218.74, 0.037, 237.502, 0.071, 186.284, 0.005, 220.803, 0.042, 211.82, 0.046, 272.573, 0.041, -195.006, 0.102, 220.991, 0.048,
+191 28
+001-psn12ABBAa1, 10.747300, 0.00681768595041, 242.268, 0.054, 258.954, 0.025, 184.002, 0.026, 231.281, 0.054, 220.225, 0.057, 167.776, 0.033, 112.897, 0.006, 197.835, 0.035, 244.506, 0.063, 216.934, 0.024, 186.236, 0.078, 211.232, 0.034,
+192 28
+001-psn12ABBAb1, 9.782410, 0.000687537190083, 245.128, 0.032, 234.237, 0.058, 269.087, 0.069, 186.494, 0.036, 235.099, 0.037, 236.208, 0.07, 228.13, 0.061, 224.063, 0.03, 262.42, 0.039, 251.285, 0.067, 210.672, 0.078, 137.492, 0.06,
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',42,1)">42  </a>  fid = fopen([log_filename '.bad_alignments'], 'wt');
+final_stats
+1 28
+1 28
+2 28
+3 28
+4 28
+5 28
+6 28
+7 26
+8 28
+9 26
+10 28
+11 28
+12 28
+13 28
+14 28
+15 28
+16 28
+17 26
+18 24
+19 28
+20 28
+21 28
+22 28
+23 28
+24 36
+25 28
+26 26
+27 24
+28 28
+29 26
+30 28
+31 28
+32 28
+33 26
+34 28
+35 26
+36 26
+37 28
+38 26
+39 28
+40 28
+41 28
+42 28
+43 28
+44 28
+45 28
+46 28
+47 26
+48 28
+49 28
+50 28
+51 28
+52 28
+53 28
+54 28
+55 18
+56 28
+57 26
+58 26
+59 28
+60 28
+61 28
+62 26
+63 28
+64 28
+65 28
+66 28
+67 28
+68 28
+69 28
+70 28
+71 28
+72 28
+73 26
+74 26
+75 26
+76 26
+77 24
+78 28
+79 28
+80 28
+81 28
+82 28
+83 28
+84 28
+85 28
+86 28
+87 26
+88 26
+89 28
+90 28
+91 26
+92 36
+93 26
+94 24
+95 28
+96 28
+97 26
+98 36
+99 28
+100 28
+101 20
+102 28
+103 28
+104 26
+105 28
+106 26
+107 28
+108 24
+109 28
+110 28
+111 28
+112 28
+113 28
+114 26
+115 26
+116 34
+117 26
+118 32
+119 26
+120 28
+121 26
+122 24
+123 28
+124 28
+125 20
+126 28
+127 28
+128 28
+129 28
+130 28
+131 28
+132 28
+133 18
+134 28
+135 26
+136 28
+137 28
+138 26
+139 26
+140 28
+141 18
+142 28
+143 28
+144 24
+145 36
+146 26
+147 28
+148 28
+149 26
+150 28
+151 28
+152 26
+153 26
+154 28
+155 28
+156 28
+157 28
+158 20
+159 26
+160 28
+161 26
+162 20
+163 26
+164 28
+165 28
+166 28
+167 26
+168 36
+169 26
+170 26
+171 26
+172 28
+173 28
+174 26
+175 26
+176 28
+177 28
+178 24
+179 20
+180 26
+181 26
+182 26
+183 28
+184 28
+185 26
+186 26
+187 28
+188 24
+189 26
+190 24
+191 26
+192 28
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',41,1)">41  </a>  fid = fopen([log_filename '.bad_alignments'], 'wt');
+class(C)
+
+ans =
+
+cell
+
+C
+
+C = 
+
+  Columns 1 through 10
+
+    '001-psn12ABBAb1'    ' 9.782410'    ' 0.000687537190083'    ' 228.514'    ' 0.032'    ' 226.07'    ' 0.061'    ' 263.136'    ' 0.073'    ' 181.228'
+
+  Columns 11 through 22
+
+    ' 0.038'    ' 229.77'    ' 0.037'    ' 237.728'    ' 0.072'    ' 251.151'    ' 0.067'    ' 223.292'    ' 0.03'    ' 252.438'    ' 0.038'    ' 248.205'
+
+  Columns 23 through 28
+
+    ' 0.068'    ' 231.921'    ' 0.077'    ' 170.008'    ' 0.063'    ''
+
+dbsop if error
+{Undefined function 'dbsop' for input arguments of type 'char'.
+} 
+dbsop if error
+{Undefined function 'dbsop' for input arguments of type 'char'.
+} 
+dbstop if error
+final_stats
+193 28
+{Operands to the || and && operators must be convertible to logical scalar values.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('final_stats', '/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m', 41)" style="font-weight:bold">final_stats</a> (<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',41,0)">line 41</a>)
+    if  alignment_confidence > 11.0 || mse_score > 0.00535 % or 0.00306
+} 
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',41,1)">41  </a>    if  alignment_confidence > 11.0 || mse_score > 0.00535 % or 0.00306
+final_stats
+193 28
+{Index exceeds matrix dimensions.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('final_stats', '/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m', 47)" style="font-weight:bold">final_stats</a> (<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',47,0)">line 47</a>)
+        vot_value = str2double(line_fields{j+1});
+} 
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',47,1)">47  </a>        vot_value = str2double(line_fields{j+1});
+final_stats
+193 28
+194 28
+195 28
+196 28
+197 28
+198 28
+199 26
+200 28
+201 26
+202 28
+203 28
+204 28
+205 28
+206 28
+207 28
+208 28
+209 26
+210 24
+211 28
+212 28
+213 28
+214 28
+215 28
+216 36
+217 28
+218 26
+219 24
+220 28
+221 26
+222 28
+223 28
+224 28
+225 26
+226 28
+227 26
+228 26
+229 28
+230 26
+231 28
+232 28
+233 28
+234 28
+235 28
+236 28
+237 28
+238 28
+239 26
+240 28
+241 28
+242 28
+243 28
+244 28
+245 28
+246 28
+247 18
+248 28
+249 26
+250 26
+251 28
+252 28
+253 28
+254 26
+255 28
+256 28
+257 28
+258 28
+259 28
+260 28
+261 28
+262 28
+263 28
+264 28
+265 26
+266 26
+267 26
+268 26
+269 24
+270 28
+271 28
+272 28
+273 28
+274 28
+275 28
+276 28
+277 28
+278 28
+279 26
+280 26
+281 28
+282 28
+283 26
+284 36
+285 26
+286 24
+287 28
+288 28
+289 26
+290 36
+291 28
+292 28
+293 20
+294 28
+295 28
+296 26
+297 28
+298 26
+299 28
+300 24
+301 28
+302 28
+303 28
+304 28
+305 28
+306 26
+307 26
+308 34
+309 26
+310 32
+311 26
+312 28
+313 26
+314 24
+315 28
+316 28
+317 20
+318 28
+319 28
+320 28
+321 28
+322 28
+323 28
+324 28
+325 18
+326 28
+327 26
+328 28
+329 28
+330 26
+331 26
+332 28
+333 18
+334 28
+335 28
+336 24
+337 36
+338 26
+339 28
+340 28
+341 26
+342 28
+343 28
+344 26
+345 26
+346 28
+347 28
+348 28
+349 28
+350 20
+351 26
+352 28
+353 26
+354 20
+355 26
+356 28
+357 28
+358 28
+359 26
+360 36
+361 26
+362 26
+363 26
+364 28
+365 28
+366 26
+367 26
+368 28
+369 28
+370 24
+371 20
+372 26
+373 26
+374 26
+375 28
+376 28
+377 26
+378 26
+379 28
+380 24
+381 26
+382 24
+383 26
+384 28
+speaker= 001 total_vots= 2244 (100.0%) good= 2034 (90.6%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 20 (0.9%) bad_alignment= 168 (7.5% , 14 files)
+385 28
+386 28
+387 28
+388 28
+389 28
+390 28
+391 26
+392 28
+393 26
+394 28
+395 28
+396 28
+397 28
+398 28
+399 28
+400 28
+401 26
+402 24
+403 28
+404 28
+405 28
+406 28
+407 28
+408 36
+001-pdm06ABBAb1
+409 28
+410 26
+411 24
+412 28
+413 26
+414 28
+415 28
+416 28
+417 26
+418 28
+419 26
+420 26
+421 28
+422 26
+423 28
+424 28
+425 28
+426 28
+427 28
+428 28
+429 28
+430 28
+431 26
+432 28
+433 28
+434 28
+435 28
+436 28
+437 28
+438 28
+439 18
+001-pdn02ABBAa1
+440 28
+441 26
+442 26
+443 28
+444 28
+445 28
+446 26
+447 28
+448 28
+449 28
+450 28
+451 28
+452 28
+453 28
+454 28
+455 28
+456 28
+457 26
+458 26
+459 26
+460 26
+461 24
+462 28
+463 28
+464 28
+465 28
+466 28
+467 28
+468 28
+469 28
+470 28
+471 26
+472 26
+473 28
+474 28
+475 26
+476 36
+001-pdn11ABBAb1
+477 26
+478 24
+479 28
+480 28
+481 26
+482 36
+001-psm01ABABb1
+483 28
+484 28
+485 20
+001-psm02ABABa1
+486 28
+487 28
+488 26
+489 28
+490 26
+491 28
+492 24
+493 28
+494 28
+495 28
+496 28
+497 28
+498 26
+499 26
+500 34
+501 26
+502 32
+503 26
+504 28
+505 26
+506 24
+507 28
+508 28
+509 20
+001-psm08ABABa1
+510 28
+511 28
+512 28
+513 28
+514 28
+515 28
+516 28
+517 18
+001-psm10ABABa1
+518 28
+519 26
+520 28
+521 28
+522 26
+523 26
+524 28
+525 18
+001-psm12ABABa1
+526 28
+527 28
+528 24
+529 36
+530 26
+531 28
+532 28
+533 26
+534 28
+535 28
+536 26
+537 26
+538 28
+539 28
+540 28
+541 28
+542 20
+001-psn04ABABb1
+543 26
+544 28
+545 26
+546 20
+001-psn05ABABb1
+547 26
+548 28
+549 28
+550 28
+551 26
+552 36
+001-psn06ABBAb1
+553 26
+554 26
+555 26
+556 28
+557 28
+558 26
+559 26
+560 28
+561 28
+562 24
+563 20
+001-psn09ABBAa1
+564 26
+565 26
+566 26
+567 28
+568 28
+569 26
+570 26
+571 28
+572 24
+573 26
+574 24
+001-psn12ABABb1
+575 26
+001-psn12ABBAa1
+576 28
+speaker= 001 total_vots= 2244 (100.0%) good= 2034 (90.6%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 20 (0.9%) bad_alignment= 168 (7.5% , 14 files)
+577 28
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',41,1)">41  </a>    if  alignment_confidence > 11.0 || mse_score > 0.00535 % or 0.00306
+if system_dependent('IsDebugMode')==1, dbstep; end
+final_stats
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',41,1)">41  </a>    if  alignment_confidence > 11.0 || mse_score > 0.00535 % or 0.00306
+if system_dependent('IsDebugMode')==1, dbcont; end
+001-pdm06ABBAb1
+001-pdn02ABBAa1
+001-pdn11ABBAb1
+001-psm01ABABb1
+001-psm02ABABa1
+001-psm08ABABa1
+001-psm10ABABa1
+001-psm12ABABa1
+001-psn04ABABb1
+001-psn05ABABb1
+001-psn06ABBAb1
+001-psn09ABBAa1
+001-psn12ABABb1
+001-psn12ABBAa1
+speaker= 001 total_vots= 2244 (100.0%) good= 2034 (90.6%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 20 (0.9%) bad_alignment= 168 (7.5% , 14 files)
+001-pdm06ABBAb1
+001-pdn02ABBAa1
+001-pdn11ABBAb1
+001-psm01ABABb1
+001-psm02ABABa1
+001-psm08ABABa1
+001-psm10ABABa1
+001-psm12ABABa1
+001-psn04ABABb1
+001-psn05ABABb1
+001-psn06ABBAb1
+001-psn09ABBAa1
+001-psn12ABABb1
+001-psn12ABBAa1
+speaker= 001 total_vots= 2244 (100.0%) good= 2034 (90.6%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 20 (0.9%) bad_alignment= 168 (7.5% , 14 files)
+001-pdm06ABBAb1
+001-pdn02ABBAa1
+001-pdn11ABBAb1
+001-psm01ABABb1
+001-psm02ABABa1
+001-psm08ABABa1
+001-psm10ABABa1
+001-psm12ABABa1
+001-psn04ABABb1
+001-psn05ABABb1
+001-psn06ABBAb1
+001-psn09ABBAa1
+001-psn12ABABb1
+001-psn12ABBAa1
+speaker= 001 total_vots= 2244 (100.0%) good= 2034 (90.6%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 20 (0.9%) bad_alignment= 168 (7.5% , 14 files)
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',34,1)">34  </a>  fid2 = fopen('../logs/Twister_Recordings.001.log','r');
+final_stats
+001-pdm06ABBAb1
+001-pdn02ABBAa1
+001-pdn11ABBAb1
+001-psm01ABABb1
+001-psm02ABABa1
+001-psm08ABABa1
+001-psm10ABABa1
+001-psm12ABABa1
+001-psn04ABABb1
+001-psn05ABABb1
+001-psn06ABBAb1
+001-psn09ABBAa1
+001-psn12ABABb1
+001-psn12ABBAa1
+speaker= 001 total_vots= 2244 (100.0%) good= 2034 (90.6%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 20 (0.9%) bad_alignment= 168 (7.5% , 14 files)
+019-pdm02ABBAb1
+019-pdm03ABBAb1
+019-pdm04ABBAa1
+019-pdm06ABABa1
+019-pdm07ABBAb1
+019-pdm08ABABb1
+019-pdm09ABBAb1
+019-pdm10ABBAa1
+019-pdm10ABBAb1
+019-pdm11ABABa1
+019-pdm12ABABa1
+019-pdn01ABBAa1
+019-pdn04ABABa1
+019-pdn04ABABb1
+019-pdn04ABBAa1
+019-pdn05ABBAa1
+019-pdn09ABBAa1
+019-pdn10ABABa1
+019-pdn11ABBAb1
+019-psm03ABABa1
+019-psm05ABBAb1
+019-psm10ABABa1
+019-psm11ABABa1
+019-psn01ABBAa1
+019-psn02ABBAa1
+019-psn05ABBAb1
+019-psn08ABABb1
+019-psn12ABABa1
+speaker= 019 total_vots= 2370 (100.0%) good= 1909 (80.5%) short= 85 (3.6%) zero= 0 (0.0%) prevoiced= 40 (1.7%) bad_alignment= 336 (14.2% , 28 files)
+1537 28
+1538 26
+1539 18
+1540 34
+1541 32
+1542 28
+1543 32
+1544 32
+1545 26
+1546 26
+1547 36
+1548 26
+1549 28
+1550 28
+1551 36
+1552 28
+1553 34
+1554 28
+1555 28
+1556 28
+1557 20
+1558 26
+1559 28
+1560 28
+1561 28
+1562 28
+1563 26
+1564 22
+1565 28
+1566 20
+1567 30
+1568 18
+1569 28
+1570 32
+1571 26
+1572 28
+1573 26
+1574 26
+1575 30
+1576 20
+1577 20
+1578 28
+1579 28
+1580 36
+1581 20
+1582 28
+1583 30
+1584 34
+1585 28
+1586 28
+1587 30
+1588 28
+1589 28
+1590 26
+1591 28
+1592 28
+1593 28
+1594 32
+1595 28
+1596 28
+1597 28
+1598 30
+1599 34
+1600 32
+1601 28
+1602 30
+1603 28
+1604 26
+1605 28
+1606 28
+1607 28
+1608 28
+1609 26
+1610 28
+1611 36
+1612 30
+1613 30
+1614 30
+1615 28
+1616 30
+1617 30
+1618 28
+1619 20
+1620 32
+1621 36
+1622 28
+1623 36
+1624 28
+1625 26
+1626 26
+1627 32
+1628 34
+1629 28
+1630 26
+1631 28
+1632 32
+1633 28
+1634 32
+1635 28
+1636 26
+1637 32
+1638 34
+1639 36
+1640 24
+1641 30
+1642 28
+1643 36
+1644 34
+1645 28
+1646 28
+1647 28
+1648 34
+1649 32
+1650 26
+1651 32
+1652 26
+1653 28
+1654 28
+1655 32
+1656 24
+1657 28
+1658 28
+1659 28
+1660 34
+1661 28
+1662 28
+1663 28
+1664 28
+1665 28
+1666 28
+1667 28
+1668 34
+1669 32
+1670 34
+1671 26
+1672 26
+1673 34
+1674 28
+1675 28
+1676 28
+1677 28
+1678 28
+1679 36
+1680 32
+1681 18
+1682 26
+1683 32
+1684 36
+1685 28
+1686 28
+1687 32
+1688 28
+1689 28
+1690 28
+1691 28
+1692 28
+1693 28
+1694 24
+1695 28
+1696 28
+1697 28
+1698 28
+1699 18
+1700 20
+1701 32
+1702 28
+1703 36
+1704 28
+1705 28
+1706 26
+1707 26
+1708 28
+1709 28
+1710 20
+1711 28
+1712 36
+1713 28
+1714 28
+1715 30
+1716 36
+1717 36
+1718 28
+1719 28
+1720 26
+1721 28
+1722 28
+1723 28
+1724 28
+1725 24
+1726 28
+1727 28
+1728 28
+speaker= 019 total_vots= 2370 (100.0%) good= 1909 (80.5%) short= 85 (3.6%) zero= 0 (0.0%) prevoiced= 40 (1.7%) bad_alignment= 336 (14.2% , 28 files)
+speaker= 019 total_vots= 2370 (100.0%) good= 1909 (80.5%) short= 85 (3.6%) zero= 0 (0.0%) prevoiced= 40 (1.7%) bad_alignment= 336 (14.2% , 28 files)
+speaker= 001 total_vots= 2244 (100.0%) good= 2034 (90.6%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 20 (0.9%) bad_alignment= 168 (7.5% , 14 files)
+speaker= 019 total_vots= 2370 (100.0%) good= 1909 (80.5%) short= 85 (3.6%) zero= 0 (0.0%) prevoiced= 40 (1.7%) bad_alignment= 336 (14.2% , 28 files)
+speaker= 002 total_vots= 2233 (100.0%) good= 2007 (89.9%) short= 64 (2.9%) zero= 0 (0.0%) prevoiced= 90 (4.0%) bad_alignment= 72 (3.2% , 6 files)
+speaker= 003 total_vots= 2271 (100.0%) good= 1987 (87.5%) short= 47 (2.1%) zero= 0 (0.0%) prevoiced= 177 (7.8%) bad_alignment= 60 (2.6% , 5 files)
+speaker= 001 total_vots= 2244 (100.0%) good= 2034 (90.6%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 20 (0.9%) bad_alignment= 168 (7.5% , 14 files)
+speaker= 002 total_vots= 2233 (100.0%) good= 2007 (89.9%) short= 64 (2.9%) zero= 0 (0.0%) prevoiced= 90 (4.0%) bad_alignment= 72 (3.2% , 6 files)
+speaker= 003 total_vots= 2271 (100.0%) good= 1987 (87.5%) short= 47 (2.1%) zero= 0 (0.0%) prevoiced= 177 (7.8%) bad_alignment= 60 (2.6% , 5 files)
+speaker= 004 total_vots= 2219 (100.0%) good= 2099 (94.6%) short= 42 (1.9%) zero= 0 (0.0%) prevoiced= 54 (2.4%) bad_alignment= 24 (1.1% , 2 files)
+speaker= 006 total_vots= 2272 (100.0%) good= 1529 (67.3%) short= 116 (5.1%) zero= 0 (0.0%) prevoiced= 51 (2.2%) bad_alignment= 576 (25.4% , 48 files)
+speaker= 007 total_vots= 2222 (100.0%) good= 2054 (92.4%) short= 44 (2.0%) zero= 0 (0.0%) prevoiced= 52 (2.3%) bad_alignment= 72 (3.2% , 6 files)
+speaker= 008 total_vots= 2224 (100.0%) good= 2111 (94.9%) short= 33 (1.5%) zero= 0 (0.0%) prevoiced= 32 (1.4%) bad_alignment= 48 (2.2% , 4 files)
+speaker= 009 total_vots= 2262 (100.0%) good= 2086 (92.2%) short= 55 (2.4%) zero= 0 (0.0%) prevoiced= 49 (2.2%) bad_alignment= 72 (3.2% , 6 files)
+{Undefined function or variable 'nn'.
+
+Error in <a href="matlab:helpUtils.errorDocCallback('final_stats', '/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m', 62)" style="font-weight:bold">final_stats</a> (<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',62,0)">line 62</a>)
+    nn = nn+1;
+} 
+<a href="matlab: opentoline('/Users/jkeshet/Projects/tongue_twisters/experiments/matlab/final_stats.m',62,1)">62  </a>    nn = nn+1;
+clc
+clean
+{Undefined function or variable 'clean'.
+} 
+clear
+final_stats
+speaker= 001 total_vots= 2244 (100.0%) good= 2034 (90.6%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 20 (0.9%) bad_alignment= 168 (7.5% , 14 files)
+speaker= 002 total_vots= 2233 (100.0%) good= 2007 (89.9%) short= 64 (2.9%) zero= 0 (0.0%) prevoiced= 90 (4.0%) bad_alignment= 72 (3.2% , 6 files)
+speaker= 003 total_vots= 2271 (100.0%) good= 1987 (87.5%) short= 47 (2.1%) zero= 0 (0.0%) prevoiced= 177 (7.8%) bad_alignment= 60 (2.6% , 5 files)
+speaker= 004 total_vots= 2219 (100.0%) good= 2099 (94.6%) short= 42 (1.9%) zero= 0 (0.0%) prevoiced= 54 (2.4%) bad_alignment= 24 (1.1% , 2 files)
+speaker= 006 total_vots= 2272 (100.0%) good= 1529 (67.3%) short= 116 (5.1%) zero= 0 (0.0%) prevoiced= 51 (2.2%) bad_alignment= 576 (25.4% , 48 files)
+speaker= 007 total_vots= 2222 (100.0%) good= 2054 (92.4%) short= 44 (2.0%) zero= 0 (0.0%) prevoiced= 52 (2.3%) bad_alignment= 72 (3.2% , 6 files)
+speaker= 008 total_vots= 2224 (100.0%) good= 2111 (94.9%) short= 33 (1.5%) zero= 0 (0.0%) prevoiced= 32 (1.4%) bad_alignment= 48 (2.2% , 4 files)
+speaker= 009 total_vots= 2262 (100.0%) good= 2086 (92.2%) short= 55 (2.4%) zero= 0 (0.0%) prevoiced= 49 (2.2%) bad_alignment= 72 (3.2% , 6 files)
+speaker= 019 total_vots= 2370 (100.0%) good= 1909 (80.5%) short= 85 (3.6%) zero= 0 (0.0%) prevoiced= 40 (1.7%) bad_alignment= 336 (14.2% , 28 files)
+speaker= 001 total_vots= 2244 (100.0%) good= 2034 (90.6%) short= 22 (1.0%) zero= 0 (0.0%) prevoiced= 20 (0.9%) bad_alignment= 168 (7.5% , 14 files)
+speaker= 002 total_vots= 2233 (100.0%) good= 2007 (89.9%) short= 64 (2.9%) zero= 0 (0.0%) prevoiced= 90 (4.0%) bad_alignment= 72 (3.2% , 6 files)
+speaker= 003 total_vots= 2271 (100.0%) good= 1987 (87.5%) short= 47 (2.1%) zero= 0 (0.0%) prevoiced= 177 (7.8%) bad_alignment= 60 (2.6% , 5 files)
+speaker= 004 total_vots= 2219 (100.0%) good= 2099 (94.6%) short= 42 (1.9%) zero= 0 (0.0%) prevoiced= 54 (2.4%) bad_alignment= 24 (1.1% , 2 files)
+speaker= 006 total_vots= 2272 (100.0%) good= 1529 (67.3%) short= 116 (5.1%) zero= 0 (0.0%) prevoiced= 51 (2.2%) bad_alignment= 576 (25.4% , 48 files)
+speaker= 007 total_vots= 2222 (100.0%) good= 2054 (92.4%) short= 44 (2.0%) zero= 0 (0.0%) prevoiced= 52 (2.3%) bad_alignment= 72 (3.2% , 6 files)
+speaker= 008 total_vots= 2224 (100.0%) good= 2111 (94.9%) short= 33 (1.5%) zero= 0 (0.0%) prevoiced= 32 (1.4%) bad_alignment= 48 (2.2% , 4 files)
+speaker= 009 total_vots= 2262 (100.0%) good= 2086 (92.2%) short= 55 (2.4%) zero= 0 (0.0%) prevoiced= 49 (2.2%) bad_alignment= 72 (3.2% , 6 files)
+speaker= 010 total_vots= 2202 (100.0%) good= 2144 (97.4%) short= 26 (1.2%) zero= 0 (0.0%) prevoiced= 20 (0.9%) bad_alignment= 12 (0.5% , 1 files)
+speaker= 019 total_vots= 2370 (100.0%) good= 1909 (80.5%) short= 85 (3.6%) zero= 0 (0.0%) prevoiced= 40 (1.7%) bad_alignment= 336 (14.2% , 28 files)

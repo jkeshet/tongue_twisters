@@ -8,6 +8,8 @@ if __name__ == "__main__":
     # command line arguments
     parser = argparse.ArgumentParser(description="This utility find the phoneme string from a name of a file.")
     parser.add_argument("filename", help="name of a file to process")
+    parser.add_argument("--begin", help="from num. repetitions", default=12, type=int)
+    parser.add_argument("--end", help="to num. repetitions", default=12, type=int)
     parser.add_argument("--debug", dest='debug_mode', help="extra verbosity", action='store_true')
     args = parser.parse_args()
 
@@ -23,43 +25,51 @@ if __name__ == "__main__":
         for row in mapping_file:
             [filename, pattern] = row.rstrip().split(",", 1)
             filename2pattern[filename] = "," + pattern
-            #print filename, "<->", filename2pattern[filename]
 
     # clean filename from its path
-    pfilename = basename(args.filename)
+    wav_filename = basename(args.filename)
 
     # and its extension
-    pfilename = splitext(pfilename)[0]
+    wav_filename = splitext(wav_filename)[0]
 
     # remove the first 4 characters at the beginning (subjID '001-'') and the last character at the end
-    pfilename = pfilename[4:-1]
+    wav_filename = wav_filename[4:-1]
 
-    if pfilename in filename2pattern:
-        pstring = filename2pattern[pfilename]
-        pstring = pstring.replace(",", " *")
-        pstring = pstring.replace(".", " ")
-        pstring = pstring.lstrip()
+    if wav_filename in filename2pattern:
+
+        # load string
+        pattern_string = filename2pattern[wav_filename]
+        pattern_string = pattern_string.rstrip()
+
+        # split into sub-strings
+        sub_patterns = pattern_string.split(",")[1:]
+
+        # convert each substring into phonemes
+        sub_patterns_phonemes = list()
+        for sub_pattern in sub_patterns:
+            phonemes = sub_pattern.split(".")
+            sub_patterns_phonemes.append(phonemes)
         if args.debug_mode:
-            print >> sys.stderr, "/%s/" % pstring
+            print >> sys.stderr, sub_patterns_phonemes
 
-        # add closure to some of the plosives
-        new_pstring = ""
-        phonemes = pstring.split(" ")
-        for i, phoneme in enumerate(phonemes):
-            if i == 0:
-                new_pstring = "SIL %s " % phoneme
-            elif phoneme in start_plosives:
-                new_pstring += "SIL %s " % phoneme
-            elif phoneme in other_plosives and phonemes[i - 1] not in nasals_and_liquids:
-                new_pstring += "SIL %s " % phoneme
-            else:
-                new_pstring += "%s " % phoneme
+        for num_reps in xrange(args.begin, args.end+1):
+            # generate a string with num_reps repetitions
+            new_pattern_string = ""
+            for i in xrange(num_reps):
+                pattern_id = i % 4
+                for j, p in enumerate(sub_patterns_phonemes[pattern_id]):
+                    if j == 0:
+                        new_pattern_string += "SIL *%s " % p
+                    elif p in other_plosives and sub_patterns_phonemes[pattern_id][j - 1] not in nasals_and_liquids:
+                        new_pattern_string += "SIL %s " % p
+                    else:
+                        new_pattern_string += "%s " % p
+            new_pattern_string += "SIL"
 
-        # convert phoneme to lowercase
-        pstring = new_pstring.lower()
+            # convert phoneme to lowercase and print
+            print new_pattern_string.lower()
 
-        # multiply by 3 and add /sil/ at the end
-        print "%s %s %s sil" % (pstring, pstring, pstring)
     else:
+
         print >> sys.stderr, "Error: unable to find phoneme mapping to %s (shortened to %s) in %s" % \
-                             (args.filename, pfilename, pattern_mapping_file)
+                             (args.filename, wav_filename, pattern_mapping_file)

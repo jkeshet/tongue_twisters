@@ -1,8 +1,8 @@
 
-
 import argparse
 from subprocess import call
 import os
+import sys
 import errno
 from textgrid import *
 
@@ -86,15 +86,14 @@ if __name__ == "__main__":
     B = "0.8"
     epochs = "1"
     pad = "1"
-    ##JK epochs = "3"
-    ##JK pad = "5"
+    # #pad = "5"
     # model filename
     phoneme_frame_based_model = "models/phoeneme_frame_based.pa1.C_%s.B_%s.sigma_%s.pad_%s.epochs_%s.model" % \
                                 (C, B, sigma, pad, epochs)
     easy_call("packages/forced_alignment/bin/PhonemeFrameBasedDecode -n %s -kernel_expansion rbf3 -sigma %s "
               "-mfcc_stats config/timit_mfcc.stats -averaging -scores %s %s null config/phonemes_39 %s "
               "> %s.phoneme_classifier_log" % (pad, sigma, scores_filelist, mfc_filelist, phoneme_frame_based_model, 
-                stem_path), args.debug_mode)
+                stem_path))
 
     # forced-aligned classifier parameters\
     beta1 = "0.01"
@@ -105,36 +104,69 @@ if __name__ == "__main__":
     eps = "1.1"
     forced_alignment_model = "models/forced_alignment.beta1_%s.beta2_%s.beta3_%s.gamma_%s.eps_%s.%s.model" % \
                              (beta1, beta2, beta3, min_sqrt_gamma, eps, loss)
+    ##forced_alignment_model = "models/forced_alignment.beta1_%s.beta2_%s.beta3_%s.gamma_%s.eps_%s.%s.pad_%s.epochs_%s.model" % \
+    ##                         (beta1, beta2, beta3, min_sqrt_gamma, eps, loss, pad, epochs)
     pred_align_filelist = "%s.pred_align_filelist" % stem_path
     with open(pred_align_filelist, 'w') as f:
         f.write(args.outout_textgrid)
-
     phonemes_filename = "%s.phonemes" % stem_path
     phonemes_filelist = "%s.phonemes_filelist" % stem_path
     with open(phonemes_filelist, 'w') as f:
         f.write(phonemes_filename)
+    log_filename = "%s.forced_alignment_log" % stem_path
+    phoneme_alternatives = list()
+    with open(args.phonemes_filename) as f:
+        for phoneme_alternative in f:
+            phoneme_alternatives.append(phoneme_alternative.rstrip())
+    if len(phoneme_alternatives) > 1:
+        # multiple phoneme alternatives
+        max_confidence = 0.0
+        max_phoneme_alternative = list()
+        for i, phoneme_alternative in enumerate(phoneme_alternatives):
+            # run over alternatives in the phonemes
+            phonemes_file = open(phonemes_filename, 'w')
+            # remove the signed * from the phonemes
+            phonemes_file.write(phoneme_alternative.rstrip().replace("*", ""))
+            phonemes_file.close()
+            # execute forced aligner
+            easy_call("packages/forced_alignment/bin/ForcedAlignmentDecode -beta1 %s -beta2 %s -beta3 %s "
+                      "-output_textgrid %s %s %s %s null config/phonemes_39 config/phonemes_39.stats %s "
+                      "> %s" % (beta1, beta2, beta3, pred_align_filelist, scores_filelist, dist_filelist,
+                                phonemes_filelist, forced_alignment_model, log_filename))
+            with open(log_filename, 'r') as g:
+                for line in g:
+                    if "aligned_phoneme_score" in line:
+                        if args.debug_mode:
+                            print >> sys.stderr, "num_patterns=", \
+                                len(phoneme_alternative.rstrip().replace("sil ", " ").replace("sil", "").split())/3.0,
+                            print >> sys.stderr, line,
+                        (dummy, confidence) = line.rstrip().split("=")
+                        confidence = float(confidence.lstrip())
+                        if confidence > max_confidence:
+                            max_confidence = confidence
+                            max_phoneme_alternative = phoneme_alternative
+                    elif "confidence" in line:
+                        if args.debug_mode:
+                            print >> sys.stderr, line,
+    else:
+        # single phoneme sequence
+        max_phoneme_alternative = phoneme_alternatives[0]
 
-    # remove the signed * from the phonemes
+    # run forced alignment again
     phonemes_file = open(phonemes_filename, 'w')
-    phonemes_file_with_sign = open(args.phonemes_filename)
-    for line in phonemes_file_with_sign:
-        phonemes_file.write(line.rstrip().replace("*", ""))
+    # remove the signed * from the phonemes
+    phonemes_file.write(max_phoneme_alternative.rstrip().replace("*", ""))
     phonemes_file.close()
-    phonemes_file_with_sign.close()
-
+    # execute forced aligner
+    if args.debug_mode:
+        print >> sys.stderr, "max_phoneme_alternative=", max_phoneme_alternative,
     easy_call("packages/forced_alignment/bin/ForcedAlignmentDecode -beta1 %s -beta2 %s -beta3 %s "
               "-output_textgrid %s %s %s %s null config/phonemes_39 config/phonemes_39.stats %s "
-              "> %s.forced_alignment_log" % (beta1, beta2, beta3, pred_align_filelist, scores_filelist,
-                                             dist_filelist, phonemes_filelist, forced_alignment_model, stem_path),
-              args.debug_mode)
+              "> %s" % (beta1, beta2, beta3, pred_align_filelist, scores_filelist, dist_filelist,
+                        phonemes_filelist, forced_alignment_model, log_filename))
 
     ## the code now handle the addition of the phonemes signed with *
-
-    # first read the original phoneme file
-    phonemes = list()
-    with open(args.phonemes_filename) as f:
-        for line in f:
-            phonemes += line.rstrip().split()
+    phonemes = max_phoneme_alternative.split()
 
     # read the textgrid tier called "Forced Alignment"
     textgrid = TextGrid()

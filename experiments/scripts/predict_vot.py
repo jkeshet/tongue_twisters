@@ -41,7 +41,8 @@ if __name__ == "__main__":
     preds_csv_filename = "%s/%s.csv" % (data_directory, stem)
     vot_classifier_model = 'models/vot_predictor.amanda.max_num_instances_1000.model'
     easy_call("auto_vot_decode.py --min_vot_length 5 --max_vot_length 500 --window_tier 'Processing Window' "
-              "%s %s %s  --csv_file %s" % (args.wav_filename, args.textgrid, vot_classifier_model, preds_csv_filename))
+              "%s %s %s  --csv_file %s" % (args.wav_filename, args.textgrid, vot_classifier_model,
+                                           preds_csv_filename))
 
     # read CSV file and output the results as a single line
     with open(preds_csv_filename, 'r') as preds_csv_file:
