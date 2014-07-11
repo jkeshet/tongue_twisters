@@ -12,5 +12,6 @@ experiments/scripts/forced_align.develop.py
 experiments/scripts/filename2phonemes.develop.py
 experiments/scripts/analyze_wav.develop.sh
 experiments/scripts/data/
+experiments/scripts/*pyc
 papers
 

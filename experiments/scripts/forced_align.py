@@ -30,23 +30,12 @@ def easy_call(command, debug_mode=False):
         exit(-1)
 
 
-if __name__ == "__main__":
-
-    # command line arguments
-    parser = argparse.ArgumentParser("Given a WAV file and its phonetic content, this script generates a TextGrid "
-                                     "with a tier called \"Forced Alignment\" that has the phonemes aligned with the "
-                                     "speech of the WAV.")
-    parser.add_argument("wav_filename", help="input WAV file name")
-    parser.add_argument("phonemes_filename", help="list of phoneme to align")
-    parser.add_argument("outout_textgrid", help="output TextGrid file name")
-    parser.add_argument("--debug", dest='debug_mode', help="extra verbosity", action='store_true')
-    args = parser.parse_args()
-
+def main(args_wav_filename, args_phonemes_filename, args_outout_textgrid, debug_mode):
     # data and temp directory
     data_directory = "data"
 
    # clean filename from its path
-    stem = os.path.basename(args.wav_filename)
+    stem = os.path.basename(args_wav_filename)
 
     # and its extension
     stem = os.path.splitext(stem)[0]
@@ -73,12 +62,11 @@ if __name__ == "__main__":
         f.write(scores_filename)
 
     # extract MFCC features
-    easy_call("packages/htk/HCopy -C config/wav_htk.config %s %s" % (args.wav_filename, mfc_filename), args.debug_mode)
+    easy_call("packages/htk/HCopy -C config/wav_htk.config %s %s" % (args_wav_filename, mfc_filename), debug_mode)
 
     # compute MFCC distance feature
-    easy_call("packages/forced_alignment/bin/htk_ceps_dist %s config/timit_mfcc.stats %s" % (mfc_filename,
-                                                                                             dist_filename),
-              args.debug_mode)
+    easy_call("packages/forced_alignment/bin/htk_ceps_dist %s config/timit_mfcc.stats %s" %
+              (mfc_filename, dist_filename), debug_mode)
 
     # frame-base phoneme classifier parameters
     sigma = "4.3589"
@@ -92,8 +80,8 @@ if __name__ == "__main__":
                                 (C, B, sigma, pad, epochs)
     easy_call("packages/forced_alignment/bin/PhonemeFrameBasedDecode -n %s -kernel_expansion rbf3 -sigma %s "
               "-mfcc_stats config/timit_mfcc.stats -averaging -scores %s %s null config/phonemes_39 %s "
-              "> %s.phoneme_classifier_log" % (pad, sigma, scores_filelist, mfc_filelist, phoneme_frame_based_model, 
-                stem_path))
+              "> %s.phoneme_classifier_log" % (pad, sigma, scores_filelist, mfc_filelist, phoneme_frame_based_model,
+                                               stem_path))
 
     # forced-aligned classifier parameters\
     beta1 = "0.01"
@@ -108,14 +96,14 @@ if __name__ == "__main__":
     ##                         (beta1, beta2, beta3, min_sqrt_gamma, eps, loss, pad, epochs)
     pred_align_filelist = "%s.pred_align_filelist" % stem_path
     with open(pred_align_filelist, 'w') as f:
-        f.write(args.outout_textgrid)
+        f.write(args_outout_textgrid)
     phonemes_filename = "%s.phonemes" % stem_path
     phonemes_filelist = "%s.phonemes_filelist" % stem_path
     with open(phonemes_filelist, 'w') as f:
         f.write(phonemes_filename)
     log_filename = "%s.forced_alignment_log" % stem_path
     phoneme_alternatives = list()
-    with open(args.phonemes_filename) as f:
+    with open(args_phonemes_filename) as f:
         for phoneme_alternative in f:
             phoneme_alternatives.append(phoneme_alternative.rstrip())
     if len(phoneme_alternatives) > 1:
@@ -136,7 +124,7 @@ if __name__ == "__main__":
             with open(log_filename, 'r') as g:
                 for line in g:
                     if "aligned_phoneme_score" in line:
-                        if args.debug_mode:
+                        if debug_mode:
                             print >> sys.stderr, "num_patterns=", \
                                 len(phoneme_alternative.rstrip().replace("sil ", " ").replace("sil", "").split())/3.0,
                             print >> sys.stderr, line,
@@ -146,7 +134,7 @@ if __name__ == "__main__":
                             max_confidence = confidence
                             max_phoneme_alternative = phoneme_alternative
                     elif "confidence" in line:
-                        if args.debug_mode:
+                        if debug_mode:
                             print >> sys.stderr, line,
     else:
         # single phoneme sequence
@@ -158,7 +146,7 @@ if __name__ == "__main__":
     phonemes_file.write(max_phoneme_alternative.rstrip().replace("*", ""))
     phonemes_file.close()
     # execute forced aligner
-    if args.debug_mode:
+    if debug_mode:
         print >> sys.stderr, "max_phoneme_alternative=", max_phoneme_alternative,
     easy_call("packages/forced_alignment/bin/ForcedAlignmentDecode -beta1 %s -beta2 %s -beta3 %s "
               "-output_textgrid %s %s %s %s null config/phonemes_39 config/phonemes_39.stats %s "
@@ -170,7 +158,7 @@ if __name__ == "__main__":
 
     # read the textgrid tier called "Forced Alignment"
     textgrid = TextGrid()
-    textgrid.read(args.outout_textgrid)
+    textgrid.read(args_outout_textgrid)
     tier_names = textgrid.tierNames()
     if "Forced Alignment" in tier_names:
         tier_index = tier_names.index("Forced Alignment")
@@ -178,6 +166,28 @@ if __name__ == "__main__":
         for i, interval in enumerate(textgrid[tier_index]):
             if textgrid[tier_index][i].mark() != '':
                 textgrid[tier_index][i]._Interval__mark = phonemes[i]
-        textgrid.write(args.outout_textgrid)
+        textgrid.write(args_outout_textgrid)
     else:
         print "Error: the tier 'Forced Alignment' was not found in %s" % args.textgrid_filename
+
+    #grep confidence data/$basename/$basename.forced_alignment_log | awk '{ printf "%f, ", $2 }'
+    with open(log_filename, 'r') as f:
+        for line in f:
+            if "confidence=" in line.rstrip().split():
+                confidence = float(line.rstrip().split()[1])
+    return confidence
+
+if __name__ == "__main__":
+
+    # command line arguments
+    parser = argparse.ArgumentParser("Given a WAV file and its phonetic content, this script generates a TextGrid "
+                                     "with a tier called \"Forced Alignment\" that has the phonemes aligned with the "
+                                     "speech of the WAV.")
+    parser.add_argument("wav_filename", help="input WAV file name")
+    parser.add_argument("phonemes_filename", help="list of phoneme to align")
+    parser.add_argument("outout_textgrid", help="output TextGrid file name")
+    parser.add_argument("--debug", dest='debug_mode', help="extra verbosity", action='store_true')
+    args = parser.parse_args()
+    main(args.wav_filename, args.phonemes_filename, args.outout_textgrid, args.debug_mode)
+
+

@@ -2,20 +2,12 @@
 import argparse
 from textgrid import *
 
-if __name__ == "__main__":
 
-    # command line arguments
-    parser = argparse.ArgumentParser("This utility adds a tier to the input TextGrid file which contains the "
-                                     "processing window used by the VOT predictor. This utility assumes that the "
-                                     "TextGrid contains a tier called \"Forced Alignment\", and locates the "
-                                     "processing windows around the phonemes labels that contain a * sign (like /*b/).")
-    parser.add_argument("textgrid", help="TextGrid file name")
-    parser.add_argument("--debug", dest='debug_mode', help="extra verbosity", action='store_true')
-    args = parser.parse_args()
+def main(args_textgrid, debug_mode):
 
     # read the whole input text grid
     textgrid = TextGrid()
-    textgrid.read(args.textgrid)
+    textgrid.read(args_textgrid)
     tier_names = textgrid.tierNames()
 
     # generate "Processing Window" tier by processing the
@@ -38,10 +30,10 @@ if __name__ == "__main__":
                 # of the current window, then fix the window
                 if current >= 1 and window_xmin[current] < window_xmax[previous]:
                     window_xmax[previous] = window_xmin[current]
-                    if args.debug_mode:
+                    if debug_mode:
                         print "fixing--> %f %f %s" % (window_xmin[previous], window_xmax[previous], window_mark[previous])
     else:
-        print "Error: the tier 'Forced Alignment' was not found in %s" % args.textgrid_filename
+        print "Error: the tier 'Forced Alignment' was not found in %s" % args_textgrid_filename
 
     # prepare TextGrid
     window_tier = IntervalTier(name='Processing Window', xmin=0.0, xmax=textgrid.xmax())
@@ -52,10 +44,23 @@ if __name__ == "__main__":
     window_tier.append(Interval(window_xmin[-1], window_xmax[-1], window_mark[-1]))
     window_tier.append(Interval(window_xmax[-1], textgrid.xmax(), ''))
 
-    if args.debug_mode:
+    if debug_mode:
         for interval in window_tier:
             if interval.mark():
                 print interval.xmin(), interval.xmax(), interval.xmax()-interval.xmin(), interval.mark()
 
     textgrid.append(window_tier)
-    textgrid.write(args.textgrid)
+    textgrid.write(args_textgrid)
+
+
+if __name__ == "__main__":
+
+    # command line arguments
+    parser = argparse.ArgumentParser("This utility adds a tier to the input TextGrid file which contains the "
+                                     "processing window used by the VOT predictor. This utility assumes that the "
+                                     "TextGrid contains a tier called \"Forced Alignment\", and locates the "
+                                     "processing windows around the phonemes labels that contain a * sign (like /*b/).")
+    parser.add_argument("textgrid", help="TextGrid file name")
+    parser.add_argument("--debug", dest='debug_mode', help="extra verbosity", action='store_true')
+    args = parser.parse_args()
+    main(args.textgrid, args.debug_mode)

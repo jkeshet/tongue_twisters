@@ -54,7 +54,7 @@ do
     if [ $debug ] ; then
         echo -e "\n** python scripts/filename2phonemes.py --begin $i --end $i $debug $basename > $phonemesfile"
     fi
-    python scripts/filename2phonemes.py --begin $i --end $i $debug $basename > $phonemesfile
+    python scripts/filename2phonemes.py --begin $i --end $i $debug $basename $phonemesfile
 
     # forced align the trascription against the WAV file
     if [ $debug ] ; then

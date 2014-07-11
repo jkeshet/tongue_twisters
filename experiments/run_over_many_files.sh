@@ -13,6 +13,6 @@ for ID in $@ ; do
 	find /Datasets/Goldrick/Jeremy/Twister_Recordings/wavs.cropped  -name "$ID*.wav" | while read file
 	do
 		echo "----- $file -----"
-		scripts/analyze_wav.sh $file | tee -a $LOG
+		python scripts/analyze_wav.py $file | tee -a $LOG
 	done
 done

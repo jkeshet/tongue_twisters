@@ -3,15 +3,8 @@ import argparse
 from os.path import basename, splitext
 import sys
 
-if __name__ == "__main__":
 
-    # command line arguments
-    parser = argparse.ArgumentParser(description="This utility find the phoneme string from a name of a file.")
-    parser.add_argument("filename", help="name of a file to process")
-    parser.add_argument("--begin", help="from num. repetitions", default=12, type=int)
-    parser.add_argument("--end", help="to num. repetitions", default=12, type=int)
-    parser.add_argument("--debug", dest='debug_mode', help="extra verbosity", action='store_true')
-    args = parser.parse_args()
+def main(args_in_filename, args_out_filename, args_begin, args_end, debug_mode):
 
     # variales used
     pattern_mapping_file = "config/Script-phon.csv"
@@ -27,7 +20,7 @@ if __name__ == "__main__":
             filename2pattern[filename] = "," + pattern
 
     # clean filename from its path
-    wav_filename = basename(args.filename)
+    wav_filename = basename(args_in_filename)
 
     # and its extension
     wav_filename = splitext(wav_filename)[0]
@@ -49,10 +42,10 @@ if __name__ == "__main__":
         for sub_pattern in sub_patterns:
             phonemes = sub_pattern.split(".")
             sub_patterns_phonemes.append(phonemes)
-        if args.debug_mode:
+        if debug_mode:
             print >> sys.stderr, sub_patterns_phonemes
 
-        for num_reps in xrange(args.begin, args.end+1):
+        for num_reps in xrange(args_begin, args_end+1):
             # generate a string with num_reps repetitions
             new_pattern_string = ""
             for i in xrange(num_reps):
@@ -67,9 +60,26 @@ if __name__ == "__main__":
             new_pattern_string += "SIL"
 
             # convert phoneme to lowercase and print
-            print new_pattern_string.lower()
+            with open(args_out_filename, 'w') as f:
+                f.write(new_pattern_string.lower())
+        return new_pattern_string.lower()
 
     else:
 
         print >> sys.stderr, "Error: unable to find phoneme mapping to %s (shortened to %s) in %s" % \
-                             (args.filename, wav_filename, pattern_mapping_file)
+                             (args_in_filename, wav_filename, pattern_mapping_file)
+        return ""
+
+
+if __name__ == "__main__":
+
+    # command line arguments
+    parser = argparse.ArgumentParser(description="This utility find the phoneme string from a name of a file.")
+    parser.add_argument("in_filename", help="name of a file to process")
+    parser.add_argument("out_filename", help="name of output file")
+    parser.add_argument("--begin", help="from num. repetitions", default=12, type=int)
+    parser.add_argument("--end", help="to num. repetitions", default=12, type=int)
+    parser.add_argument("--debug", dest='debug_mode', help="extra verbosity", action='store_true')
+    args = parser.parse_args()
+    pattern_phoneme_string = main(args.in_filename, args.out_filename, args.begin, args.end, args.debug_mode)
+    print pattern_phoneme_string
