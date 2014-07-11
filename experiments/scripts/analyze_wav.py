@@ -96,7 +96,7 @@ if __name__ == "__main__":
                                                 args.debug_mode)
     print >>sys.stderr, "Info: score= %f conf= %f" % (max_score, arg_max_conf)
     arg_max_score = num_reps
-    if max_score < 0.0035:
+    if max_score > 0.0035:
         # find best alignment for number of repetitions between 7 and 16
         for num_reps in range(7, 16+1):
             print >>sys.stderr, "Info: running alignment with %d repetitions" % num_reps
