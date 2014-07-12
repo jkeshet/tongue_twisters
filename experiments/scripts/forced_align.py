@@ -153,7 +153,6 @@ def main(args_wav_filename, args_phonemes_filename, args_outout_textgrid, debug_
     # execute forced aligner
     if debug_mode:
         print >> sys.stderr, "max_phoneme_alternative=", max_phoneme_alternative,
-    print >> sys.stderr, ""
     easy_call("packages/forced_alignment/bin/ForcedAlignmentDecode -beta1 %s -beta2 %s -beta3 %s "
               "-output_textgrid %s %s %s %s null config/phonemes_39 config/phonemes_39.stats %s "
               "> %s" % (beta1, beta2, beta3, pred_align_filelist, scores_filelist, dist_filelist,
@@ -181,7 +180,8 @@ def main(args_wav_filename, args_phonemes_filename, args_outout_textgrid, debug_
         for line in f:
             if "confidence=" in line.rstrip().split():
                 confidence = float(line.rstrip().split()[1])
-    return confidence
+                return confidence
+
 
 if __name__ == "__main__":
 
@@ -195,5 +195,3 @@ if __name__ == "__main__":
     parser.add_argument("--debug", dest='debug_mode', help="extra verbosity", action='store_true')
     args = parser.parse_args()
     main(args.wav_filename, args.phonemes_filename, args.outout_textgrid, args.debug_mode)
-
-

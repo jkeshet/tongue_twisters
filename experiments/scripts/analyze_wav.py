@@ -92,29 +92,29 @@ if __name__ == "__main__":
     # get alignment score of standard 12 repetitions
     num_reps = 12
     print >>sys.stderr, "Info: running alignment with %d repetitions" % num_reps
-    (max_score, arg_max_conf) = alignment_score(wav16_filename, phonemes_filename, textgrid_filename, num_reps,
+    (min_score, arg_min_conf) = alignment_score(wav16_filename, phonemes_filename, textgrid_filename, num_reps,
                                                 args.debug_mode)
-    print >>sys.stderr, "Info: score= %f conf= %f" % (max_score, arg_max_conf)
-    arg_max_score = num_reps
-    if max_score > 0.0035:
+    print >>sys.stderr, "Info: score= %f conf= %f" % (min_score, arg_min_conf)
+    arg_min_score = num_reps
+    if min_score > 0.0035:
         # find best alignment for number of repetitions between 7 and 16
         for num_reps in range(7, 16+1):
             print >>sys.stderr, "Info: running alignment with %d repetitions" % num_reps
             (score, conf) = alignment_score(wav16_filename, phonemes_filename, textgrid_filename, num_reps,
                                             args.debug_mode)
             print >>sys.stderr, "Info: score= %f conf= %f" % (score, conf)
-            if score > max_score:
-                max_score = score
-                arg_max_score = num_reps
-                arg_max_conf = conf
-        print >>sys.stderr, "Info: the best alignment found for %d patterns." % arg_max_score
-    shutil.copy2("%s.%d" % (textgrid_filename, arg_max_score), textgrid_filename)
+            if score < min_score:
+                min_score = score
+                arg_min_score = num_reps
+                arg_min_conf = conf
+        print >>sys.stderr, "Info: the best alignment found for %d patterns." % arg_min_score
+    shutil.copy2("%s.%d" % (textgrid_filename, arg_min_score), textgrid_filename)
 
     # predict location of VOT based on the forced aligned stop consonants
     predicted_vots = predict_vot.main(wav16_filename, textgrid_filename, args.debug_mode)
 
     # generates a log file
-    print "%s, %f, %f, %s" % (basename, arg_max_conf, max_score, predicted_vots)
+    print "%s, %f, %f, %s" % (basename, arg_min_conf, min_score, predicted_vots)
 
     if args.debug_mode:
         shutil.rmtree('data/%s/' % basename)
