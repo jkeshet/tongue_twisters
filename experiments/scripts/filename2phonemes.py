@@ -6,6 +6,10 @@ import sys
 
 def main(args_in_filename, args_out_filename, args_begin, args_end, debug_mode):
 
+    if debug_mode:
+        print >>sys.stderr, "** python scripts/filename2phonemes.py --begin %d --end %d %s %s " % \
+            (args_begin, args_end, args_in_filename, args_out_filename)
+
     # variales used
     pattern_mapping_file = "config/Script-phon.csv"
     other_plosives = ['B', 'D', 'G', 'K', 'P', 'T']
@@ -43,7 +47,7 @@ def main(args_in_filename, args_out_filename, args_begin, args_end, debug_mode):
             phonemes = sub_pattern.split(".")
             sub_patterns_phonemes.append(phonemes)
         if debug_mode:
-            print >> sys.stderr, sub_patterns_phonemes
+            print >> sys.stderr, "Info: %s" % sub_patterns_phonemes
 
         for num_reps in xrange(args_begin, args_end+1):
             # generate a string with num_reps repetitions

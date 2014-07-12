@@ -52,7 +52,7 @@ for i in `seq 7 16`;
 do
     # find the template transciption
     if [ $debug ] ; then
-        echo -e "\n** python scripts/filename2phonemes.py --begin $i --end $i $debug $basename > $phonemesfile"
+        echo -e "\n** python scripts/filename2phonemes.py --begin $i --end $i $debug $basename $phonemesfile"
     fi
     python scripts/filename2phonemes.py --begin $i --end $i $debug $basename $phonemesfile
 

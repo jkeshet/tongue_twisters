@@ -2,11 +2,11 @@
 diary off;
 diary('final_stats.log');
 
-speaker_id = {'001','002','003','004','006','007','008','009','010','011','012','014','015','017',...
+speaker_id = {'001','002','003','004','006','007','','014','015','017',...
   '018','019','020','021','022','023','024','025','026','028','029','030','031','032','033','034',...
   '035','036','037','038','039','040','041','042','043','046'};
 
-speaker_id = {'001','002','003','004','006','007','008','009','010','011','012','019'};
+%speaker_id = {'001','002','003','004','006','007','008','009','010','011','012','019'};
 
 overall_vots = 0;
 overall_vot_good = 0;
@@ -34,6 +34,7 @@ for s=1:length(speaker_id)
   fid2 = fopen(log_filename,'r');
   tline = fgetl(fid2);
   while ischar(tline)
+      disp(tline);
     line_fields = strsplit(tline, ',');
     %disp([ num2str(nn), ' ', num2str(numel(line_fields))])
     alignment_confidence = str2double(line_fields{2});

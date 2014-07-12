@@ -1,9 +1,13 @@
 
 import argparse
+import sys
 from textgrid import *
 
 
-def main(textgrid_filename):
+def main(textgrid_filename, debug_mode):
+
+    if debug_mode:
+        print >>sys.stderr, "** python scripts/alignment_confidence.py %s" % textgrid_filename
 
     tier_name = "Processing Window"
     textgrid = TextGrid()
@@ -54,7 +58,8 @@ if __name__ == "__main__":
     # command line arguments
     parser = argparse.ArgumentParser()
     parser.add_argument("textgrid_filename", help="TextGrid to be examined")
+    parser.add_argument("--debug", dest='debug_mode', help="extra verbosity", action='store_true')
     args = parser.parse_args()
 
-    mse = main(args.textgrid_filename)
+    mse = main(args.textgrid_filename, args.debug_mode)
     print mse

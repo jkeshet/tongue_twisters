@@ -50,7 +50,7 @@ def alignment_score(wav16_filename, phonemes_filename, textgrid_filename, num_re
     locate_processing_windows.main(textgrid_filename, debug_mode)
 
     # check the alignment confidence
-    score = alignment_confidence.main(textgrid_filename)
+    score = alignment_confidence.main(textgrid_filename, debug_mode)
 
     return score, conf
 
@@ -114,7 +114,7 @@ if __name__ == "__main__":
     predicted_vots = predict_vot.main(wav16_filename, textgrid_filename, args.debug_mode)
 
     # generates a log file
-    print "%s, %f, %f, %s" % (basename, arg_max_conf, arg_max_score, predicted_vots)
+    print "%s, %f, %f, %s" % (basename, arg_max_conf, max_score, predicted_vots)
 
     if args.debug_mode:
         shutil.rmtree('data/%s/' % basename)

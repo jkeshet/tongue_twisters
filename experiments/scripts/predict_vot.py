@@ -2,7 +2,7 @@
 import argparse
 from subprocess import call
 import os
-
+import sys
 
 def easy_call(command, debug_mode=False):
     try:
@@ -18,6 +18,9 @@ def easy_call(command, debug_mode=False):
 
 
 def main(args_wav_filename, args_textgrid, debug_mode):
+
+    if debug_mode:
+        print >>sys.stderr, "** python scripts/predict_vot.py %s %s " % (args_wav_filename, args_textgrid)
 
     # data and temp directory
     data_directory = "data"

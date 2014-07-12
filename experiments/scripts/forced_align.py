@@ -20,7 +20,7 @@ def mkdir_p(path):
 def easy_call(command, debug_mode=False):
     try:
         if debug_mode:
-            print command
+            print >>sys.stderr, command
         call(command, shell=True)
     except Exception as exception:
         print "Error: could not execute the following"
@@ -31,6 +31,11 @@ def easy_call(command, debug_mode=False):
 
 
 def main(args_wav_filename, args_phonemes_filename, args_outout_textgrid, debug_mode):
+
+    if debug_mode:
+        print >>sys.stderr, "** python scripts/forced_align.py $wav16file %s %s %s " % \
+            (args_wav_filename, args_phonemes_filename, args_outout_textgrid)
+
     # data and temp directory
     data_directory = "data"
 
@@ -148,6 +153,7 @@ def main(args_wav_filename, args_phonemes_filename, args_outout_textgrid, debug_
     # execute forced aligner
     if debug_mode:
         print >> sys.stderr, "max_phoneme_alternative=", max_phoneme_alternative,
+    print >> sys.stderr, ""
     easy_call("packages/forced_alignment/bin/ForcedAlignmentDecode -beta1 %s -beta2 %s -beta3 %s "
               "-output_textgrid %s %s %s %s null config/phonemes_39 config/phonemes_39.stats %s "
               "> %s" % (beta1, beta2, beta3, pred_align_filelist, scores_filelist, dist_filelist,

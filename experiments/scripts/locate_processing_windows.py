@@ -1,9 +1,13 @@
 
 import argparse
+import sys
 from textgrid import *
 
 
 def main(args_textgrid, debug_mode):
+
+    if debug_mode:
+        print >>sys.stderr, "** python scripts/locate_processing_windows.py %s" % args_textgrid
 
     # read the whole input text grid
     textgrid = TextGrid()
@@ -31,7 +35,8 @@ def main(args_textgrid, debug_mode):
                 if current >= 1 and window_xmin[current] < window_xmax[previous]:
                     window_xmax[previous] = window_xmin[current]
                     if debug_mode:
-                        print "fixing--> %f %f %s" % (window_xmin[previous], window_xmax[previous], window_mark[previous])
+                        print >>sys.stderr, "fixing--> %f %f %s" % (window_xmin[previous], window_xmax[previous],
+                                                                    window_mark[previous])
     else:
         print "Error: the tier 'Forced Alignment' was not found in %s" % args_textgrid_filename
 
@@ -47,7 +52,7 @@ def main(args_textgrid, debug_mode):
     if debug_mode:
         for interval in window_tier:
             if interval.mark():
-                print interval.xmin(), interval.xmax(), interval.xmax()-interval.xmin(), interval.mark()
+                print >>sys.stderr, interval.xmin(), interval.xmax(), interval.xmax()-interval.xmin(), interval.mark()
 
     textgrid.append(window_tier)
     textgrid.write(args_textgrid)
