@@ -14,4 +14,4 @@ experiments/scripts/analyze_wav.develop.sh
 experiments/scripts/data/
 experiments/scripts/*pyc
 papers
-
+*.DS_Store*
