@@ -116,5 +116,5 @@ if __name__ == "__main__":
     # generates a log file
     print "%s, %f, %f, %s" % (basename, arg_min_conf, min_score, predicted_vots)
 
-    if args.debug_mode:
+    if not args.debug_mode:
         shutil.rmtree('data/%s/' % basename)
