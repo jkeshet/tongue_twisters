@@ -42,7 +42,7 @@ for s=1:length(speaker_id)
     %disp([ num2str(nn), ' ', num2str(numel(line_fields))])
     alignment_confidence = str2double(line_fields{2});
     mse_score = str2double(line_fields{3});
-    if  alignment_confidence > 11.0 || mse_score > 0.00535 % or 0.00306
+    if  alignment_confidence > 11.0 || alignment_confidence < 5.0 || mse_score > 0.00535  % or 0.00306
       fprintf(fid, '%s\n', line_fields{1});
       num_bad_alignment = num_bad_alignment + 1;
     else
