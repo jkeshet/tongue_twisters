@@ -90,8 +90,8 @@ for s=1:length(speaker_id)
   overall_prevoicing = overall_prevoicing + num_prevoicing;
   
   % plot histogram
-  %%figure(1), hist(vots, num_bins), title(['Speaker ' speaker_id{s}])
-  %%axis([0 0.18 0 350])
+  %figure(1), hist(vots, num_bins), title(['Speaker ' speaker_id{s}])
+  %axis([0 0.18 0 150])
   %%print('-dpdf',[speaker_id{s} '.pdf'])
   %%pause
 end
