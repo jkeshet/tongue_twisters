@@ -1,0 +1,31 @@
+auto_vot_performance.py reliability_erin.tg_filelist reliability_predicted.tg_filelist vot AutoVOT
+
+WARNING:root:The length of /Datasets/Goldrick/Jeremy/split_wavs_long/reliability_12-16-2013/014-pdm03ABABb1-Erin.TextGrid (11) and of /Users/jkeshet/Projects/tongue_twisters/experiments/data/014-pdm03ABABb1.TextGrid (12) do not match. Skipping those files
+
+
+Evaluating labeled vs. predicted VOTs, using:
+- labeled VOTs: 'vot' tier in /Users/jkeshet/Projects/tongue_twisters/experiments/reliability_erin.tg_filelist
+- predicted VOTs: 'AutoVOT' tier in /Users/jkeshet/Projects/tongue_twisters/experiments/reliability_predicted.tg_filelist
+
+Correlations (Pearson/Spearman) between predicted/labeled:
+-------------
+Left edge (burst onset):  0.99987823762 / 0.99954955525
+Right edge (voicing onset):  0.999806397094 / 0.999121236223
+VOTs:  0.813972342273 / 0.999121236223
+
+(Note: if the Pearson and Spearman correlations differ much,
+you probably have outliers which are strongly influencing Pearson's R)
+
+Mean, standard deviation of labeled/predicted difference:
+------------------------------
+VOT: 7.4435233882 msec, 14.688719278 msec
+
+Percentage of examples with labeled/predicted VOT difference of at most:
+------------------------------
+2 msec:  37.8205128205
+5 msec:  66.6666666667
+10 msec:  88.4615384615
+15 msec:  91.0256410256
+20 msec:  92.9487179487
+25 msec:  94.2307692308
+50 msec:  95.5128205128
