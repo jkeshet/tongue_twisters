@@ -18,12 +18,7 @@ overall_prevoicing = 0;
 % run over all speakers
 for s=1:length(speaker_id)
   % load speaker's log file
-  log_filename = ['../logs/Twister_Recordings.' speaker_id{s} '.log'];
-  %   log_fid = fopen(log_filename, 'rt');
-  %   log_data = textscan(log_fid, '%s %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f %f', ...
-  %     'delimiter', ',');
-  %   fclose(log_fid);
-  
+  log_filename = ['../logs/Twister_Recordings.' speaker_id{s} '.log'];  
   num_vot_good = 0;
   num_vot_zero = 0;
   num_vot_short = 0;

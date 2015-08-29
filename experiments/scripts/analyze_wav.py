@@ -97,7 +97,7 @@ if __name__ == "__main__":
     print >>sys.stderr, "Info: score= %f conf= %f" % (min_score, arg_min_conf)
     arg_min_score = num_reps
     if min_score > 0.0035:
-        # find best alignment for number of repetitions between 7 and 16
+        # find best alignment for number of repetitions between 7 and 14
         for num_reps in range(7, 14+1):
             print >>sys.stderr, "Info: running alignment with %d repetitions" % num_reps
             (score, conf) = alignment_score(wav16_filename, phonemes_filename, textgrid_filename, num_reps,
